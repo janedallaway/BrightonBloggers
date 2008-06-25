@@ -6,7 +6,11 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 </head>
 <body>
 <outline text="Brighton Bloggers" >
- <outline text="" htmlUrl="" title="" xmlUrl="http://www.mattanddebz.com/?feed=atom"/>
+ <outline text="" htmlUrl="" title="" xmlUrl="http://www.four0four.net/?feed=rss2"/>
+
+    <outline text="" htmlUrl="" title="" xmlUrl="http://www.davephelan.org/blog/index.php/feed/"/>
+
+    <outline text="" htmlUrl="" title="" xmlUrl="http://www.mattanddebz.com/?feed=atom"/>
 
     <outline text="" htmlUrl="" title="" xmlUrl="http://bethgranter.com/blog/?feed=atom"/>
 
@@ -50,6 +54,8 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Alexs Travel Blog" htmlUrl="http://www.alexasigno.co.uk" title="Alexs Travel Blog" xmlUrl="http://www.alexasigno.co.uk/feed/"/>
 
+    <outline text="All Posts Moved To http://neilharding.blogspot.com" htmlUrl="http://brightonregencylabourparty.blogspot.com/" title="All Posts Moved To http://neilharding.blogspot.com" xmlUrl="http://brightonregencylabourparty.blogspot.com/atom.xml"/>
+
     <outline text="AlphaOne Computing Knowledgebase" htmlUrl="http://kbase.alphaone-comp.com/" title="AlphaOne Computing Knowledgebase" xmlUrl="http://www.alphaone-comp.com/kbase/index.xml"/>
 
     <outline text="Always Looking Upwards" htmlUrl="http://daisydunkeld.com/blog/index.php" title="Always Looking Upwards" xmlUrl="http://daisydunkeld.com/rss/posts.xml"/>
@@ -66,8 +72,6 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Assistant Blog" htmlUrl="http://assistantbrighton.blogspot.com/" title="Assistant Blog" xmlUrl="http://assistantbrighton.blogspot.com/atom.xml"/>
 
-    <outline text="Authentic Blogging" htmlUrl="http://authenticblogging.com" title="Authentic Blogging" xmlUrl="http://authenticblogging.com/feed/"/>
-
     <outline text="azuredreams" htmlUrl="http://azuredreams.typepad.com/my_weblog/" title="azuredreams" xmlUrl="http://azuredreams.typepad.com/my_weblog/index.rdf"/>
 
     <outline text="B right on the money" htmlUrl="http://brightonthemoney.wordpress.com" title="B right on the money" xmlUrl="http://brightonthemoney.wordpress.com/feed/"/>
@@ -78,13 +82,15 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Beesnthings Blog" htmlUrl="http://beesnthings.blogspot.com/" title="Beesnthings Blog" xmlUrl="http://beesnthings.blogspot.com/atom.xml"/>
 
+    <outline text="Beth Granter" htmlUrl="http://bethgranter.wordpress.com" title="Beth Granter" xmlUrl="http://feeds.feedburner.com/bethgranter"/>
+
     <outline text="Bloggers4Labour" htmlUrl="http://www.bloggers4labour.org/index.jsp" title="Bloggers4Labour" xmlUrl="http://www.bloggers4labour.org/atom.xml"/>
 
     <outline text="Blogging Baggins!" htmlUrl="http://baggins-at-bag-end.blogspot.com/" title="Blogging Baggins!" xmlUrl="http://baggins-at-bag-end.blogspot.com/rss.xml"/>
 
     <outline text="Blogging for Blaker's" htmlUrl="http://blakerspark.blogspot.com/" title="Blogging for Blaker's" xmlUrl="http://blakerspark.blogspot.com/atom.xml"/>
 
-    <outline text="BooksThatMatter" htmlUrl="http://booksthatmatter.blogspot.com/" title="BooksThatMatter" xmlUrl="http://booksthatmatter.blogspot.com/atom.xml"/>
+    <outline text="BooksThatMatter (Adrian's Random Rubbish)..." htmlUrl="http://booksthatmatter.blogspot.com/" title="BooksThatMatter (Adrian's Random Rubbish)..." xmlUrl="http://booksthatmatter.blogspot.com/atom.xml"/>
 
     <outline text="Brain Off" htmlUrl="http://brainoff.com/weblog" title="Brain Off" xmlUrl="http://brainoff.com/weblog/rss.xml"/>
 
@@ -107,8 +113,6 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="Brighton Girl Geek Dinners" htmlUrl="http://www.brightongirlgeekdinners.co.uk/" title="Brighton Girl Geek Dinners" xmlUrl="http://feeds.feedburner.com/rosiesherry/girlgeek"/>
 
     <outline text="Brighton Open Development Group" htmlUrl="http://zenbullets.com/open" title="Brighton Open Development Group" xmlUrl="http://zenbullets.com/open/?feed=atom"/>
-
-    <outline text="BRIGHTON REGENCY LABOUR SUPPORTER" htmlUrl="http://brightonregencylabourparty.blogspot.com/" title="BRIGHTON REGENCY LABOUR SUPPORTER" xmlUrl="http://brightonregencylabourparty.blogspot.com/atom.xml"/>
 
     <outline text="Brighton's Best Clubs" htmlUrl="http://brightonclubs.blogspot.com/" title="Brighton's Best Clubs" xmlUrl="http://brightonclubs.blogspot.com/atom.xml"/>
 
@@ -200,11 +204,11 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Four And Up" htmlUrl="http://daisydunkeld.com/blog" title="Four And Up" xmlUrl="http://daisydunkeld.com/blog/?feed=rss2"/>
 
-    <outline text="four0four.net" htmlUrl="http://www.four0four.net" title="four0four.net" xmlUrl="http://www.four0four.net/?feed=rss2"/>
-
     <outline text="Fred's blog" htmlUrl="http://fredpipes.blogspot.com/" title="Fred's blog" xmlUrl="http://feeds.feedburner.com/FredsBlog"/>
 
     <outline text="Frenchy" htmlUrl="http://andyjamesnelson.blogspot.com/" title="Frenchy" xmlUrl="http://andyjamesnelson.blogspot.com/atom.xml"/>
+
+    <outline text="Fresh air and new meaning in a safe space" htmlUrl="http://shirrk.blogspot.com/" title="Fresh air and new meaning in a safe space" xmlUrl="http://shirrk.blogspot.com/feeds/posts/default#stream/feed%2Fhttp%3A%2F%2Fshirrk.blogspot.com%2Ffeeds%2Fposts%2Fdefault"/>
 
     <outline text="FroggBlog - Search Marketing Blog" htmlUrl="http://froggblog.leapfrogg.co.uk/" title="FroggBlog - Search Marketing Blog" xmlUrl="http://froggblog.leapfrogg.co.uk/feeds/posts/default"/>
 
@@ -214,7 +218,7 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Gabs Cubic Space" htmlUrl="http://cubicspaces.blogspot.com/" title="Gabs Cubic Space" xmlUrl="http://cubicspaces.blogspot.com/rss.xml"/>
 
-    <outline text="Gastronaut" htmlUrl="http://www.brightongastronaut.com" title="Gastronaut" xmlUrl="http://feeds.feedburner.com/gastronautuk"/>
+    <outline text="gastronaut" htmlUrl="http://www.brightongastronaut.com" title="gastronaut" xmlUrl="http://feeds.feedburner.com/gastronautuk"/>
 
     <outline text="GeekLAN" htmlUrl="http://www.geeklan.co.uk" title="GeekLAN" xmlUrl="http://www.geeklan.co.uk/wp-rss2.php"/>
 
@@ -236,7 +240,7 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="I was a teenage raver" htmlUrl="http://ravytrain.blogspot.com/" title="I was a teenage raver" xmlUrl="http://ravytrain.blogspot.com/atom.xml"/>
 
-    <outline text="iestyn lloyd" htmlUrl="http://iestyn.net/wp" title="iestyn lloyd" xmlUrl="http://iestyn.net/wp/feed/"/>
+    <outline text="iestyn.net" htmlUrl="http://www.iestyn.net/wp" title="iestyn.net" xmlUrl="http://iestyn.net/wp/feed/"/>
 
     <outline text="ILoveJackDaniels.com" htmlUrl="http://www.ilovejackdaniels.com/" title="ILoveJackDaniels.com" xmlUrl="http://www.ilovejackdaniels.com/rss.php"/>
 
@@ -248,8 +252,6 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="InformationMatters" htmlUrl="http://informationmatters.net" title="InformationMatters" xmlUrl="http://informationmatters.net/feed/atom/"/>
 
-    <outline text="Insufficient Time" htmlUrl="http://www.davephelan.org/blog" title="Insufficient Time" xmlUrl="http://www.davephelan.org/blog/index.php/feed/"/>
-
     <outline text="International Bicycle Thief" htmlUrl="http://international-bicycle-thief.blogspot.com/" title="International Bicycle Thief" xmlUrl="http://international-bicycle-thief.blogspot.com/rss.xml"/>
 
     <outline text="Into The Machine" htmlUrl="http://intothemachine.blogspot.com/" title="Into The Machine" xmlUrl="http://intothemachine.blogspot.com/atom.xml"/>
@@ -258,7 +260,7 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="It's Nice That" htmlUrl="http://www.itsnicethat.com/" title="It's Nice That" xmlUrl="http://www.itsnicethat.com/index.php?atom=1"/>
 
-    <outline text="Jabbering Giraffe" htmlUrl="http://happygiraffe.net/blog/" title="Jabbering Giraffe" xmlUrl="http://happygiraffe.net/blog/xml/atom/feed.xml"/>
+    <outline text="Jabbering Giraffe :" htmlUrl="http://happygiraffe.net" title="Jabbering Giraffe :" xmlUrl="http://happygiraffe.net/blog/xml/atom/feed.xml"/>
 
     <outline text="Jane and Richard's Yak and Natter" htmlUrl="http://www.janeandrichard.co.uk/" title="Jane and Richard's Yak and Natter" xmlUrl="http://www.janeandrichard.co.uk/blog/index.xml?style=rss1.xsl"/>
 
@@ -272,7 +274,11 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Josh Russell" htmlUrl="http://www.joshrussell.com" title="Josh Russell" xmlUrl="http://www.joshrussell.com/feed/"/>
 
+    <outline text="jugglingwithwater" htmlUrl="http://jugglingwithwater.blogspot.com/" title="jugglingwithwater" xmlUrl="http://jugglingwithwater.blogspot.com/feeds/posts/default"/>
+
     <outline text="Kate's Copywriting Blog" htmlUrl="http://www.helpinthecity.com/blog" title="Kate's Copywriting Blog" xmlUrl="http://www.helpinthecity.com/blog/feed/atom"/>
+
+    <outline text="Kendall Copywriting Ltd" htmlUrl="http://kendallcopywriting.co.uk" title="Kendall Copywriting Ltd" xmlUrl="http://feeds.feedburner.com/co/ydDT"/>
 
     <outline text="Kindle Research" htmlUrl="http://www.kindleresearch.com" title="Kindle Research" xmlUrl="http://www.kindleresearch.com/?feed=rss2"/>
 
@@ -286,7 +292,7 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Liberate Media" htmlUrl="http://liberatemedia.typepad.com/liberate_media/" title="Liberate Media" xmlUrl="http://liberatemedia.typepad.com/liberate_media/atom.xml"/>
 
-    <outline text="Life on Mars" htmlUrl="http://20six.co.uk/martian77" title="Life on Mars" xmlUrl="http://20six.co.uk/martian77/rss"/>
+    <outline text="Life on Mars" htmlUrl="http://martian77.20six.co.uk" title="Life on Mars" xmlUrl="http://20six.co.uk/martian77/rss"/>
 
     <outline text="Life-World" htmlUrl="http://provisional.typepad.com/lifeworld/" title="Life-World" xmlUrl="http://provisional.typepad.com/lifeworld/index.rdf"/>
 
@@ -334,6 +340,10 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Nobody's Friend" htmlUrl="http://nobodysfriend.blogspot.com/" title="Nobody's Friend" xmlUrl="http://nobodysfriend.blogspot.com/feeds/posts/default"/>
 
+    <outline text="nodestone" htmlUrl="http://nodestone.com" title="nodestone" xmlUrl="http://authenticblogging.com/feed/"/>
+
+    <outline text="nodestone" htmlUrl="http://nodestone.com" title="nodestone" xmlUrl="http://presencelabs.com/feed/"/>
+
     <outline text="not IMHO" htmlUrl="http://memetherapy.blogspot.com/" title="not IMHO" xmlUrl="http://memetherapy.blogspot.com/rss.xml"/>
 
     <outline text="NULL" htmlUrl="NULL" title="NULL" xmlUrl="http://chillicheese.photo-blogger.net/?feed=rss2"/>
@@ -362,8 +372,6 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Powerful Pierre holds forth" htmlUrl="http://powerfulpierre.blogspot.com/" title="Powerful Pierre holds forth" xmlUrl="http://powerfulpierre.blogspot.com/atom.xml"/>
 
-    <outline text="Presence Labs" htmlUrl="http://presencelabs.com" title="Presence Labs" xmlUrl="http://presencelabs.com/feed/"/>
-
     <outline text="Pub Scene - Brighton &amp; Hove Pubs" htmlUrl="http://www.pubscene.co.uk" title="Pub Scene - Brighton &amp; Hove Pubs" xmlUrl="http://www.pubscene.co.uk/feed/"/>
 
     <outline text="quinparker.com" htmlUrl="http://www.quinparker.com/" title="quinparker.com" xmlUrl="http://www.quinparker.com/rss/index.xml"/>
@@ -377,6 +385,8 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="Richard's technical notes" htmlUrl="http://blog.spiralarm.com/richard/" title="Richard's technical notes" xmlUrl="http://blog.spiralarm.com/richard/atom.xml"/>
 
     <outline text="Robotperson" htmlUrl="http://robotperson.com" title="Robotperson" xmlUrl="http://robotperson.com/?feed=rss2"/>
+
+    <outline text="Rosie Land" htmlUrl="http://rosiesherry.com/posing" title="Rosie Land" xmlUrl="http://feeds.feedburner.com/RosieSherry"/>
 
     <outline text="Rosie Sanger" htmlUrl="http://www.rosiesanger.com" title="Rosie Sanger" xmlUrl="http://www.rosiesanger.com/feed/"/>
 
@@ -404,8 +414,6 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Sinusoida photography ;)" htmlUrl="http://www.dnna.net/sinusoida" title="Sinusoida photography ;)" xmlUrl="http://www.dnna.net/sinusoida/rss.xml"/>
 
-    <outline text="Software Testing Blog - Rosie Sherry, DrivenQA" htmlUrl="http://blog.drivenqa.com/" title="Software Testing Blog - Rosie Sherry, DrivenQA" xmlUrl="http://feeds.feedburner.com/RosieSherry"/>
-
     <outline text="Sol 'Zero Tolerance' Gilbert" htmlUrl="http://www.solgilbert.com" title="Sol 'Zero Tolerance' Gilbert" xmlUrl="http://www.solgilbert.com/?feed=atom"/>
 
     <outline text="Sordid details following..." htmlUrl="http://scarletdemon.livejournal.com/" title="Sordid details following..." xmlUrl="http://www.livejournal.com/users/scarletdemon/data/rss"/>
@@ -429,6 +437,8 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="Surfing Holidays" htmlUrl="http://surfing-holidays.blogspot.com/" title="Surfing Holidays" xmlUrl="http://surfing-holidays.blogspot.com/rss.xml"/>
 
     <outline text="Surgical focus" htmlUrl="http://surgical-focus.blogspot.com/" title="Surgical focus" xmlUrl="http://surgical-focus.blogspot.com/feeds/posts/default"/>
+
+    <outline text="Tara Hanks" htmlUrl="http://tarahanks.wordpress.com" title="Tara Hanks" xmlUrl="http://tarahanks.wordpress.com/feed/"/>
 
     <outline text="Tenantry Down Allotments" htmlUrl="http://tenantrydown.blogspot.com/" title="Tenantry Down Allotments" xmlUrl="http://tenantrydown.blogspot.com/rss.xml"/>
 
@@ -481,6 +491,8 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="Tom Nixon" htmlUrl="http://www.tomnixon.co.uk/" title="Tom Nixon" xmlUrl="http://www.tomnixon.co.uk/rss.xml"/>
 
     <outline text="Tom Roper's Weblog" htmlUrl="http://tomroper.typepad.com/tr/" title="Tom Roper's Weblog" xmlUrl="http://tomroper.typepad.com/tr/atom.xml"/>
+
+    <outline text="TomKiss.net" htmlUrl="http://www.tomkiss.net" title="TomKiss.net" xmlUrl="http://www.tomkiss.net/feed/"/>
 
     <outline text="Tonetek Blog" htmlUrl="http://www.tonetek.co.uk/blog" title="Tonetek Blog" xmlUrl="http://www.tonetek.co.uk/blog/feed/"/>
 

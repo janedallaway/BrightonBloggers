@@ -67,7 +67,7 @@
 	<li><a href="http://6fish.wordpress.com/">6fish</a></li>
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.mutualmisunderstanding.com/">A Mutual Misunderstanding</a> - vanished</li>
+	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
 	<li><a href="http://abovetherug.blogspot.com/">Above the rug</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
@@ -119,6 +119,7 @@
 	<li><a href="http://zenbullets.com/open/">Brighton Open Development Group</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
+	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
 	<li><a href="http://brightonthemoney.wordpress.com/">B right on the money</a></li>
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
@@ -143,6 +144,7 @@
 	<li><a href="http://darkcafedays.blogspot.com/">dark cafe days</a></li>
 	<li><a href="http://darkteatimesoul.blogspot.com/">Dark Teatime Soul</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.davidandtrine.org/">davidandtrine.org</a></li>
+	<li><a href="http://www.davidcraddock.net/">David Craddock's Technology Blog</a></li>
 	<li><a href="http://www.brightonlife.com/blog/users/dc/">David Croissant</a></li>
 	<li><a href="http://debutantewolves.blogspot.com/">DebutanteWolves</a></li>
 	<li><a href="http://www.younglivingguide.com/blog/">Defy Age Naturally</a></li>
@@ -227,6 +229,7 @@
 	<li><a href="http://www.toque.co.uk/blog/">Little Man in a Toque</a></li>
 	<li><a href="http://www.littleredboat.co.uk ">Little Red Boat</a></li>
 	<li><a href="http://lovebrighton.blogspot.com">LoveBrighton</a> - no updates since 2003</li>
+	<li><a href="http://lullyweb.com/">LullyWeb.Com</a></li>
 	<li><a href="http://lydz25.livejournal.com/">Lydzs Journal of comings and goings</a></li>
 	<li><a href="http://www.madmotive.com/">M.A.D. Motive</a></li>
 	<li><a href="http://madbaggagerambling.blogspot.com/">Mad Baggage</a></li>
@@ -308,6 +311,7 @@
 	<li><a href="http://spindoctorsdisco.blogspot.com/"> Spin Doctors Mobile Disco</a></li>
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
 	<li><a href="http://splitdownthemiddle.blogspot.com/">Split down the middle</a></li>
+	<li><a href="http://splitpediment.wordpress.com/">Split Pediment</a></li>
 	<li><a href="http://www.cuica.co.uk/">Stephen</a></li>
 	<li><a href="http://www.stiffrook.com/">Stiffrook.com</a></li>
 	<li><a href="http://stuartd.blogspot.com">Stuart's blog</a></li>
@@ -332,6 +336,7 @@
 	<li><a href="http://www.jzone.co.uk/">The jZone - Lee's musings on Java development</a></li>
 	<li><a href="http://www.mekanoset.com/nightlight/">The Mekano Set</a></li>
 	<li><a href="http://www.danielmoth.com/Blog">The Moth</a></li>
+	<li><a href="http://www.mulberrybush.co.uk/blog/">The Mulberry Bush Blog</a></li>
 	<li><a href="http://seandodson.wordpress.com/">The Northern Light</a></li>
 	<li><a href="http://one40fivestore.blogspot.com/">the ONE 40 FIVE store</a> - no updates since 2004</li>
 	<li><a href="http://other-side-of-the-world.blogspot.com/">The other side of the world</a></li>
@@ -342,6 +347,7 @@
 	<li class="unavailable"><a class="unavailable" href="http://www.thoughtballoon.co.uk/blog/">The Thought Balloon</a> - main site responding, but not this bit</li>
 	<li><a href="http://www.uniqueto.co.uk/blog/Indie">The Unique to Brighton Bulletin</a></li>
 	<li><a href="http://hotspits.blogspot.com/">The World is full of Pisswits</a></li>
+	<li><a href="http://tdwright.co.uk/">Thomas David Wright - Geek, student, cyclist, photographer, tea drinker...</a></li>
 	<li><a href="http://timeforanother.wordpress.com/">Time for Another</a></li>
 	<li><a href="http://www.timtim.typepad.com/timboland">Timboblog</a></li>
 	<li><a href="http://www.lauraatkins.com/blog/tockla">Tockla's World of Children's Literature</a></li>
@@ -368,6 +374,7 @@
 	<li><a href="http://westpierwords.blogspot.com/">West Pier Words</a></li>
 	<li><a href="http://a-nice-bit-of-fresh-air.blogspot.com/">Will Lockie's blog</a></li>
 	<li><a href="http://willthejugglerblog.blogspot.com/">will the jugglers thoughts</a></li>
+	<li><a href="http://www.wiredportfolio.com/blog/">Wired World</a></li>
 	<li><a href="http://surgical-focus.blogspot.com/">With Surgical Focus</a></li> 
 	<li><a href="http://knowledgeconstructs.com/">WordPress SEO Websites & Plugins . Knowledge Constructs</a></li>
 	<li><a href="http://www.wordridden.com/">WordRidden</a></li>

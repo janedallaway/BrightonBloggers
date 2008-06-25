@@ -6,7 +6,7 @@ For each blog...
 	--Add rss feed to Brighton Bloggers bloglines account
 	Add rss feed to blog digger - http://groups.blogdigger.com/groups.jsp?id=3467  - http://groups.blogdigger.com/editGroup.jsp?id=3467 (password = cs1de)
 	Add link to http://www.google.com/coop/
-	Add to mailing list - http://www2.hatters.org.uk/mailman/admin/brighton-bloggers/members/add
+	Add to mailing list - http://alice.hatters.org.uk/cgi-bin/mailman/admin/brighton-bloggers/members/add
 	Email owner to tell them that they are added
 	
 Once all added
