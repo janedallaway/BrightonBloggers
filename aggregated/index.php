@@ -37,6 +37,7 @@
    	By default it retrives the Reuters Oddly Enough RSS feed. The data is put into the array
    	structure so you can format the information as you see fit.
 */
+$debug = $_GET["debug"];
 set_time_limit(0);
 
 $file = "http://groups.blogdigger.com/rss.jsp?id=3467";
@@ -115,11 +116,17 @@ if (!($fp = fopen($file, "r"))) {
 	die("could not open XML input");
 }
 
-while ($data = fread($fp, 4096)) {
+if ($debug==1)
+	print("File is open\n<br />");
+	
+while ($data = fread($fp, 8192)) {
 	if (!xml_parse($xml_parser, $data, feof($fp))) {
-		die(sprintf("XML error: %s at line %d",
+		// only output the error if we're running in debug mode, otherwise carry on regardless
+		if ($debug==1)
+			(sprintf("XML error: %s at line %d",
 					xml_error_string(xml_get_error_code($xml_parser)),
 					xml_get_current_line_number($xml_parser)));
+					
 	}
 }
 xml_parser_free($xml_parser);
