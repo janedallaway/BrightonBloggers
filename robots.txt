@@ -1,0 +1,9 @@
+# Robot exclusion file
+User-agent: *
+ 
+# The following pages require registration and login
+Disallow: /comment
+Disallow: /report 
+ 
+Sitemap: http://www.brightonbloggers.com/sitemapindex.xml
+ 

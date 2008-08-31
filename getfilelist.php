@@ -79,7 +79,7 @@ function GetFilesInDirectory($dir)
 				    		($file == "styles") ||
 				    		($file == "reports"))	
 				    	{
-				    		
+				    		// Skip these dirs	
 				    	}
 				    	else
 				    	{
