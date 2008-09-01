@@ -102,6 +102,7 @@
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
 	<li><a href="http://booksthatmatter.blogspot.com/">BooksThatMatter</a></li>
+	<li><a href="http://bozboz.wordpress.com/">Bozboz web design</a></li>
 	<li><a href="http://radio.weblogs.com/0100875/">Brain Off :: Mikel Maron</a></li>
 	<li><a href="http://www.whatalovelywar.co.uk/war">Break of Day in the Trenches</a></li>
 	<li><a href="http://www.rowstar.blogspot.com/">Breakfast in Bed</a></li>
@@ -169,6 +170,7 @@
 	<li><a href="http://www.feastofpalmer.com/">Feast of Palmer</a></li>
 	<li><a href="http://www.feedthepony.blogspot.com/">Feed The Pony</a></li>
 	<li><a href="http://www.flambingo.net/">flambingo</a> - not updated since 2005</li>
+	<li><a href="http://www.flashist.co.uk/">Flashist</a></li>
 	<li><a href="http://www.flowerhunt.blogspot.com/">flower hunt</a></li>
 	<li><a href="http://fluctisonous.com/">Fluct.isono.us</a></li>
 	<li><a href="http://ftprintsinthesnow.blogspot.com/">Footprints in the snow</a></li>
@@ -198,7 +200,7 @@
 	<li><a href="http://www.livejournal.com/users/fifth_circle/">I Lucy Fer</a></li>
 	<li><a href="http://ravytrain.blogspot.com/">I was a teenage raver</a></li>
 	<li><a href="http://ilnostroluglio2004.splinder.it">Il Nostro Luglio</a></li>
-	<li><a href="http://unmadeup.com/inothernews/">In Other News &raquo; or Fénéon&#8217;s Wake. A record of the relentless poetry of the everday.</a></li>
+	<li><a href="http://unmadeup.com/inothernews/">In Other News &raquo; or F&#xE9;n&#xE9;on&#8217;s Wake. A record of the relentless poetry of the everday.</a></li>
 	<li><a href="http://inspiritandintruthuk.blogspot.com/">In Spirit and In Truth</a></li>
 	<li><a href="http://www.informationmatters.net/">InformationMatters - Library and Information Courses at the University of Brighton</a></li>
 	<li><a href="http://stack.dnsalias.net/~dphelan/">Insufficient Time</a></li>
@@ -320,6 +322,7 @@
 	<li><a href="http://succor.co.uk/">Succor[TalkWebSolutions.co.uk]</a></li>
 	<li><a href="http://www.dnna.net/sinusoida/">Sunusoida photography Brighton</a></li>
 	<li><a href="http://surfing-holidays.blogspot.com/">Surfing Holidays - Surf Information, Videos, Gear, Lessons, Travel Info, and all things surf!</a></li>
+	<li><a href="http://talesfromwindycorner.blogspot.com/">Tales from Windy Corner</a></li>
 	<li><a href="http://tarahanks.wordpress.com/">Tara Hanks</a></li>
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
 	<li><a href="http://tenpastmidnight.blogspot.com">tenpastmidnight</a></li>
