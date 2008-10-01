@@ -131,6 +131,7 @@
 	<li><a href="http://www.callendercreates.com/blog/">Callender Creates</a></li>
 	<li><a href="http://cas-cool.livejournal.com/">Cas's Lurking Journal</a></li>
 	<li><a href="http://charitychallengethailand.blogspot.com/">Charity Challenge Thailand</a></li>
+	<li><a href="http://cheapbrighton.com/">Cheap Brighton</a></li>
 	<li><a href="http://www.triffid.org/blog/">Cheese dreams</a></li>
 	<li><a href="http://www.chickyog.net/">Chicken Yoghurt</a></li>
 	<li><a href="http://ccgi.chillicheese.plus.com/cgi-bin/weblog-br.php">ChilliCheeseBlog</a></li>
@@ -165,6 +166,7 @@
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
 	<li><a href="http://ianozsvald.com/">Entrepreneurial Geekiness</a></li>
 	<li><a href="http://www.eternalgaze.net/">Eternal Gaze</a></li>
+	<li><a href="http://etheldcofie.wordpress.com/">ethelcofie's How To Articles</a></li>
 	<li><a href="http://www.eventyr.co.uk/ramblings.html">Eventyr</a></li>
 	<li><a href="http://everyoneelsehasablog.blogspot.com/">Everyone Else Has A Blog</a></li>
 	<li><a href="http://www.feastofpalmer.com/">Feast of Palmer</a></li>

@@ -6,19 +6,13 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 </head>
 <body>
 <outline text="Brighton Bloggers" >
-  <outline text="" htmlUrl="" title="" xmlUrl="http://www.four0four.net/?feed=rss2"/>
+ <outline text="" htmlUrl="" title="" xmlUrl="http://www.four0four.net/?feed=rss2"/>
 
     <outline text="" htmlUrl="" title="" xmlUrl="http://www.davephelan.org/blog/index.php/feed/"/>
-
-    <outline text="" htmlUrl="" title="" xmlUrl="http://www.mattanddebz.com/?feed=atom"/>
 
     <outline text="" htmlUrl="" title="" xmlUrl="http://feeds.feedburner.com/mornography_uk"/>
 
     <outline text="" htmlUrl="" title="" xmlUrl="http://bethgranter.com/blog/?feed=atom"/>
-
-    <outline text="" htmlUrl="" title="" xmlUrl="http://www.flashist.co.uk/feed/"/>
-
-    <outline text="" htmlUrl="" title="" xmlUrl="http://bozboz.wordpress.com/feed/"/>
 
     <outline text="" htmlUrl="" title="" xmlUrl="http://www.wickedwoman.net/weblog/index.rdf"/>
 
@@ -106,9 +100,9 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Break of Day in the Trenches" htmlUrl="http://www.whatalovelywar.co.uk/war/" title="Break of Day in the Trenches" xmlUrl="http://www.whatalovelywar.co.uk/war/index.rdf"/>
 
-    <outline text="Breakfast In Bed" htmlUrl="http://rowstar.blogspot.com/" title="Breakfast In Bed" xmlUrl="http://rowstar.blogspot.com/rss.xml"/>
-
     <outline text="Breakfast In Bed" htmlUrl="http://rowstar.blogspot.com/" title="Breakfast In Bed" xmlUrl="http://rowstar.blogspot.com/feeds/posts/default?alt=rss"/>
+
+    <outline text="Breakfast In Bed" htmlUrl="http://rowstar.blogspot.com/" title="Breakfast In Bed" xmlUrl="http://rowstar.blogspot.com/rss.xml"/>
 
     <outline text="Brighton &amp; Hove Green Party [press releases]" htmlUrl="http://www.brightonandhovegreenparty.org.uk/" title="Brighton &amp; Hove Green Party [press releases]" xmlUrl="http://www.brightonandhovegreenparty.org.uk/h/f/GREEN/rss_write////"/>
 
@@ -116,17 +110,17 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Brighton Bloggers" htmlUrl="http://www.brightonbloggers.com/blog/index.php" title="Brighton Bloggers" xmlUrl="http://www.brightonbloggers.com/blog/rss.xml"/>
 
-    <outline text="Brighton Copywriter: Freelance Copywriting, Web Copy, Search Engine Optimisation (SEO)" htmlUrl="http://kendallcopywriting.co.uk" title="Brighton Copywriter: Freelance Copywriting, Web Copy, Search Engine Optimisation (SEO)" xmlUrl="http://feeds.feedburner.com/co/ydDT"/>
-
     <outline text="brighton culture" htmlUrl="http://www.brightonculture.co.uk" title="brighton culture" xmlUrl="http://www.tobloggle.co.uk/feed/"/>
 
     <outline text="Brighton Daily Photo" htmlUrl="http://brightondailyphoto.blogspot.com/" title="Brighton Daily Photo" xmlUrl="http://brightondailyphoto.blogspot.com/atom.xml"/>
 
     <outline text="Brighton Girl Geek Dinners" htmlUrl="http://www.brightongirlgeekdinners.co.uk/" title="Brighton Girl Geek Dinners" xmlUrl="http://feeds.feedburner.com/rosiesherry/girlgeek"/>
 
-    <outline text="Brighton music reviews" htmlUrl="http://www.brightonsound.com/blog" title="Brighton music reviews" xmlUrl="http://www.brightonsound.com/blog/feed/"/>
-
     <outline text="Brighton Open Development Group" htmlUrl="http://zenbullets.com/open" title="Brighton Open Development Group" xmlUrl="http://zenbullets.com/open/?feed=atom"/>
+
+    <outline text="Brighton Sound" htmlUrl="http://www.brightonsound.com/blog" title="Brighton Sound" xmlUrl="http://www.brightonsound.com/blog/feed/"/>
+
+    <outline text="Brighton web design" htmlUrl="http://bozboz.wordpress.com" title="Brighton web design" xmlUrl="http://bozboz.wordpress.com/feed/"/>
 
     <outline text="Brighton's Best Clubs" htmlUrl="http://brightonclubs.blogspot.com/" title="Brighton's Best Clubs" xmlUrl="http://brightonclubs.blogspot.com/atom.xml"/>
 
@@ -210,7 +204,11 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="feed the pony" htmlUrl="http://feedthepony.blogspot.com/" title="feed the pony" xmlUrl="http://feedthepony.blogspot.com/rss.xml"/>
 
+    <outline text="Five At Last" htmlUrl="http://daisydunkeld.com/blog" title="Five At Last" xmlUrl="http://daisydunkeld.com/blog/?feed=rss2"/>
+
     <outline text="flambingo" htmlUrl="http://www.flambingo.net/" title="flambingo" xmlUrl="http://www.flambingo.net/index.rdf"/>
+
+    <outline text="Flashist" htmlUrl="http://www.flashist.co.uk" title="Flashist" xmlUrl="http://www.flashist.co.uk/feed/"/>
 
     <outline text="flower hunt" htmlUrl="http://flowerhunt.blogspot.com/" title="flower hunt" xmlUrl="http://flowerhunt.blogspot.com/feeds/posts/default"/>
 
@@ -218,9 +216,9 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="fork in my eye" htmlUrl="http://blisteredeye.blogspot.com/" title="fork in my eye" xmlUrl="http://blisteredeye.blogspot.com/atom.xml"/>
 
-    <outline text="Four And Up" htmlUrl="http://daisydunkeld.com/blog" title="Four And Up" xmlUrl="http://daisydunkeld.com/blog/?feed=rss2"/>
-
     <outline text="Fred's blog" htmlUrl="http://fredpipes.blogspot.com/" title="Fred's blog" xmlUrl="http://feeds.feedburner.com/FredsBlog"/>
+
+    <outline text="Freelance Copywriter: Brighton-based Copywriting, Web Copy &amp; SEO" htmlUrl="http://kendallcopywriting.co.uk" title="Freelance Copywriter: Brighton-based Copywriting, Web Copy &amp; SEO" xmlUrl="http://feeds.feedburner.com/co/ydDT"/>
 
     <outline text="Frenchy" htmlUrl="http://andyjamesnelson.blogspot.com/" title="Frenchy" xmlUrl="http://andyjamesnelson.blogspot.com/atom.xml"/>
 
@@ -317,6 +315,8 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="Mark Mitchell" htmlUrl="http://www.markmitchell.co.uk" title="Mark Mitchell" xmlUrl="http://www.markmitchell.co.uk/feed/atom/"/>
 
     <outline text="martyn reding - juggling with water" htmlUrl="http://jugglingwithwater.blogspot.com/" title="martyn reding - juggling with water" xmlUrl="http://jugglingwithwater.blogspot.com/feeds/posts/default"/>
+
+    <outline text="Matt and Debz" htmlUrl="http://mattanddebz.com" title="Matt and Debz" xmlUrl="http://www.mattanddebz.com/?feed=atom"/>
 
     <outline text="Mock Duck" htmlUrl="http://mockduck.livejournal.com/" title="Mock Duck" xmlUrl="http://mockduck.livejournal.com/data/atom"/>
 
@@ -449,6 +449,8 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="Surfing Holidays" htmlUrl="http://surfing-holidays.blogspot.com/" title="Surfing Holidays" xmlUrl="http://surfing-holidays.blogspot.com/rss.xml"/>
 
     <outline text="Surgical focus" htmlUrl="http://surgical-focus.blogspot.com/" title="Surgical focus" xmlUrl="http://surgical-focus.blogspot.com/feeds/posts/default"/>
+
+    <outline text="Tales From Windy Corner" htmlUrl="http://talesfromwindycorner.blogspot.com/" title="Tales From Windy Corner" xmlUrl="http://talesfromwindycorner.blogspot.com/feeds/posts/default"/>
 
     <outline text="Tara Hanks" htmlUrl="http://tarahanks.wordpress.com" title="Tara Hanks" xmlUrl="http://tarahanks.wordpress.com/feed/"/>
 
