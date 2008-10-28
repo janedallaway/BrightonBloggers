@@ -46,14 +46,12 @@
 <h2>Brighton Bloggers Links</h2>
 <ul>
 <li>The <a href="http://www.ntk.net/2003/08/22/#EVENT_QUEUE">NTK</a> mention for Augusts meeting in 2003</li>
-<li>The yahoo <a href="http://groups.yahoo.com/group/bn-bloggers/">Mailing list</a></li>
-<li>The Brighton Bloggers <a href="http://www.ringsurf.com/netring?ring=brightonbloggers;id=0;action=addform">Webring</a></li>
 <li><a href="http://www.123ici.com/annuaire-2412">Dieppe Bloggers</a>
 </ul>
 
 <h2>Credits</h2>
-<p>Design: <span class="vcard"><a class="url fn" href="http://www.adactio.com">Jeremy Keith</a></span></p>
 <p>Content, Technical stuff, day to day running: <span class="vcard"><a class="url fn" href="http://jane.dallaway.com">Jane Dallaway</a></span></p>
+<p>Design: <span class="vcard"><a class="url fn" href="http://www.adactio.com">Jeremy Keith</a></span></p>
 <p>Google Co-op consultancy: <span class="vcard"><a class="url fn" href="http://www.paulsilver.co.uk">Paul Silver</a></span></p>
 <p><a href="../aggregated/">Aggregated</a></li> feed script courtesy of <span class="vcard"><a class="url fn" href="http://www.rjk-hosting.co.uk/">Richard James Kendall</a></span></p>
 

@@ -37,10 +37,11 @@
    	By default it retrives the Reuters Oddly Enough RSS feed. The data is put into the array
    	structure so you can format the information as you see fit.
 */
+
 $debug = $_GET["debug"];
 set_time_limit(0);
 
-$file = "http://groups.blogdigger.com/rss.jsp?id=3467";
+$file = "http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=50";
 
 $rss_channel = array();
 $currently_writing = "";
@@ -130,6 +131,7 @@ while ($data = fread($fp, 8192)) {
 	}
 }
 xml_parser_free($xml_parser);
+
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
@@ -140,6 +142,7 @@ xml_parser_free($xml_parser);
 <title>Brighton Bloggers: An Aggregated display of Brighton Blogs</title>
 <link rel="stylesheet" type="text/css" media="screen" href="../styles/basic.css" />
 <link rel="stylesheet" type="text/css" media="print" href="../styles/print.css" />
+<link rel="alternate" href="http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=500" type="application/rss+xml" />
 </head>
 <body>
 
@@ -178,8 +181,7 @@ xml_parser_free($xml_parser);
 <div id="content">
 
 <?php
-
-print ("<h2>The most recent " . count($rss_channel["ITEMS"]) . " posts to the <a href=\"http://groups.blogdigger.com/rss.jsp?id=3467\">Brighton Bloggers aggregated RSS feed</a></h2>");
+print ("<h2>The most recent " . count($rss_channel["ITEMS"]) . " posts to the <a href=\"http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&amp;_render=rss&amp;max_items=500\">Brighton Bloggers aggregated RSS feed</a></h2>");
 
 if (isset($rss_channel["ITEMS"])) {
 	if (count($rss_channel["ITEMS"]) > 0) {
@@ -193,9 +195,8 @@ if (isset($rss_channel["ITEMS"])) {
 		print ("<b>There are no articles in this feed.</b>");
 	}
 }
-
-?>
-<p>Want to read these in an rss reader?  Download the <a href="/brighton.opml">opml file</a> or subscribe to the <a href="http://groups.blogdigger.com/rss.jsp?id=3467">aggregated feed</a>.</p>
+?> 
+<p>Want to read these in an rss reader?  Download the <a href="/brighton.opml">opml file</a> or subscribe to the <a href="http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=500">RSS feed</a>.</p>
 
 
 </div>

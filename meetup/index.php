@@ -43,6 +43,12 @@
 
 
 <div id="content">
+<h2>Next meetup - October 30th 2008</h2>
+<p>After another long hiatus its time for another meetup.  This time in the Eagle on the 30th October from 8pm.  See you there?</p>
+
+<h2>November 3rd 2007</h2>
+<p>A great meetup, upstairs at the Victory, with about 14 or so bloggers.  Lots of chatting and drinking, and a round table discussion about what we blog about and why are we driven to do it - quite an interesting insight with a mixture of people blogging to remember, blogging to share and blogging to connect with people who may have similar interests.</p>
+
 <h2>July 5th 2007</h2>
 <p>We lost a few people to the Chinwag event, but had a really pleasant evening none the less.  Beer was drunk, buffet was eaten and blogs and blogging were discussed.  The "<a href="http://www.flickr.com/photos/janed/731601396/in/set-72157600669904539/">Blog Collage</a>" was displayed, and Brighton Bloggers are encouraged to mark their blog by adding a note in flickr.  Take a look at the <a href="http://www.flickr.com/photos/janed/sets/72157600669904539/">photos</a>.  Full blog roll available on this <a href="http://www.brightonbloggers.com/blog/archives/2007_07_01_index.php#7664479695905664137">blog post</a>.</p>
 

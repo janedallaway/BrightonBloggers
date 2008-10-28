@@ -208,7 +208,6 @@
 	<li><a href="http://stack.dnsalias.net/~dphelan/">Insufficient Time</a></li>
 	<li><a href="http://intothemachine.blogspot.com/">Into The Machine</a></li>
 	<li><a href="http://www.islingwordstreet.com/">Islingword Street</a></li>
-	<li><a href="http://www.itsnicethat.com/">It's Nice That</a></li>
 	<li><a href="http://itsraininginside.blogspot.com/">It's Raining Inside</a></li>
 	<li><a href="http://www.j-dom.org/">j-dom.org</a></li>
 	<li><a href="http://happygiraffe.net/blog/">Jabbering Giraffe</a></li>
