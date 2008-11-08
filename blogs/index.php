@@ -57,12 +57,13 @@
 <div id="content">
 
 <ul>
-	<li><a href="http://41places.wordpress.com/">41 Places news</a></li>
+	
 	<li><a href="http://www.futurlab.blogspot.com/">_futurism</a></li>
 	<li><a href="http://1000thoughtsorless.blogspot.com/">1000 thoughts or less</a></li>
 	<li><a href="http://20yearsaveggie.blogspot.com/">20 years a veggie</a></li>
 	<li><a href="http://23musings.blogspot.com/">23 Musings</a></li>
 	<li><a href="http://www.3sixtycreative.com/blogg/blogg.html">3Sixty Blogg</a></li>
+	<li><a href="http://41places.wordpress.com/">41 Places news</a></li>
 	<li><a href="http://6fish.wordpress.com/">6fish</a></li>
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
@@ -94,10 +95,10 @@
 	<li><a href="http://authenticblogging.com/">Authentic blogging</a></li>
 	<li><a href="http://jonathanbaldwin.blogspot.com/">A Word In Your Ear</a></li>
 	<li><a href="http://azuredreams.org">Azure Dreams</a></li>
-	<li class="unavailable"><a  class="unavailable" href="http://babblebabblebabble.blogs.com/">Babble Babble Babble</a> - gone</li>
 	<li><a href="http://daisydunkeld.com/blog">Baby Daisy's blog</a></li>
 	<li><a href="http://beesnthings.blogspot.com/">Bees n things</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
+	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
 	<li><a href="http://www.bloggers4labour.org/">Bloggers4Labour</a></li>
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
@@ -115,14 +116,12 @@
 	<li><a href="http://www.brightonculture.co.uk">Brighton Culture</a></li>
 	<li><a href="http://brightondailyphoto.blogspot.com/">Brighton Daily Photo - Dean Harvey</a></li>
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
-	<li><a href="http://www.tobloggle.co.uk/">Brighton film and music review</a></li>
-	<li class="unavailable"><a  class="unavailable" href="http://www.rosiesherry.com/girlgeek/">Brighton Girl Geek</a> - seems to have stopped being a geek</li>
+	<li><a href="http://www.brightonfusion.co.uk/live/">Brighton Fusion</a></li>
 	<li><a href="http://zenbullets.com/open/">Brighton Open Development Group</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
-	<li class="unavailable"><a  class="unavailable" href="http://brightonthemoney.wordpress.com/">B right on the money</a> - the authors have deleted this blog</li>
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
 	<li><a href="http://www.brighton-wok.com/">Brighton Wok production diary</a></li>
 	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
@@ -143,6 +142,7 @@
 	<li><a href="http://members.lycos.co.uk/crosbie71/blog/">Crosbie's Blog Cabin</a></li>
 	<li><a href="http://www.livejournal.com/users/scarletdemon/">Cynical, drunken and lighting another cigar...</a></li>
 	<li><a href="http://www.themanfromdelmonte.co.uk/">Dan Goodwin's Blog</a></li>
+	<li><a href="http://www.danielkaspar.info/iamacamera/">Daniel Kaspar - i am a camera</a></li>
 	<li><a href="http://darkcafedays.blogspot.com/">dark cafe days</a></li>
 	<li><a href="http://darkteatimesoul.blogspot.com/">Dark Teatime Soul</a></li>
 	<li><a href="http://www.davidcraddock.net/">David Craddock's Technology Blog</a></li>
@@ -154,8 +154,6 @@
 	<li><a href="http://www.nexusdp.co.uk/design-agency-blog/">Design Agency Blog</a></li>
 	<li><a href="http://www.rebeccacottrell.co.uk/blog/">Design Idea</a></li>
 	<li><a href="http://describe.blogspot.com/">De-scribed</a></li>
-	<li class="unavailable"><a  class="unavailable" href="http://cainzie.blogspot.com/">Diary of a Dad</a> - Blog has been removed</li>
-	<li><a href="http://djflexlugor.blogspot.com/"> DJ Flexlugor</a></li>
 	<li><a href="http://dogdela.blogspot.com/">dogdela</a></li>
 	<li><a href="http://dorkatronic.blogspot.com/">DORKATRONIC</a></li>
 	<li><a href="http://siliconbea.ch/">Down at Silicon Beach</a></li>
@@ -195,7 +193,7 @@
 	<li><a href="http://www.overlandtraveltohk.blogspot.com/">Harwich to Hong Kong</a></li>
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
 	<li><a href="http://hiidunia.blogspot.com/">Hii Dunia</a></li>
-	<li><a href="http://www.hubmind.net">hubmind.net</a></li>
+	<li class="unavailable"><a class="unavailable" href="http://www.hubmind.net">hubmind.net</a> - problem loading page</li>
 	<li><a href="http://idigitdesign.com/blog/">idigit design blog</a></li>
 	<li><a href="http://iestyn.net/wp/">Iestyn Lloyd</a></li>
 	<li><a href="http://www.quinparker.com/">If You Lived Here You Would Be Home By Now</a></li>
@@ -205,7 +203,7 @@
 	<li><a href="http://unmadeup.com/inothernews/">In Other News &raquo; or F&#xE9;n&#xE9;on&#8217;s Wake. A record of the relentless poetry of the everday.</a></li>
 	<li><a href="http://inspiritandintruthuk.blogspot.com/">In Spirit and In Truth</a></li>
 	<li><a href="http://www.informationmatters.net/">InformationMatters - Library and Information Courses at the University of Brighton</a></li>
-	<li><a href="http://stack.dnsalias.net/~dphelan/">Insufficient Time</a></li>
+	<li><a href="http://bumblejim.blogspot.com/">inside a skinny mind</a></li>
 	<li><a href="http://intothemachine.blogspot.com/">Into The Machine</a></li>
 	<li><a href="http://www.islingwordstreet.com/">Islingword Street</a></li>
 	<li><a href="http://itsraininginside.blogspot.com/">It's Raining Inside</a></li>
@@ -225,7 +223,7 @@
 	<li><a href="http://kendallcopywriting.co.uk/blog/">Kendall Copywriting - Freelance copywriting, editing, SEO and blogging in Brighton, Hove and London</a></li>
 	<li><a href="http://www.kindleresearch.com/">Kindle Research</a></li>
 	<li><a href="http://www.KingOfMyCastle.com">KingOfMyCastle</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.kwiqq.com/blog/">Kwiqq blog</a> - Oops! An error occurred</li>
+	<li><a href="http://blog.kwiqq.com/">Kwiqq blog</a></li>
 	<li><a href="http://barkingowl.com/learning/">learning</a></li>
 	<li><a href="http://liberatemedia.typepad.com/">Liberate Media</a></li>
 	<li><a href="http://martian77.20six.co.uk/">Life on Mars - @20six.co.uk</a></li>
@@ -256,7 +254,6 @@
 	<li><a href="http://www.namethemushroom.blogspot.com/">Name That Mushroom!</a></li>
 	<li><a href="http://notes.natbat.net/">Natalie Downe</a></li>
 	<li><a href="http://www.neilson.co.uk/news-blog.aspx">Neilson News Blog - Latest Information and Offers</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.nicedyke.net">nicedyke.net</a> - Server not found</li>
 	<li><a href="http://nicky-p.blogspot.com/">Nicky P's Blog of Metal</a> - an ex brighton resident coming to terms with life out of Brighton</li>
 	<li><a href="http://nigeyb.blogspot.com/">Nigeyb's World Of Joy</a></li>
 	<li><a href="http://niquimerret.com/">Niqui Merret</a></li>
@@ -264,7 +261,6 @@
 	<li><a href="http://nobodysfriend.blogspot.com/">Nobody's Friend</a></li>
 	<li><a href="http://justinpickard.net/">Nostalgia for the Future</a></li>
 	<li><a href="http://no-ta.blogspot.com/">No Ta - NONE OF THE ABOVE</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.zerogmedia.co.uk/oblogatory.php">oblogatory</a> - No input file specified</li>
 	<li><a href="http://www.oneidea.co.uk/">One idea</a></li>
 	<li><a href="http://themonkeytypes.blogspot.com/">One Monkey, One Typewriter</a></li>
 	<li><a href="http://www.onemorewipe.com/">onemorewipe</a> - now showing gerbil cam</li>
@@ -283,16 +279,18 @@
 	<li><a href="http://www.pottymouse.com/">Pottymouse</a></li>
 	<li><a href="http://powerfulpierre.blogspot.com/">Powerfull Pierre holds forth</a></li>
 	<li><a href="http://presencelabs.com/">Presence Labs</a></li>
-	<li><a href="http://www.pubscene.co.uk/">Pub Scene - Brighton &amp; Hove pubs</a></li> 
+	<li><a href="http://www.pubscene.co.uk/">Pub Scene - Brighton &amp; Hove pubs</a></li>
+	<li><a href="http://rajanand.biz/">RajAnand's bizzz</a></li> 
 	<li><a href="http://youfoundkel.blogspot.com/">Random outpourings from my mixed up mind</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://allibee.com/wordpress/">Real Illustrators blog</a> - File not found</li>
 	<li><a href="http://rellyannettbaker.typepad.com/">Rellygious Teachings</a></li>
 	<li><a href="http://www.rowingrichard.blogspot.com/">Richard Mitchelson</a></li>
 	<li><a href="http://blog.spiralarm.com/richard/">Richard's Technical Notes</a></li>
+	<li><a href="http://robochick.co.uk/">RoboChick: Rampant Robotic Rumpus</a></li>
 	<li><a href="http://www.robotperson.com/">Robotperson</a></li>
 	<li><a href="http://www.schvtrn.com/rollo/blogger.html">Rollo Kim Reporting</a></li>
-	<li><a href="http://www.rosiesanger.com/">Rosie Sanger</a></li>
+	<li class="unavailable"><a class="unavailable" href="http://www.rosiesanger.com/">Rosie Sanger</a> - problem loading page</li>
 	<li><a href="http://www.rosiesherry.com/"> Rosie Sherry - common sense Software Testing and QA</a></li>
+	<li><a href="http://rosiesherry.com/posing/">RosieLand</a></li>
 	<li><a href="http://sadiedark69.blogspot.com/">Sadie Dark Places</a></li>
 	<li><a href="http://marymagdalen.blogspot.com/">Saint Mary Magdalen, Brighton, UK</a></li>
 	<li><a href="http://andyjamesnelson.blogspot.com/">SandyGermsManson</a></li>
@@ -300,46 +298,41 @@
 	<li><a href="http://savourysnark.blogspot.com/">savoury snark</a></li>
 	<li><a href="http://www.schvtrn.com/latest.html">Scholtz Vitrine: NewsBleed</a></li>
 	<li><a href="http://blog.scouta.com/">scouta blog</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.screenmediabiz.com/">Screen Media Biz</a> - Server not found</li>
-	<li class="unavailable"><a class="unavailable" href="http://seagulls.typepad.com/">Seagulls over Baghdad</a> - Authorization Required</li>	
 	<li><a href="http://www.sebleedelisle.com/">See Lee-Delisle</a></li>
 	<li><a href="http://www.blogboz.co.uk/">Search Optimisation Brighton</a></li>
 	<li><a href="http://seratone.blogspot.com/">Seratone</a></li>
 	<li><a href="http://www.sexandtheseafront.blogspot.com/">Sex & The Sea Front</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.sexfilledsanta.co.uk/">Sex Filled Santa</a> - Server not found</li>
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
 	<li><a href="http://www.wordsby.me/">Short Stories :: and other stuff</a></li>
 	<li><a href="http://simonwillison.net/">Simon Willison's Weblog</a></li>
-	<li class="unavailable"><a  class="unavailable" href="http://www.singlespeedsussex.co.uk/">Single Speed Sussex: Because the single life is best ...</a> - Server not found</li>
 	<li><a href="http://www.solgilbert.com/">Sol 'Zero Tolerance' Gilbert</a></li>
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
 	<li><a href="http://spindoctorsdisco.blogspot.com/"> Spin Doctors Mobile Disco</a></li>
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
 	<li><a href="http://splitdownthemiddle.blogspot.com/">Split down the middle</a></li>
 	<li><a href="http://splitpediment.wordpress.com/">Split Pediment</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.cuica.co.uk/">Stephen</a> - 404</li>
 	<li><a href="http://www.stiffrook.com/">Stiffrook.com</a></li>
 	<li><a href="http://stuartd.blogspot.com">Stuart's blog</a></li>
 	<li><a href="http://succor.co.uk/">Succor[TalkWebSolutions.co.uk]</a></li>
 	<li><a href="http://www.dnna.net/sinusoida/">Sunusoida photography Brighton</a></li>
 	<li><a href="http://surfing-holidays.blogspot.com/">Surfing Holidays - Surf Information, Videos, Gear, Lessons, Travel Info, and all things surf!</a></li>
+	<li><a href="http://sussexsocial.org/">Sussex Social | Out and about in Brighton & Hove</a></li>
 	<li><a href="http://talesfromwindycorner.blogspot.com/">Tales from Windy Corner</a></li>
 	<li><a href="http://tarahanks.wordpress.com/">Tara Hanks</a></li>
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
 	<li><a href="http://tenpastmidnight.blogspot.com">tenpastmidnight</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://www.theargus.co.uk/lifehealth/weblogs/sarahlewis/">The Argus: Life & health: Weblogs: Sarah Lewis</a> - Oops!</li>
 	<li><a href="http://www.thebrandsurgery.co.uk/blog/">The Brand Surgery Blog</a></li>
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
-	<li><a href="http://thedigitalgamer.typepad.com/">The Digital Gamer</a></li>
+	<li class="unavailable"><a class="unavailable" href="http://thedigitalgamer.typepad.com/">The Digital Gamer</a> - 404 Not found</li>
 	<li><a href="http://door22.wordpress.com/">The Door 22 Blog</a></li>
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
 	<li><a href="http://thegayleprechaun.blogspot.com/">The Gay Leprechaun</a></li>
 	<li><a href="http://www.inudian.com/">The Inudian - News from Inuda Innovations</a></li>
 	<li><a href="http://www.jroller.com/page/jnicho02">The Jezblog</a></li>
 	<li><a href="http://www.jzone.co.uk/">The jZone - Lee's musings on Java development</a></li>
-	<li><a href="http://www.mekanoset.com/nightlight/">The Mekano Set</a></li>
+	<li class="unavailable"><a class="unavailable" href="http://www.mekanoset.com/nightlight/">The Mekano Set</a> - this domain may be for sale</li>
 	<li><a href="http://www.danielmoth.com/Blog">The Moth</a></li>
 	<li><a href="http://www.mulberrybush.co.uk/blog/">The Mulberry Bush Blog</a></li>
 	<li><a href="http://seandodson.wordpress.com/">The Northern Light</a></li>
@@ -362,9 +355,8 @@
 	<li><a href="http://www.tomkiss.net/">Tom Kiss</a></li>
 	<li><a href="http://tomroper.typepad.com/">Tom Roper's Weblog</a></li>
 	<li><a href="http://www.tonetek.co.uk/blog/">Tontek Blog: SEO, SEM, Internet News, Comment, Observations and Reviews</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://treb1971.blogspot.com/">Treb's blog</a> - Blog not found</li>
 	<li><a href="http://archel.blogspot.com/">True Love and High Adventure</a></li>
-	<li><a href="http://www.ttlblog.co.uk/">TTL Blog</a></li>
+	<li class="unavailable"><a class="unavailable" href="http://www.ttlblog.co.uk/">TTL Blog</a> - Server not found</li>
 	<li><a href="http://turningthetidebrighton.blogspot.com/">Turning the Tide</a></li>
 	<li><a href="http://www.amyriley.blogspot.com">Typing: An Unavoidable Consequence of Bad Handwriting</a></li>
 	<li><a href="http://www.unmadeup.com/">Un-MADE-Up</a></li>
@@ -373,7 +365,6 @@
 	<li><a href="http://www.upstreamconnections.com/blog/">Upstream connections - SEO</a></li>
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://warrenmorgan.blogspot.com/">Warren's political blog</a> - Blog not found</li>
 	<li><a href="http://www.ilovejackdaniels.com/">Web design, development and marketing - ILoveJackDaniels.com</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/cyclelanes/cycleblog/">Weird cycle lanes</a></li>
 	<li><a href="http://www.yogabrighton.net/">Welcome to yogabrighton</a></li>
@@ -395,7 +386,7 @@
 
 <p>Know of another one?  Then <a href="mailto:addblog@brightonbloggers.com?subject=New Blog">let us know</a>.</p>
 
-<p>Want to read these in an rss reader?  Download the <a href="../brighton.opml">opml file</a> or subscribe to the <a href="http://groups.blogdigger.com/rss.jsp?id=3467">aggregated feed</a>.</p>
+<p>Want to read these in an rss reader?  Download the <a href="../brighton.opml">opml file</a> or take a look at the <a href="http://www.brightonbloggers.com/aggregated/">aggregated feed</a>.</p>
 </div>
 
 </div>

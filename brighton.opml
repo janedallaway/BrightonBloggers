@@ -1,4 +1,4 @@
-addblog<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <opml version="1.1">
 <head>
     <title>Brighton Bloggers</title>
@@ -292,7 +292,7 @@ addblog<?xml version="1.0" encoding="utf-8"?>
 
     <outline text="Knowledge Constructs | WordPress SEO Plugins &amp; Themes" htmlUrl="http://knowledgeconstructs.com" title="Knowledge Constructs | WordPress SEO Plugins &amp; Themes" xmlUrl="http://knowledgeconstructs.com/feed/atom"/>
 
-    <outline text="Kwiqq Social Networking Software" htmlUrl="http://blog.kwiqq.com" title="Kwiqq Social Networking Software" xmlUrl="http://kwiqq.com/blog/?feed=rss2"/>
+    <outline text="Kwiqq Social Networking Software" htmlUrl="http://blog.kwiqq.com" title="Kwiqq Social Networking Software" xmlUrl="http://blog.kwiqq.com/feed/"/>
 
     <outline text="learning" htmlUrl="http://barkingowl.com/learning" title="learning" xmlUrl="http://barkingowl.com/learning/feed/atom/"/>
 
@@ -555,6 +555,20 @@ addblog<?xml version="1.0" encoding="utf-8"?>
     <outline text="zender bender" htmlUrl="http://zenderbender.blogspot.com/" title="zender bender" xmlUrl="http://zenderbender.blogspot.com/rss.xml"/>
 
     <outline text="_futurism" htmlUrl="http://futurlab.blogspot.com/" title="_futurism" xmlUrl="http://futurlab.blogspot.com/atom.xml"/>
+
+    <outline text="Sussex Social" htmlUrl="http://sussexsocial.org/" title="Sussex Social" xmlUrl="feed://sussexsocial.org/?q=rss.xml"/>
+
+    <outline text="blog.cogapp.com" htmlUrl="http://blog.cogapp.com/" title="blog.cogapp.com" xmlUrl="http://feeds.feedburner.com/cogapp-blog"/>
+
+    <outline text="RoboChick" htmlUrl="http://robochick.co.uk/" title="RoboChick" xmlUrl="http://robochick.co.uk/feed/"/>
+
+    <outline text="inside a skinny mind" htmlUrl="http://bumblejim.blogspot.com/" title="inside a skinny mind" xmlUrl="http://bumblejim.blogspot.com/feeds/posts/default"/>
+
+    <outline text="Brighton Fusion" htmlUrl="http://www.brightonfusion.co.uk/live/" title="Brighton Fusion" xmlUrl="http://www.brightonfusion.co.uk/live/feed/"/>
+
+    <outline text="RajAnand's bizzz" htmlUrl="http://rajanand.biz/" title="RajAnand's bizzz" xmlUrl="http://rajanand.biz/feed/"/>
+
+    <outline text="Daniel Kaspar - i am a camera" htmlUrl="http://www.danielkaspar.info/iamacamera/" title="Daniel Kaspar - i am a camera" xmlUrl="http://www.danielkaspar.info/iamacamera/index.php?x=rss"/>
 
 </outline>
 </body>

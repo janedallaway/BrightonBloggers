@@ -43,8 +43,10 @@
 
 
 <div id="content">
+<h2>Next meetup - 29th January 2008</h2>
+<p>The next meetup will be held in January, 3 months after the last one.  I'll announce the venue closer to the time, but keep an eye on the details via the <a href="http://upcoming.yahoo.com/event/1321415/">upcoming page</a></p>
 <h2>Next meetup - October 30th 2008</h2>
-<p>After another long hiatus its time for another meetup.  This time in the Eagle on the 30th October from 8pm.  See you there?</p>
+<p>A lovely meetup at the Eagle.  Read more <a href="http://www.brightonbloggers.com/blog/archives/2008_11_01_index.php#5078930123994406907">here</a>  And take a look at the photos <a href="http://www.brightonbloggers.com/blog/archives/2008_11_01_index.php#7482972445865050747">here</a></p>
 
 <h2>November 3rd 2007</h2>
 <p>A great meetup, upstairs at the Victory, with about 14 or so bloggers.  Lots of chatting and drinking, and a round table discussion about what we blog about and why are we driven to do it - quite an interesting insight with a mixture of people blogging to remember, blogging to share and blogging to connect with people who may have similar interests.</p>
