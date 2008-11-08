@@ -129,6 +129,7 @@
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
 	<li><a href="http://www.callendercreates.com/blog/">Callender Creates</a></li>
 	<li><a href="http://cas-cool.livejournal.com/">Cas's Lurking Journal</a></li>
+	<li><a href="http://www.chapelstudiosbrighton.com/">Chapel Studios Brighton & Hove</a></li>
 	<li><a href="http://charitychallengethailand.blogspot.com/">Charity Challenge Thailand</a></li>
 	<li><a href="http://cheapbrighton.com/">Cheap Brighton</a></li>
 	<li><a href="http://www.triffid.org/blog/">Cheese dreams</a></li>
@@ -169,6 +170,7 @@
 	<li><a href="http://everyoneelsehasablog.blogspot.com/">Everyone Else Has A Blog</a></li>
 	<li><a href="http://www.feastofpalmer.com/">Feast of Palmer</a></li>
 	<li><a href="http://www.feedthepony.blogspot.com/">Feed The Pony</a></li>
+	<li><a href="http://fiftyfourfoodmiles.wordpress.com/">FiftyFourFoodMiles</a></li>
 	<li><a href="http://www.flambingo.net/">flambingo</a> - not updated since 2005</li>
 	<li><a href="http://www.flashist.co.uk/">Flashist</a></li>
 	<li><a href="http://www.flowerhunt.blogspot.com/">flower hunt</a></li>
@@ -179,6 +181,7 @@
 	<li><a href="http://www.geocities.com/fredpipes/blog/index.html">Fred's blog</a></li>
 	<li><a href="http://shirrk.blogspot.com/">Fresh air and new meaning in a safe space</a></li>
 	<li><a href="http://froggblog.leapfrogg.co.uk/">FroggBlog - Search Marketing blog</a></li>
+	<li><a href="http://fromtheonline.wordpress.com/">From the online</a></li>
 	<li><a href="http://fujiheavy.blogdrive.com/">Fuji Heavy</a></li>
 	<li><a href="http://www.kingdomyouknow.blogspot.com/">Fungi Thinking</a></li>
 	<li><a href="http://cubicspaces.blogspot.com/">gabs cubic space</a></li>
@@ -264,6 +267,7 @@
 	<li><a href="http://www.oneidea.co.uk/">One idea</a></li>
 	<li><a href="http://themonkeytypes.blogspot.com/">One Monkey, One Typewriter</a></li>
 	<li><a href="http://www.onemorewipe.com/">onemorewipe</a> - now showing gerbil cam</li>
+	<li><a href="http://blogs.journalism.co.uk/editors/">Online journalism news for journalists</a></li>
 	<li><a href="http://onlystopping.blogspot.com/">Only Stopping</a></li>
 	<li><a href="http://www.open.typepad.com/">Open (finds, minds, conversations)...</a></li>
 	<li><a href="http://omf.blogspot.com/">Other Men's Flowers</a></li>
@@ -325,6 +329,7 @@
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
+	<li><a href="http://jimpurbrick.com/">The Creation Engine No. 2</a></li> 
 	<li class="unavailable"><a class="unavailable" href="http://thedigitalgamer.typepad.com/">The Digital Gamer</a> - 404 Not found</li>
 	<li><a href="http://door22.wordpress.com/">The Door 22 Blog</a></li>
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
@@ -354,6 +359,7 @@
 	<li><a href="http://www.tomhume.org/">Tom Hume</a></li>
 	<li><a href="http://www.tomkiss.net/">Tom Kiss</a></li>
 	<li><a href="http://tomroper.typepad.com/">Tom Roper's Weblog</a></li>
+	<li><a href="http://brightonpainter.co.uk/blog">Tom's blog | Brighton Painter.com</a></li>
 	<li><a href="http://www.tonetek.co.uk/blog/">Tontek Blog: SEO, SEM, Internet News, Comment, Observations and Reviews</a></li>
 	<li><a href="http://archel.blogspot.com/">True Love and High Adventure</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.ttlblog.co.uk/">TTL Blog</a> - Server not found</li>
