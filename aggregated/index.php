@@ -41,7 +41,7 @@
 $debug = $_GET["debug"];
 set_time_limit(0);
 
-$file = "http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=50";
+$file = "http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss";
 
 $rss_channel = array();
 $currently_writing = "";
@@ -142,7 +142,7 @@ xml_parser_free($xml_parser);
 <title>Brighton Bloggers: An Aggregated display of Brighton Blogs</title>
 <link rel="stylesheet" type="text/css" media="screen" href="../styles/basic.css" />
 <link rel="stylesheet" type="text/css" media="print" href="../styles/print.css" />
-<link rel="alternate" href="http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=500" type="application/rss+xml" />
+<link rel="alternate" href="http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss" type="application/rss+xml" />
 </head>
 <body>
 
@@ -197,7 +197,7 @@ if (isset($rss_channel["ITEMS"])) {
 }
 ?> 
 <p>Want to read these in an rss reader?  Download the <a href="/brighton.opml">opml file</a> or subscribe to the <a href="http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=500">RSS feed</a>.</p>
-
+<p><a href="http://validator.opml.org/?url=http%3A%2F%2Fwww.brightonbloggers.com%2Fbrighton.opml"><img src="http://images.scripting.com/archiveScriptingCom/2005/10/31/valid3.gif" width="114" height="20" border="0" alt="OPML checked by validator.opml.org."></a></p>
 
 </div>
 
