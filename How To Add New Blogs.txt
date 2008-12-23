@@ -3,8 +3,6 @@ Adding a new blog
 For each blog...
 	Update blogs/index.php
 	Record name of blog and url for blogger entry
-	--Add rss feed to Brighton Bloggers bloglines account
-	--Add rss feed to blog digger - http://groups.blogdigger.com/groups.jsp?id=3467  - http://groups.blogdigger.com/editGroup.jsp?id=3467 (password = cs1de)
 	Add rss feed to opml file
 	Add link to http://www.google.com/coop/
 	Add to mailing list - http://alice.hatters.org.uk/cgi-bin/mailman/admin/brighton-bloggers/members/add

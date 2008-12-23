@@ -57,7 +57,7 @@
 <div id="content">
 
 <ul>
-	
+	<li><a href="http://annacarlson.tumblr.com/">*whatever*</a></li>
 	<li><a href="http://www.futurlab.blogspot.com/">_futurism</a></li>
 	<li><a href="http://1000thoughtsorless.blogspot.com/">1000 thoughts or less</a></li>
 	<li><a href="http://20yearsaveggie.blogspot.com/">20 years a veggie</a></li>
@@ -97,11 +97,13 @@
 	<li><a href="http://azuredreams.org">Azure Dreams</a></li>
 	<li><a href="http://daisydunkeld.com/blog">Baby Daisy's blog</a></li>
 	<li><a href="http://beesnthings.blogspot.com/">Bees n things</a></li>
+	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
 	<li><a href="http://www.bloggers4labour.org/">Bloggers4Labour</a></li>
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
+	<li><a href="http://blognostic.wordpress.com/">blognostic</a></li>
 	<li><a href="http://booksthatmatter.blogspot.com/">BooksThatMatter</a></li>
 	<li><a href="http://bozboz.wordpress.com/">Bozboz web design</a></li>
 	<li><a href="http://radio.weblogs.com/0100875/">Brain Off :: Mikel Maron</a></li>
@@ -118,6 +120,7 @@
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
 	<li><a href="http://www.brightonfusion.co.uk/live/">Brighton Fusion</a></li>
 	<li><a href="http://zenbullets.com/open/">Brighton Open Development Group</a></li>
+	<li><a href="http://brightonpeople.wordpress.com/">Brighton People in Words and Pictures</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
@@ -161,6 +164,7 @@
 	<li><a href="http://dreamfield.blogdrive.com/">dreamfield ix interactive</a></li>
 	<li><a href="http://www.dustbintin.com/">DustBinTin</a></li>
 	<li><a href="http://ed.acrewoods.net/blog">Ed's website</a></li>
+	<li><a href="http://www.alistairduncan.co.uk/">elements of a new cartography</a></li>
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
 	<li><a href="http://ianozsvald.com/">Entrepreneurial Geekiness</a></li>
@@ -241,6 +245,7 @@
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://www.mattanddebz.com/">mattanddebz.com</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
+	<li><a href="http://michaelashworth.wordpress.com/">Mike Ashworth</a></li>
 	<li><a href="http://www.ministryoftype.co.uk/">Ministry of Type</a></li>
 	<li><a href="http://www.missticklesays.blogspot.com/">Miss Tickle</a></li>
 	<li><a href="http://www.mobbu.com/blog">mobbu</a></li>
@@ -250,6 +255,7 @@
 	<li><a href="http://www.mornography.co.uk/">Mornography UK</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://mrvisitor.blogspot.com/">mrVisitor - On The Road Diary</a> - no content</li>
 	<li><a href="http://philgardner.blogspot.com/">Mulled Whines</a></li>
+	<li><a href="http://munkibum.blogspot.com/">Munki about Town</a></li>
 	<li><a href="http://superfi.typepad.com/">My blog ate my homework</a></li>
 	<li><a href="http://matt.mbardeen.net/diary/">My Life</a></li>
 	<li><a href="http://www.markbeal.co.uk">My life, Universe and Everything</a></li>
@@ -360,6 +366,7 @@
 	<li><a href="http://www.tomkiss.net/">Tom Kiss</a></li>
 	<li><a href="http://tomroper.typepad.com/">Tom Roper's Weblog</a></li>
 	<li><a href="http://brightonpainter.co.uk/blog">Tom's blog | Brighton Painter.com</a></li>
+	<li><a href="http://www.webdesignertom.co.uk/blog">Tom's blog | Web Designer Tom.com</a></li>
 	<li><a href="http://www.tonetek.co.uk/blog/">Tontek Blog: SEO, SEM, Internet News, Comment, Observations and Reviews</a></li>
 	<li><a href="http://archel.blogspot.com/">True Love and High Adventure</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.ttlblog.co.uk/">TTL Blog</a> - Server not found</li>
@@ -385,6 +392,7 @@
 	<li><a href="http://writingneuroses.blogspot.com/"> Writing Neuroses ... mine are rare, yours may be legion</a></li>
 	<li><a href="http://wulfweard.blogspot.com/">Wulfweard the White</a></li>
 	<li><a href="http://yandleblog.blogspot.com/">Yandleblog</a></li>
+	<li><a href="http://www.yogajenny.com/">Yoga Jenny</a></li>
 	<li><a href="http://www.ohyesindeed.blogspot.com/">Youth Equipped to Serve(Oh, Yes)</a></li>
 	<li><a href="http://www.yummy-wakame.com/weblog/">Yummy Wakame</a> - now mainly in Pittsburgh, Pennsylvania</li>
 	<li><a href="http://www.zenbullets.com/blog/">Zenbullets</a></li>

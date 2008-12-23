@@ -582,6 +582,25 @@
 
     <outline type="rss" text="FiftyFourFoodMiles" htmlUrl="http://fiftyfourfoodmiles.wordpress.com/" title="FiftyFourFoodMiles" xmlUrl="http://fiftyfourfoodmiles.wordpress.com/feed/"/>
 
+    <outline type="rss" text="*whatever*" htmlUrl="http://annacarlson.tumblr.com/" title="*whatever*" xmlUrl="http://annacarlson.tumblr.com/rss"/>
+
+    <outline type="rss" text="blognostic" htmlUrl="http://blognostic.wordpress.com/" title="blognostic" xmlUrl="http://blognostic.wordpress.com/feed/"/>
+
+    <outline type="rss" text="Brighton People in Words and Pictures" htmlUrl="http://brightonpeople.wordpress.com/" title="Brighton People in Words and Pictures" xmlUrl="http://brightonpeople.wordpress.com/feed/"/>
+
+    <outline type="rss" text="Munki about Town" htmlUrl="http://munkibum.blogspot.com/" title="Munki about Town" xmlUrl="http://munkibum.blogspot.com/feeds/posts/default?alt=rss"/>
+
+    <outline type="rss" text="elements of a new cartography" htmlUrl="http://www.alistairduncan.co.uk/" title="elements of a new cartography" xmlUrl="http://www.alistairduncan.co.uk/?feed=rss2"/>
+
+    <outline type="rss" text="Ben's Backpacking Travel Blog" htmlUrl="http://www.backpackerben.co.uk/" title="Ben's Backpacking Travel Blog" xmlUrl="http://www.backpackerben.co.uk/feed"/>
+
+    <outline type="rss" text="Mike Ashworth" htmlUrl="http://michaelashworth.wordpress.com/" title="Mike Ashworth" xmlUrl="http://michaelashworth.wordpress.com/feed/"/>
+
+    <outline type="rss" text="Tom's blog | Web Designer Tom.com" htmlUrl="http://www.webdesignertom.co.uk/blog" title="Tom's blog | Web Designer Tom.com" xmlUrl="http://www.webdesignertom.co.uk/blog/1/feed"/>
+
+    <outline type="rss" text="Yoga Jenny" htmlUrl="http://www.yogajenny.com/" title="Yoga Jenny" xmlUrl="http://www.yogajenny.com/?feed=rss2"/>
+
+
 </outline>
 </body>
 </opml>
