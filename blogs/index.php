@@ -138,15 +138,18 @@
 	<li><a href="http://www.triffid.org/blog/">Cheese dreams</a></li>
 	<li><a href="http://www.chickyog.net/">Chicken Yoghurt</a></li>
 	<li><a href="http://ccgi.chillicheese.plus.com/cgi-bin/weblog-br.php">ChilliCheeseBlog</a></li>
+	<li><a href="http://www.chocchick.com/chocchat/">CHOCchat...</a></li>
 	<li><a href="http://primesolid.com/chris/blog/">Chris's Blog</a> - not updated since 2004</li>
 	<li><a href="http://www.cjwords.blogspot.com">CJ Words</a></li>
 	<li><a href="http://www.clagnut.com/">Clagnut</a></li>
+	<li><a href="http://www.colinmercer.co.uk/">Colin Mercer on the Inter-Web</a></li>
 	<li><a href="http://www.brighton-hove-councillors.org.uk/index.cfm?request=a1700">councillors</a></li>
 	<li><a href="http://www.createdmetaphors.co.uk/">Created Metaphors</a></li>
 	<li><a href="http://members.lycos.co.uk/crosbie71/blog/">Crosbie's Blog Cabin</a></li>
 	<li><a href="http://www.livejournal.com/users/scarletdemon/">Cynical, drunken and lighting another cigar...</a></li>
 	<li><a href="http://www.themanfromdelmonte.co.uk/">Dan Goodwin's Blog</a></li>
 	<li><a href="http://www.danielkaspar.info/iamacamera/">Daniel Kaspar - i am a camera</a></li>
+	<li><a href="http://www.wilsondan.co.uk/">Dan Wilson : eBay expert, social networking, online community, ecommerce, stuff</a></li>
 	<li><a href="http://darkcafedays.blogspot.com/">dark cafe days</a></li>
 	<li><a href="http://darkteatimesoul.blogspot.com/">Dark Teatime Soul</a></li>
 	<li><a href="http://www.davidcraddock.net/">David Craddock's Technology Blog</a></li>
@@ -292,6 +295,7 @@
 	<li><a href="http://www.pubscene.co.uk/">Pub Scene - Brighton &amp; Hove pubs</a></li>
 	<li><a href="http://rajanand.biz/">RajAnand's bizzz</a></li> 
 	<li><a href="http://youfoundkel.blogspot.com/">Random outpourings from my mixed up mind</a></li>
+	<li><a href="http://reithian.blogspot.com/">Reithian</a></li>
 	<li><a href="http://rellyannettbaker.typepad.com/">Rellygious Teachings</a></li>
 	<li><a href="http://www.rowingrichard.blogspot.com/">Richard Mitchelson</a></li>
 	<li><a href="http://blog.spiralarm.com/richard/">Richard's Technical Notes</a></li>
@@ -340,6 +344,7 @@
 	<li><a href="http://door22.wordpress.com/">The Door 22 Blog</a></li>
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
 	<li><a href="http://thegayleprechaun.blogspot.com/">The Gay Leprechaun</a></li>
+	<li><a href="http://thegraphicfoodie.blogspot.com/">The Graphic Foodie</a></li>
 	<li><a href="http://www.inudian.com/">The Inudian - News from Inuda Innovations</a></li>
 	<li><a href="http://www.jroller.com/page/jnicho02">The Jezblog</a></li>
 	<li><a href="http://www.jzone.co.uk/">The jZone - Lee's musings on Java development</a></li>
@@ -377,9 +382,11 @@
 	<li><a href="http://www.azureworld.blogspot.com/">Up</a></li>
 	<li><a href="http://www.upstreamconnections.com/blog/">Upstream connections - SEO</a></li>
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
+	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
 	<li><a href="http://www.ilovejackdaniels.com/">Web design, development and marketing - ILoveJackDaniels.com</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/cyclelanes/cycleblog/">Weird cycle lanes</a></li>
+	<li><a href="http://theenook.wordpress.com/">Welcome to Thee Nook</a></li>
 	<li><a href="http://www.yogabrighton.net/">Welcome to yogabrighton</a></li>
 	<li><a href="http://wellieswithwings.blogspot.com/">Wellies with Wings</a></li>	
 	<li><a href="http://westpierwords.blogspot.com/">West Pier Words</a></li>
