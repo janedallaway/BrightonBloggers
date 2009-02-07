@@ -131,6 +131,7 @@
 	<li><a href="http://www.businessbricks.co.uk/">Business Bricks</a></li>
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
 	<li><a href="http://www.callendercreates.com/blog/">Callender Creates</a></li>
+	<li><a href="http://www.cashierclosed.blogspot.com/">Cashier Closed</a></li>
 	<li><a href="http://cas-cool.livejournal.com/">Cas's Lurking Journal</a></li>
 	<li><a href="http://www.chapelstudiosbrighton.com/">Chapel Studios Brighton & Hove</a></li>
 	<li><a href="http://charitychallengethailand.blogspot.com/">Charity Challenge Thailand</a></li>
