@@ -72,7 +72,7 @@
 	<li><a href="http://abovetherug.blogspot.com/">Above the rug</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
-	<li><a href="http://www.helptheflyingmonkeysareafterme.com/">Alex & the Web</a></li>
+	<li><a href="http://www.alexandtheweb.com/">Alex and the Web</a></li>
 	<li><a href="http://alexfarran.blogspot.com/">Alex's blog</a></li>
 	<li><a href="http://www.alexlaurie.net/">Alex's space</a></li>
 	<li><a href="http://www.alexasigno.co.uk/">Alex's Travel Blog & Travel Photos</a></li>
