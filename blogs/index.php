@@ -59,6 +59,7 @@
 <ul>
 	<li><a href="http://annacarlson.tumblr.com/">*whatever*</a></li>
 	<li><a href="http://www.futurlab.blogspot.com/">_futurism</a></li>
+	<li><a href="http://abandonedart.org/">100 Abandoned Artworks</a></li>
 	<li><a href="http://1000thoughtsorless.blogspot.com/">1000 thoughts or less</a></li>
 	<li><a href="http://20yearsaveggie.blogspot.com/">20 years a veggie</a></li>
 	<li><a href="http://23musings.blogspot.com/">23 Musings</a></li>
@@ -70,6 +71,7 @@
 	<li><a href="http://www.mobileintelligence.blogspot.com/">A mobile phone blog</a></li>
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
 	<li><a href="http://abovetherug.blogspot.com/">Above the rug</a></li>
+	<li><a href="http://actionscripter.co.uk/blog/">actionscripter.co.uk</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
 	<li><a href="http://www.alexandtheweb.com/">Alex and the Web</a></li>
@@ -146,6 +148,7 @@
 	<li><a href="http://www.colinmercer.co.uk/">Colin Mercer on the Inter-Web</a></li>
 	<li><a href="http://www.brighton-hove-councillors.org.uk/index.cfm?request=a1700">councillors</a></li>
 	<li><a href="http://www.createdmetaphors.co.uk/">Created Metaphors</a></li>
+	<li><a href="http://www.creativebloke.com/blog/">Creativeblokes Blog</a></li>
 	<li><a href="http://members.lycos.co.uk/crosbie71/blog/">Crosbie's Blog Cabin</a></li>
 	<li><a href="http://www.livejournal.com/users/scarletdemon/">Cynical, drunken and lighting another cigar...</a></li>
 	<li><a href="http://www.themanfromdelmonte.co.uk/">Dan Goodwin's Blog</a></li>
@@ -153,6 +156,7 @@
 	<li><a href="http://www.wilsondan.co.uk/">Dan Wilson : eBay expert, social networking, online community, ecommerce, stuff</a></li>
 	<li><a href="http://darkcafedays.blogspot.com/">dark cafe days</a></li>
 	<li><a href="http://darkteatimesoul.blogspot.com/">Dark Teatime Soul</a></li>
+	<li><a href="http://daveavenue.com/">daveavenue</a></li>
 	<li><a href="http://www.davidcraddock.net/">David Craddock's Technology Blog</a></li>
 	<li><a href="http://www.brightonlife.com/blog/users/dc/">David Croissant</a></li>
 	<li><a href="http://debutantewolves.blogspot.com/">DebutanteWolves</a></li>
@@ -162,6 +166,7 @@
 	<li><a href="http://www.nexusdp.co.uk/design-agency-blog/">Design Agency Blog</a></li>
 	<li><a href="http://www.rebeccacottrell.co.uk/blog/">Design Idea</a></li>
 	<li><a href="http://describe.blogspot.com/">De-scribed</a></li>
+	<li><a href="http://digitalunited.co.uk/">Digital United | Full-service integrated Digital agency - Award-winning Creative, Marketing, Advertising, Branding, Technology and Games Development</a></li>
 	<li><a href="http://dogdela.blogspot.com/">dogdela</a></li>
 	<li><a href="http://dorkatronic.blogspot.com/">DORKATRONIC</a></li>
 	<li><a href="http://siliconbea.ch/">Down at Silicon Beach</a></li>
@@ -330,6 +335,7 @@
 	<li><a href="http://stuartd.blogspot.com">Stuart's blog</a></li>
 	<li><a href="http://succor.co.uk/">Succor[TalkWebSolutions.co.uk]</a></li>
 	<li><a href="http://www.dnna.net/sinusoida/">Sunusoida photography Brighton</a></li>
+	<li><a href="http://superlative26.blogspot.com/">superlative</a></li>
 	<li><a href="http://surfing-holidays.blogspot.com/">Surfing Holidays - Surf Information, Videos, Gear, Lessons, Travel Info, and all things surf!</a></li>
 	<li><a href="http://sussexsocial.org/">Sussex Social | Out and about in Brighton & Hove</a></li>
 	<li><a href="http://talesfromwindycorner.blogspot.com/">Tales from Windy Corner</a></li>
@@ -340,6 +346,7 @@
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
+	<li><a href="http://contentedmummy.blogspot.com/">The Contended Mummy Blog</a></li>
 	<li><a href="http://jimpurbrick.com/">The Creation Engine No. 2</a></li> 
 	<li class="unavailable"><a class="unavailable" href="http://thedigitalgamer.typepad.com/">The Digital Gamer</a> - 404 Not found</li>
 	<li><a href="http://door22.wordpress.com/">The Door 22 Blog</a></li>
@@ -397,6 +404,7 @@
 	<li><a href="http://surgical-focus.blogspot.com/">With Surgical Focus</a></li> 
 	<li><a href="http://knowledgeconstructs.com/">WordPress SEO Websites & Plugins . Knowledge Constructs</a></li>
 	<li><a href="http://www.wordridden.com/">WordRidden</a></li>
+	<li><a href="http://www.whatwritesatmidnight.blogspot.com/">Writer by Night</a></li>
 	<li><a href="http://writingneuroses.blogspot.com/"> Writing Neuroses ... mine are rare, yours may be legion</a></li>
 	<li><a href="http://wulfweard.blogspot.com/">Wulfweard the White</a></li>
 	<li><a href="http://yandleblog.blogspot.com/">Yandleblog</a></li>
