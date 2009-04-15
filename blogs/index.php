@@ -114,6 +114,7 @@
 	<li><a href="http://brighton-co-uk.blogspot.com/">Brighton.co.uk - loving life in Brighton and Hove</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">Brighton Arts Blog</a></li>
 	<li><a href="http://brightonbelle.blogspot.com/">Brighton Belle</a></li>
+	<li><a href="http://brightonbits.blogspot.com/">Brighton Bits</a></li>
 	<li><a href="http://solrunosk.blogspot.com/">Brighton Blogg</a> - it's in Icelandic! (but hasn't been updated since 2003)</li>
 	<li class="unavailable"><a class="unavailable" href="http://brightonblog.blogspot.com/">Brighton Blog</a> - missing</li>
 	<li><a href="http://www.brightonbloggers.com/blog/">Brighton Bloggers</a> - our own blog</li>
@@ -192,6 +193,7 @@
 	<li><a href="http://blisteredeye.blogspot.com/">Fork in my eye</a></li>
 	<li><a href="http://www.four0four.net/">Four0Four</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/blog/index.html">Fred's blog</a></li>
+	<li><a href="http://www.thehussy.co.uk/">Free Brighton Guide | Brighton Art : Music : Cool Free Stuff : Magazine | The Brighton Hussy</a></li>
 	<li><a href="http://shirrk.blogspot.com/">Fresh air and new meaning in a safe space</a></li>
 	<li><a href="http://froggblog.leapfrogg.co.uk/">FroggBlog - Search Marketing blog</a></li>
 	<li><a href="http://fromtheonline.wordpress.com/">From the online</a></li>

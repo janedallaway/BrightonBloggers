@@ -600,7 +600,26 @@
 
     <outline type="rss" text="Yoga Jenny" htmlUrl="http://www.yogajenny.com/" title="Yoga Jenny" xmlUrl="http://www.yogajenny.com/?feed=rss2"/>
 
+    <outline type="rss" text="100 Abandoned Artworks" htmlUrl="http://abandonedart.org/" title="100 Abandoned Artworks" xmlUrl="http://abandonedart.org/?feed=rss2"/>
 
+	<outline type="rss" text="actionscripter.co.uk" htmlUrl="http://actionscripter.co.uk/blog/" title="actionscripter.co.uk" xmlUrl="http://actionscripter.co.uk/blog/?feed=rss2"/>
+
+	<outline type="rss" text="Writer By Night" htmlUrl="http://www.whatwritesatmidnight.blogspot.com/" title="Writer By Night" xmlUrl="http://whatwritesatmidnight.blogspot.com/feeds/posts/default?alt=rss"/>
+
+	<outline type="rss" text="daveavenue" htmlUrl="http://daveavenue.com/" title="daveavenue" xmlUrl="http://daveavenue.com/feed/"/>
+
+	<outline type="rss" text="The contented mummy blog" htmlUrl="http://contentedmummy.blogspot.com/?zx=ab7026419e337c4d" title="The contented mummy blog" xmlUrl="http://contentedmummy.blogspot.com/feeds/posts/default?alt=rss"/>
+
+	<outline type="rss" text="Digital United" htmlUrl="http://digitalunited.co.uk/" title="Digital United" xmlUrl="http://digitalunited.co.uk/feed.rss.html"/>
+
+	<outline type="rss" text="superlative" htmlUrl="http://superlative26.blogspot.com/" title="superlative" xmlUrl="http://superlative26.blogspot.com/feeds/posts/default?alt=rss"/>
+
+	<outline type="rss" text="Creativeblokes Blog" htmlUrl="http://www.creativebloke.com/blog/" title="Creativeblokes Blog" xmlUrl="http://www.creativebloke.com/blog/files/blogRSS.php"/>
+
+	<outline type="rss" text="Brighton Bits" htmlUrl="http://brightonbits.blogspot.com/" title="Brighton Bits" xmlUrl="http://brightonbits.blogspot.com/feeds/posts/default"/>
+
+	<outline type="rss" text="Free Brighton Guide | Brighton Art : Music : Cool Free Stuff : Magazine | The Brighton Hussy" htmlUrl="http://www.thehussy.co.uk/" title="Free Brighton Guide | Brighton Art : Music : Cool Free Stuff : Magazine | The Brighton Hussy" xmlUrl="http://www.thehussy.co.uk/feed/"/>
+	
 </outline>
 </body>
 </opml>
