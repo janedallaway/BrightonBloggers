@@ -68,6 +68,7 @@
 	<li><a href="http://6fish.wordpress.com/">6fish</a></li>
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
+	<li><a href="http://www.jonsilver.me.uk/jonsblog/">A Brighton Boy Blogs</a></li>
 	<li><a href="http://www.mobileintelligence.blogspot.com/">A mobile phone blog</a></li>
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
 	<li><a href="http://abovetherug.blogspot.com/">Above the rug</a></li>
@@ -93,6 +94,7 @@
 	<li><a href="http://www.ashtangabrighton.com/ashtanga_blog/">Ashtanga Brighton Blog</a></li>
 	<li><a href="http://assistantbrighton.blogspot.com">Assistant</a></li>
 	<li><a href="http://astrangeinvitation.wordpress.com">a strange invitation</a></li>
+	<li><a href="http://www.silverweddings.co.uk/wedlog/">A Sussex Wedding Photographer's Blog</a></li>
 	<li><a href="http://www.atticglimpse.blogspot.com/">Attic blogging</a></li>
 	<li><a href="http://authenticblogging.com/">Authentic blogging</a></li>
 	<li><a href="http://jonathanbaldwin.blogspot.com/">A Word In Your Ear</a></li>
@@ -169,6 +171,7 @@
 	<li><a href="http://describe.blogspot.com/">De-scribed</a></li>
 	<li><a href="http://digitalunited.co.uk/">Digital United | Full-service integrated Digital agency - Award-winning Creative, Marketing, Advertising, Branding, Technology and Games Development</a></li>
 	<li><a href="http://dogdela.blogspot.com/">dogdela</a></li>
+	<li><a href="http://pateswritings.wordpress.com/">Dom Pates: Collected Writings</a></li>
 	<li><a href="http://dorkatronic.blogspot.com/">DORKATRONIC</a></li>
 	<li><a href="http://siliconbea.ch/">Down at Silicon Beach</a></li>
 	<li><a href="http://dreamfield.blogdrive.com/">dreamfield ix interactive</a></li>
@@ -234,7 +237,9 @@
 	<li><a href="http://www.jamesbyford.co.uk/">Jim's allotment</a></li>
 	<li><a href="http://jimmysscrapbook.blogspot.com/">Jimmy's scrapbook</a></li>
 	<li><a href="http://joannemallon.typepad.com/joanne_the_coach/">Joanne the coach</a></li>
+	<li><a href="http://joeinbrightonblogs.blogspot.com/">Joe Blogs</a></li>
 	<li><a href="http://www.jonathanstewart.co.uk/">Jonathan's blog</a></li>
+	<li><a href="http://www.jonsilver.co.uk/">Jon Silver Photography - wedding, portrait and portfolio photographer, Brighton, Sussex, UK</a></li>
 	<li><a href="http://www.joshrussell.com/">Joshua Russell | Oosh Projects</a></li>
 	<li><a href="http://jugglingwithwater.blogspot.com/">jugglingwithwater</a></li>
 	<li><a href="http://justseventhings.com/">Just Seven Things</a></li>
@@ -256,7 +261,7 @@
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://www.mattanddebz.com/">mattanddebz.com</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
-	<li><a href="http://michaelashworth.wordpress.com/">Mike Ashworth</a></li>
+	<li><a href="http://www.mikeashworth.co.uk/">Mike Ashworth</a></li>
 	<li><a href="http://www.ministryoftype.co.uk/">Ministry of Type</a></li>
 	<li><a href="http://www.missticklesays.blogspot.com/">Miss Tickle</a></li>
 	<li><a href="http://www.mobbu.com/blog">mobbu</a></li>
@@ -329,6 +334,7 @@
 	<li><a href="http://simonwillison.net/">Simon Willison's Weblog</a></li>
 	<li><a href="http://www.solgilbert.com/">Sol 'Zero Tolerance' Gilbert</a></li>
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
+	<li><a href="http://sourmangopowder.blogspot.com/">Sour Mango Powder</a></li>
 	<li><a href="http://spindoctorsdisco.blogspot.com/"> Spin Doctors Mobile Disco</a></li>
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
 	<li><a href="http://splitdownthemiddle.blogspot.com/">Split down the middle</a></li>
@@ -340,6 +346,8 @@
 	<li><a href="http://superlative26.blogspot.com/">superlative</a></li>
 	<li><a href="http://surfing-holidays.blogspot.com/">Surfing Holidays - Surf Information, Videos, Gear, Lessons, Travel Info, and all things surf!</a></li>
 	<li><a href="http://sussexsocial.org/">Sussex Social | Out and about in Brighton & Hove</a></li>
+	<li><a href="http://www.luckydogphoto.com/blog/">Sussex wedding photographer's blog</a></li>
+	<li><a href="http://www.annadewis.com/blog/">Tales from my handbag</a></li>
 	<li><a href="http://talesfromwindycorner.blogspot.com/">Tales from Windy Corner</a></li>
 	<li><a href="http://tarahanks.wordpress.com/">Tara Hanks</a></li>
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
@@ -366,12 +374,14 @@
 	<li><a href="http://other-side-of-the-world.blogspot.com/">The other side of the world</a></li>
 	<li><a href="http://palace52.blogspot.com/">The Palace</a></li>
 	<li><a href="http://rangor.blogspot.com/">The past, present and future according to Rangor.</a></li>
+	<li><a href="http://www.tpvsuc.blogspot.com/">The people versus stand-up comedy</a></li>
 	<li><a href="http://thepirateking.wordpress.com/">the pirate king</a></li>
 	<li><a href="http://www.therapyinthemaking.co.uk/">therapy in the making</a></li>
 	<li><a href="http://therecommender.wordpress.com/">The Recommender</a></li>
 	<li><a href="http://www.thoughtballoon.co.uk/blog/">The Thought Balloon</a></li>
 	<li><a href="http://www.uniqueto.co.uk/blog/Indie">The Unique to Brighton Bulletin</a></li>
 	<li><a href="http://hotspits.blogspot.com/">The World is full of Pisswits</a></li>
+	<li><a href="http://greenamykennedy.blogspot.com/">They paved paradise, put up a parking lot</a></li>
 	<li><a href="http://tdwright.co.uk/">Thomas David Wright - Geek, student, cyclist, photographer, tea drinker...</a></li>
 	<li><a href="http://timeforanother.wordpress.com/">Time for Another</a></li>
 	<li><a href="http://www.timtim.typepad.com/timboland">Timboblog</a></li>
@@ -394,7 +404,7 @@
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
 	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
-	<li><a href="http://www.ilovejackdaniels.com/">Web design, development and marketing - ILoveJackDaniels.com</a></li>
+	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/cyclelanes/cycleblog/">Weird cycle lanes</a></li>
 	<li><a href="http://theenook.wordpress.com/">Welcome to Thee Nook</a></li>
 	<li><a href="http://www.yogabrighton.net/">Welcome to yogabrighton</a></li>

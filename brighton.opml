@@ -620,6 +620,19 @@
 
 	<outline type="rss" text="Free Brighton Guide | Brighton Art : Music : Cool Free Stuff : Magazine | The Brighton Hussy" htmlUrl="http://www.thehussy.co.uk/" title="Free Brighton Guide | Brighton Art : Music : Cool Free Stuff : Magazine | The Brighton Hussy" xmlUrl="http://www.thehussy.co.uk/feed/"/>
 	
+	<outline type="rss" text="Dom Pates: Collected Writings" htmlUrl="http://pateswritings.wordpress.com/" title="Dom Pates: Collected Writings" xmlUrl="http://pateswritings.wordpress.com/feed/"/>
+	<outline type="rss" text="Joe Blogs" htmlUrl="http://joeinbrightonblogs.blogspot.com/" title="Joe Blogs" xmlUrl="http://joeinbrightonblogs.blogspot.com/feeds/posts/default"/>
+	<outline type="rss" text="Web design, development and marketing - Added Bytes" htmlUrl="http://www.addedbytes.com/" title="Web design, development and marketing - Added Bytes" xmlUrl="http://www.addedbytes.com/feeds/rss/full/"/>
+	<outline type="rss" text="Mike Ashworth" htmlUrl="http://www.mikeashworth.co.uk/" title="Mike Ashworth" xmlUrl="http://www.mikeashworth.co.uk/feed/"/>
+	<outline type="rss" text="A Brighton Boy blogs" htmlUrl="http://www.jonsilver.me.uk/jonsblog/" title="A Brighton Boy blogs" xmlUrl="http://www.jonsilver.me.uk/jonsblog/index.php/feed/"/>
+	<outline type="rss" text="Jon Silver Photography - wedding, portrait and portfolio photographer, Brighton, Sussex, UK" htmlUrl="http://www.jonsilver.co.uk/" title="Jon Silver Photography - wedding, portrait and portfolio photographer, Brighton, Sussex, UK" xmlUrl="http://www.jonsilver.co.uk/feed"/>
+	<outline type="rss" text="A Sussex Wedding Photographer's Blog" htmlUrl="http://www.silverweddings.co.uk/wedlog/" title="A Sussex Wedding Photographer's Blog" xmlUrl="http://www.silverweddings.co.uk/wedlog/index.php/feed/"/>
+	<outline type="rss" text="Sussex wedding photographer's blog" htmlUrl="http://www.luckydogphoto.com/blog/" title="Sussex wedding photographer's blog" xmlUrl="http://www.luckydogphoto.com/blog/feed/"/>
+	<outline type="rss" text="Tales from my handbag" htmlUrl="http://www.annadewis.com/blog/" title="Tales from my handbag" xmlUrl="http://www.annadewis.com/blog/?feed=rss2"/>
+	<outline type="rss" text="Sour Mango Powder" htmlUrl="http://sourmangopowder.blogspot.com/" title="Sour Mango Powder" xmlUrl="http://sourmangopowder.blogspot.com/feeds/posts/default?alt=rss"/>
+	<outline type="rss" text="They paved paradise, put up a parking lot" htmlUrl="http://greenamykennedy.blogspot.com/" title="They paved paradise, put up a parking lot" xmlUrl="http://greenamykennedy.blogspot.com/feeds/posts/default"/>
+	<outline type="rss" text="The people versus stand-up comedy" htmlUrl="http://www.tpvsuc.blogspot.com/" title="The people versus stand-up comedy" xmlUrl="http://tpvsuc.blogspot.com/feeds/posts/default?alt=rss" />
+	
 </outline>
 </body>
 </opml>
