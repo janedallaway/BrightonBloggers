@@ -633,6 +633,20 @@
 	<outline type="rss" text="They paved paradise, put up a parking lot" htmlUrl="http://greenamykennedy.blogspot.com/" title="They paved paradise, put up a parking lot" xmlUrl="http://greenamykennedy.blogspot.com/feeds/posts/default"/>
 	<outline type="rss" text="The people versus stand-up comedy" htmlUrl="http://www.tpvsuc.blogspot.com/" title="The people versus stand-up comedy" xmlUrl="http://tpvsuc.blogspot.com/feeds/posts/default?alt=rss" />
 	
+	<outline type="rss" text="Kemptown Ben's green blog" htmlUrl="http://greenkemptownben.blogspot.com/" title="Kemptown Ben's green blog" xmlUrl="http://greenkemptownben.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Wedding Photography World" htmlUrl="http://weddingphotographyworld.blogspot.com/" title="Wedding Photography World" xmlUrl="http://weddingphotographyworld.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="The Digital Consultant - Online Marketing Services, Brighton UK" htmlUrl="http://www.thedigitalconsultant.co.uk/blog/" title="The Digital Consultant - Online Marketing Services, Brighton UK" xmlUrl="http://www.thedigitalconsultant.co.uk/blog/feed/" />
+	<outline type="rss" text="Karaoke blog from Lucky Voice: Stories from The Karaoke Coalface" htmlUrl="http://blog.luckyvoice.com/" title="Karaoke blog from Lucky Voice: Stories from The Karaoke Coalface" xmlUrl="http://blog.luckyvoice.com/feed/" />
+	<outline type="rss" text="Pang Mag" htmlUrl="http://pangmag.wordpress.com/" title="Pang Mag" xmlUrl="http://pangmag.wordpress.com/feed/" />
+	<outline type="rss" text="The Hovian" htmlUrl="http://xenophonsalbion.wordpress.com/" title="The Hovian" xmlUrl="http://thehovian.com/feed/" />
+	<outline type="rss" text="LA LUMINATA" htmlUrl="http://laluminata.wordpress.com/" title="LA LUMINATA" xmlUrl="http://laluminata.wordpress.com/feed/" />
+	<outline type="rss" text="VisitBrighton's Blog" htmlUrl="http://visitbrighton.blogspot.com/" title="VisitBrighton's Blog" xmlUrl="http://visitbrighton.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Singing Lessons Blog" htmlUrl="http://brightonsinginglessons.wordpress.com/" title="Singing Lessons Blog" xmlUrl="http://brightonsinginglessons.wordpress.com/feed/" />
+	<outline type="rss" text="Singing Lessons" htmlUrl="http://brightonsinginglessons.blogspot.com/" title="Singing Lessons" xmlUrl="http://brightonsinginglessons.blogspot.com/feeds/posts/default?alt=rss" />
+	
+	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
+
+	
 </outline>
 </body>
 </opml>

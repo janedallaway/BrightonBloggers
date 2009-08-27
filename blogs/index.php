@@ -243,10 +243,13 @@
 	<li><a href="http://www.joshrussell.com/">Joshua Russell | Oosh Projects</a></li>
 	<li><a href="http://jugglingwithwater.blogspot.com/">jugglingwithwater</a></li>
 	<li><a href="http://justseventhings.com/">Just Seven Things</a></li>
+	<li><a href="http://blog.luckyvoice.com/">Karaoke blog from Lucky Voice: Stories from The Karaoke Coalface</a></li>
+	<li><a href="http://greenkemptownben.blogspot.com/">Kemptown Ben's Green blog</a></li>
 	<li><a href="http://kendallcopywriting.co.uk/blog/">Kendall Copywriting - Freelance copywriting, editing, SEO and blogging in Brighton, Hove and London</a></li>
 	<li><a href="http://www.kindleresearch.com/">Kindle Research</a></li>
 	<li><a href="http://www.KingOfMyCastle.com">KingOfMyCastle</a></li>
 	<li><a href="http://blog.kwiqq.com/">Kwiqq blog</a></li>
+	<li><a href="http://laluminata.wordpress.com/">LA LUMINATA</a></li>
 	<li><a href="http://barkingowl.com/learning/">learning</a></li>
 	<li><a href="http://liberatemedia.typepad.com/">Liberate Media</a></li>
 	<li><a href="http://martian77.20six.co.uk/">Life on Mars - @20six.co.uk</a></li>
@@ -294,6 +297,7 @@
 	<li><a href="http://www.open.typepad.com/">Open (finds, minds, conversations)...</a></li>
 	<li><a href="http://omf.blogspot.com/">Other Men's Flowers</a></li>
 	<li><a href="http://owen1983.blogspot.com/">Owen's Illustrations</a></li>
+	<li><a href="http://pangmag.wordpress.com/">Pang Mag</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://photos.paperpixel.co.uk/">Paper Pixel</a> - Server not found</li>
 	<li><a href="http://www.adamkhan.net/parries">Parries > adamkhan.net</a></li>
 	<li><a href="http://paulannett.co.uk/">Paul Annett</a></li>
@@ -332,6 +336,8 @@
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
 	<li><a href="http://www.wordsby.me/">Short Stories :: and other stuff</a></li>
 	<li><a href="http://simonwillison.net/">Simon Willison's Weblog</a></li>
+	<li><a href="http://brightonsinginglessons.blogspot.com/">Singing Lessons</a></li>
+	<li><a href="http://brightonsinginglessons.wordpress.com/">Singing Lessons Blog</a></li>
 	<li><a href="http://www.solgilbert.com/">Sol 'Zero Tolerance' Gilbert</a></li>
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
 	<li><a href="http://sourmangopowder.blogspot.com/">Sour Mango Powder</a></li>
@@ -358,11 +364,13 @@
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
 	<li><a href="http://contentedmummy.blogspot.com/">The Contended Mummy Blog</a></li>
 	<li><a href="http://jimpurbrick.com/">The Creation Engine No. 2</a></li> 
+	<li><a href="http://www.thedigitalconsultant.co.uk/blog/">The Digital Consultant - Online Marketing Services, Brighton UK</a></li> 
 	<li class="unavailable"><a class="unavailable" href="http://thedigitalgamer.typepad.com/">The Digital Gamer</a> - 404 Not found</li>
 	<li><a href="http://door22.wordpress.com/">The Door 22 Blog</a></li>
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
 	<li><a href="http://thegayleprechaun.blogspot.com/">The Gay Leprechaun</a></li>
 	<li><a href="http://thegraphicfoodie.blogspot.com/">The Graphic Foodie</a></li>
+	<li><a href="http://xenophonsalbion.wordpress.com/">The Hovian</a></li>
 	<li><a href="http://www.inudian.com/">The Inudian - News from Inuda Innovations</a></li>
 	<li><a href="http://www.jroller.com/page/jnicho02">The Jezblog</a></li>
 	<li><a href="http://www.jzone.co.uk/">The jZone - Lee's musings on Java development</a></li>
@@ -404,7 +412,9 @@
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
 	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
+	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
+	<li><a href="http://weddingphotographyworld.blogspot.com/">Wedding Photography World</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/cyclelanes/cycleblog/">Weird cycle lanes</a></li>
 	<li><a href="http://theenook.wordpress.com/">Welcome to Thee Nook</a></li>
 	<li><a href="http://www.yogabrighton.net/">Welcome to yogabrighton</a></li>
