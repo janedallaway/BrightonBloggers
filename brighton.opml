@@ -643,8 +643,10 @@
 	<outline type="rss" text="VisitBrighton's Blog" htmlUrl="http://visitbrighton.blogspot.com/" title="VisitBrighton's Blog" xmlUrl="http://visitbrighton.blogspot.com/feeds/posts/default?alt=rss" />
 	<outline type="rss" text="Singing Lessons Blog" htmlUrl="http://brightonsinginglessons.wordpress.com/" title="Singing Lessons Blog" xmlUrl="http://brightonsinginglessons.wordpress.com/feed/" />
 	<outline type="rss" text="Singing Lessons" htmlUrl="http://brightonsinginglessons.blogspot.com/" title="Singing Lessons" xmlUrl="http://brightonsinginglessons.blogspot.com/feeds/posts/default?alt=rss" />
+
+	<outline type="rss" text="wirewatcher" htmlUrl="http://wirewatcher.wordpress.com/" title="wirewatcher" xmlUrl="http://wirewatcher.wordpress.com/feed/" />	
+	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
-	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
 
 	
 </outline>

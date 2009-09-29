@@ -419,6 +419,7 @@
 	<li><a href="http://a-nice-bit-of-fresh-air.blogspot.com/">Will Lockie's blog</a></li>
 	<li><a href="http://willthejugglerblog.blogspot.com/">will the jugglers thoughts</a></li>
 	<li><a href="http://www.wiredportfolio.com/blog/">Wired World</a></li>
+	<li><a href="http://wirewatcher.wordpress.com/">wirewatcher</a></li>
 	<li><a href="http://surgical-focus.blogspot.com/">With Surgical Focus</a></li> 
 	<li><a href="http://knowledgeconstructs.com/">WordPress SEO Websites & Plugins . Knowledge Constructs</a></li>
 	<li><a href="http://www.wordridden.com/">WordRidden</a></li>
