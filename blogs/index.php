@@ -264,6 +264,7 @@
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://www.mattanddebz.com/">mattanddebz.com</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
+	<li><a href="http://metrodeco.wordpress.com/">Metrodeco's Brighton Blog</a></li>
 	<li><a href="http://www.mikeashworth.co.uk/">Mike Ashworth</a></li>
 	<li><a href="http://www.ministryoftype.co.uk/">Ministry of Type</a></li>
 	<li><a href="http://www.missticklesays.blogspot.com/">Miss Tickle</a></li>
@@ -273,6 +274,7 @@
 	<li><a href="http://www.morethanconfused.blogspot.com/">More than confused</a></li>
 	<li><a href="http://www.mornography.co.uk/">Mornography UK</a></li>
 	<li><a href="http://mrvisitor.blogspot.com/">mrVisitor - On The Road Diary</a></li>
+	<li><a href="http://mulethomas.blogspot.com/">Mule Thomas</a></li>
 	<li><a href="http://philgardner.blogspot.com/">Mulled Whines</a></li>
 	<li><a href="http://munkibum.blogspot.com/">Munki about Town</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://superfi.typepad.com/">My blog ate my homework</a> - and then something ate the blog</li>

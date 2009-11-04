@@ -644,7 +644,12 @@
 	<outline type="rss" text="Singing Lessons Blog" htmlUrl="http://brightonsinginglessons.wordpress.com/" title="Singing Lessons Blog" xmlUrl="http://brightonsinginglessons.wordpress.com/feed/" />
 	<outline type="rss" text="Singing Lessons" htmlUrl="http://brightonsinginglessons.blogspot.com/" title="Singing Lessons" xmlUrl="http://brightonsinginglessons.blogspot.com/feeds/posts/default?alt=rss" />
 
-	<outline type="rss" text="wirewatcher" htmlUrl="http://wirewatcher.wordpress.com/" title="wirewatcher" xmlUrl="http://wirewatcher.wordpress.com/feed/" />	
+	<outline type="rss" text="wirewatcher" htmlUrl="http://wirewatcher.wordpress.com/" title="wirewatcher" xmlUrl="http://wirewatcher.wordpress.com/feed/" />
+	
+	<outline type="rss" text="Metrodeco's Brighton Blog" htmlUrl="http://metrodeco.wordpress.com/" title="Metrodeco's Brighton Blog" xmlUrl="http://metrodeco.wordpress.com/feed/" />
+	<outline type="rss" text="Mule Thomas" htmlUrl="http://mulethomas.blogspot.com/" title="Mule Thomas" xmlUrl="http://mulethomas.blogspot.com/feeds/posts/default" />
+	
+		
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
 
