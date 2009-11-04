@@ -399,6 +399,7 @@
 	<li><a href="http://brightonpainter.co.uk/blog">Tom's blog | Brighton Painter.com</a></li>
 	<li><a href="http://www.webdesignertom.co.uk/blog">Tom's blog | Web Designer Tom.com</a></li>
 	<li><a href="http://www.tonetek.co.uk/blog/">Tontek Blog: SEO, SEM, Internet News, Comment, Observations and Reviews</a></li>
+	<li><a href="http://www.treacleandink.co.uk/">Treacle & Ink</a></li>
 	<li><a href="http://archel.blogspot.com/">True Love and High Adventure</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.ttlblog.co.uk/">TTL Blog</a> - Server not found</li>
 	<li><a href="http://turningthetidebrighton.blogspot.com/">Turning the Tide</a></li>
