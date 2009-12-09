@@ -272,7 +272,7 @@
 
     <outline type="rss" text="Jabbering Giraffe" htmlUrl="http://happygiraffe.net/blog" title="Jabbering Giraffe" xmlUrl="http://happygiraffe.net/blog/xml/atom/feed.xml"/>
 
-    <outline type="rss" text="Jane and Richard's Yak and Natter" htmlUrl="http://www.janeandrichard.co.uk/" title="Jane and Richard's Yak and Natter" xmlUrl="http://www.janeandrichard.co.uk/blog/index.xml?style=rss1.xsl"/>
+    <outline type="rss" text="Jane and Richard's Yak and Natter" htmlUrl="http://www.janeandrichard.co.uk/" title="Jane and Richard's Yak and Natter" xmlUrl="http://www.janeandrichard.co.uk/feed"/>
 
     <outline type="rss" text="Jane's Photography Blog" htmlUrl="http://jane.dallaway.com/photography/photoblog/photoblog.html" title="Jane's Photography Blog" xmlUrl="http://jane.dallaway.com/photography/photoblog/atom.xml"/>
 
@@ -606,7 +606,7 @@
 
 	<outline type="rss" text="Writer By Night" htmlUrl="http://www.whatwritesatmidnight.blogspot.com/" title="Writer By Night" xmlUrl="http://whatwritesatmidnight.blogspot.com/feeds/posts/default?alt=rss"/>
 
-	<outline type="rss" text="daveavenue" htmlUrl="http://daveavenue.com/" title="daveavenue" xmlUrl="http://daveavenue.com/feed/"/>
+	<outline type="rss" text="daveavenue" htmlUrl="http://daveavenue.com/" title="daveavenue" xmlUrl="http://feeds.feedburner.com/daveavenue" />
 
 	<outline type="rss" text="The contented mummy blog" htmlUrl="http://contentedmummy.blogspot.com/?zx=ab7026419e337c4d" title="The contented mummy blog" xmlUrl="http://contentedmummy.blogspot.com/feeds/posts/default?alt=rss"/>
 
@@ -649,6 +649,14 @@
 	<outline type="rss" text="Metrodeco's Brighton Blog" htmlUrl="http://metrodeco.wordpress.com/" title="Metrodeco's Brighton Blog" xmlUrl="http://metrodeco.wordpress.com/feed/" />
 	<outline type="rss" text="Mule Thomas" htmlUrl="http://mulethomas.blogspot.com/" title="Mule Thomas" xmlUrl="http://mulethomas.blogspot.com/feeds/posts/default" />
 		
+	<outline type="rss" text="Brighton And Hove News" htmlUrl="http://www.brightonandhovenews.org/" title="Brighton And Hove News" xmlUrl="http://www.brightonandhovenews.org/feed/" />
+	<outline type="rss" text="Seaside Scribbler" htmlUrl="http://www.theseasidescribbler.blogspot.com/" title="Seaside Scribbler" xmlUrl="http://theseasidescribbler.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Jonny Nexus Online >> Blog" htmlUrl="http://jonnynexus.com/blog/" title="Jonny Nexus Online >> Blog" xmlUrl="http://jonnynexus.com/feed/" />
+	<outline type="rss" text="Love Poppy" htmlUrl="http://lovepoppy.blogspot.com/" title="Love Poppy" xmlUrl="http://lovepoppy.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Brighton News &amp; Reviews" htmlUrl="http://newsfrombrighton.blogspot.com/" title="Brighton News &amp; Reviews" xmlUrl="http://newsfrombrighton.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="annakissed" htmlUrl="http://annakissed.tumblr.com/" title="annakissed" xmlUrl="http://annakissed.tumblr.com/rss" />
+	<outline type="rss" text="Bored of Brighton" htmlUrl="http://boredofbrighton.blogspot.com/" title="Bored of Brighton" xmlUrl="http://boredofbrighton.blogspot.com/feeds/posts/default?alt=rss" />
+			
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
 

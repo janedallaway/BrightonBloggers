@@ -86,6 +86,7 @@
 	<li><a href="http://blog.willmcinnes.co.uk/blog/">An Online Marketing Guide</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
+	<li><a href="http://annakissed.tumblr.com/">annakissed</a></li>
 	<li><a href="http://johnriches.blogspot.com/">Anti-new labour and other musings</a></li>
 	<li><a href="http://antikewl.com/daily/">Antikewl Daily</a></li>
 	<li><a href="http://aplacecalledprovidence.com/">A Place Called Providence</a></li> 
@@ -109,11 +110,13 @@
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
 	<li><a href="http://blognostic.wordpress.com/">blognostic</a></li>
 	<li><a href="http://booksthatmatter.blogspot.com/">BooksThatMatter</a></li>
+	<li><a href="http://boredofbrighton.blogspot.com/">Bored of Brighton</a></li>
 	<li><a href="http://bozboz.wordpress.com/">Bozboz web design</a></li>
 	<li><a href="http://radio.weblogs.com/0100875/">Brain Off :: Mikel Maron</a></li>
 	<li><a href="http://www.whatalovelywar.co.uk/war">Break of Day in the Trenches</a></li>
 	<li><a href="http://www.rowstar.blogspot.com/">Breakfast in Bed</a></li>
 	<li><a href="http://brighton-co-uk.blogspot.com/">Brighton.co.uk - loving life in Brighton and Hove</a></li>
+	<li><a href="http://www.brightonandhovenews.org/">Brighton and Hove News</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">Brighton Arts Blog</a></li>
 	<li><a href="http://brightonbelle.blogspot.com/">Brighton Belle</a></li>
 	<li><a href="http://brightonbits.blogspot.com/">Brighton Bits</a></li>
@@ -124,6 +127,7 @@
 	<li><a href="http://brightondailyphoto.blogspot.com/">Brighton Daily Photo - Dean Harvey</a></li>
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
 	<li><a href="http://www.brightonfusion.co.uk/live/">Brighton Fusion</a></li>
+	<li><a href="http://newsfrombrighton.blogspot.com/">Brighton News &amp; Reviews</a></li>
 	<li><a href="http://zenbullets.com/blog/">Brighton Open Development Group</a></li>
 	<li><a href="http://brightonpeople.wordpress.com/">Brighton People in Words and Pictures</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
@@ -239,6 +243,7 @@
 	<li><a href="http://joannemallon.typepad.com/joanne_the_coach/">Joanne the coach</a></li>
 	<li><a href="http://joeinbrightonblogs.blogspot.com/">Joe Blogs</a></li>
 	<li><a href="http://www.jonathanstewart.co.uk/">Jonathan's blog</a></li>
+	<li><a href="http://jonnynexus.com/blog/">Jonny Nexus Online >> Blog</a></li>
 	<li><a href="http://www.jonsilver.co.uk/">Jon Silver Photography - wedding, portrait and portfolio photographer, Brighton, Sussex, UK</a></li>
 	<li><a href="http://www.joshrussell.com/">Joshua Russell | Oosh Projects</a></li>
 	<li><a href="http://jugglingwithwater.blogspot.com/">jugglingwithwater</a></li>
@@ -257,6 +262,7 @@
 	<li><a href="http://www.toque.co.uk/blog/">Little Man in a Toque</a></li>
 	<li><a href="http://www.littleredboat.co.uk ">Little Red Boat</a></li>
 	<li><a href="http://lovebrighton.blogspot.com">LoveBrighton</a> - no updates since 2003</li>
+	<li><a href="http://lovepoppy.blogspot.com/">Love Poppy</a></li>
 	<li><a href="http://lullyweb.com/">LullyWeb.Com</a></li>
 	<li><a href="http://lydz25.livejournal.com/">Lydzs Journal of comings and goings</a></li>
 	<li><a href="http://www.madmotive.com/">M.A.D. Motive</a></li>
@@ -331,6 +337,7 @@
 	<li><a href="http://blog.scouta.com/">scouta blog</a></li>
 	<li><a href="http://www.sebleedelisle.com/">See Lee-Delisle</a></li>
 	<li><a href="http://www.blogboz.co.uk/">Search Optimisation Brighton</a></li>
+	<li><a href="http://www.theseasidescribbler.blogspot.com/">Seaside Scribbler</a></li>
 	<li><a href="http://seratone.blogspot.com/">Seratone</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.sexandtheseafront.blogspot.com/">Sex & The Sea Front</a> - vanished</li>
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
