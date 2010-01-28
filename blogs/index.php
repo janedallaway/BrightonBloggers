@@ -134,6 +134,8 @@
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
+	<li><a href="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html">Brighton Visitor Nat's Blog</a></li>
+	<li><a href="http://www.brightonvisitor.com/Brighton_Nicks_Blog/Brighton_Nicks_Blog.html">Brighton Visitor Nick's Blog</a></li>
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
 	<li><a href="http://www.brighton-wok.com/">Brighton Wok production diary</a></li>
 	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
@@ -185,6 +187,7 @@
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
 	<li><a href="http://ianozsvald.com/">Entrepreneurial Geekiness</a></li>
+	<li><a href="http://erkdemon.blogspot.com/">ErkDemon</a></li>
 	<li><a href="http://www.eternalgaze.net/">Eternal Gaze</a></li>
 	<li><a href="http://etheldcofie.wordpress.com/">ethelcofie's How To Articles</a></li>
 	<li><a href="http://www.eventyr.co.uk/ramblings.html">Eventyr</a></li>
@@ -306,16 +309,20 @@
 	<li class="unavailable"><a class="unavailable" href="http://owen1983.blogspot.com/">Owen's Illustrations</a> - gone</li>
 	<li><a href="http://pangmag.wordpress.com/">Pang Mag</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://photos.paperpixel.co.uk/">Paper Pixel</a> - Server not found</li>
+	<li><a href="http://parkrunner.wordpress.com/">parkrunner</a></li>
 	<li><a href="http://www.adamkhan.net/parries">Parries > adamkhan.net</a></li>
 	<li><a href="http://paulannett.co.uk/">Paul Annett</a></li>
 	<li><a href="http://blog.grovelodge.co.uk/">Pet Care and News from Grove Lodge Vets</a></li>
 	<li><a href="http://www.petebarrwatson.com">Pete's Eats</a></li>
+	<li><a href="http://blog.picture-of-me.co.uk/">Picture of me - Brighton, Sussex, UK Blog</a></li>
 	<li><a href="http://plumshome.blogspot.com/">Plums</a> - no updates since 2004</li>
 	<li><a href="http://pootergeek.com/">PooterGeek</a></li>
+	<li><a href="http://popcornyblog.blogspot.com/">POPCORNY</a></li>
 	<li><a href="http://postingsfromanedge.blogspot.com/">Postings from an edge</a> - ex Brightonian in Tokyo</li>
 	<li class="unavailable"><a class="unavailable" href="http://www.pottymouse.com/">Pottymouse</a> - 403 error</li>
 	<li><a href="http://powerfulpierre.blogspot.com/">Powerfull Pierre holds forth</a></li>
 	<li><a href="http://presencelabs.com/">Presence Labs</a></li>
+	<li><a href="http://prestonville.org.uk/">Prestonville Postblog</a></li>
 	<li><a href="http://www.pubscene.co.uk/">Pub Scene - Brighton &amp; Hove pubs</a></li>
 	<li><a href="http://rajanand.biz/">RajAnand's bizzz</a></li> 
 	<li><a href="http://youfoundkel.blogspot.com/">Random outpourings from my mixed up mind</a></li>
@@ -330,6 +337,7 @@
 	<li><a href="http://rosiesherry.com/posing/">RosieLand</a></li>
 	<li><a href="http://sadiedark69.blogspot.com/">Sadie Dark Places</a></li>
 	<li><a href="http://marymagdalen.blogspot.com/">Saint Mary Magdalen, Brighton, UK</a></li>
+	<li><a href="http://www.salopiantree.com/">Salopiantree</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://andyjamesnelson.blogspot.com/">SandyGermsManson</a> - gone</li>
 	<li><a href="http://www.savetheroyalnavy.org/articles/">Save the Royal Navy - Articles</a></li>
 	<li><a href="http://savourysnark.blogspot.com/">savoury snark</a></li>

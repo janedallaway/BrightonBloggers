@@ -657,6 +657,15 @@
 	<outline type="rss" text="annakissed" htmlUrl="http://annakissed.tumblr.com/" title="annakissed" xmlUrl="http://annakissed.tumblr.com/rss" />
 	<outline type="rss" text="Bored of Brighton" htmlUrl="http://boredofbrighton.blogspot.com/" title="Bored of Brighton" xmlUrl="http://boredofbrighton.blogspot.com/feeds/posts/default?alt=rss" />
 			
+	<outline type="rss" text="salopiantree" htmlUrl="http://www.salopiantree.com" title="salopiantree" xmlUrl="http://www.salopiantree.com/feed/" />
+	<outline type="rss" text="POPCORNY" htmlUrl="http://popcornyblog.blogspot.com/" title="POPCORNY" xmlUrl="http://popcornyblog.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Prestonville Postblog" htmlUrl="http://prestonville.org.uk" title="Prestonville Postblog" xmlUrl="http://prestonville.org.uk/?feed=rss2" />
+	<outline type="rss" text="Picture of Me" htmlUrl="http://blog.picture-of-me.co.uk/" title="Picture of Me" xmlUrl="http://blog.picture-of-me.co.uk/?feed=rss2" />
+	<outline type="rss" text="Brighton Visitor Nick's Blog" htmlUrl="http://www.brightonvisitor.com/Brighton_Nicks_Blog/Brighton_Nicks_Blog.html" title="Brighton Visitor Nick's Blog" xmlUrl="http://www.brightonvisitor.com/Brighton_Visitor/Brighton_Nicks_Blog/rss.xml" />
+	<outline type="rss" text="Brighton Visitor Nat's Blog" htmlUrl="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html" title="Brighton Visitor Nat's Blog" xmlUrl="http://www.brightonvisitor.com/Brighton_Visitor/Brighton_Nats_Blog/rss.xml" />
+	<outline type="rss" text="parkrunner" htmlUrl="http://parkrunner.wordpress.com/" title="parkrunner" xmlUrl="http://parkrunner.wordpress.com/feed/" />
+	<outline type="rss" text="ErkDemon" htmlUrl="http://erkdemon.blogspot.com/" title="ErkDemon" xmlUrl="http://erkdemon.blogspot.com/feeds/posts/default?alt=rss" />
+						
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
 
