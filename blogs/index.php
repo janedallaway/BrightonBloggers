@@ -109,6 +109,7 @@
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
 	<li><a href="http://blognostic.wordpress.com/">blognostic</a></li>
+	<li><a href="http://bomtailey.wordpress.com/">bomtailey</a></li>
 	<li><a href="http://booksthatmatter.blogspot.com/">BooksThatMatter</a></li>
 	<li><a href="http://boredofbrighton.blogspot.com/">Bored of Brighton</a></li>
 	<li><a href="http://bozboz.wordpress.com/">Bozboz web design</a></li>
@@ -130,8 +131,10 @@
 	<li><a href="http://newsfrombrighton.blogspot.com/">Brighton News &amp; Reviews</a></li>
 	<li><a href="http://zenbullets.com/blog/">Brighton Open Development Group</a></li>
 	<li><a href="http://brightonpeople.wordpress.com/">Brighton People in Words and Pictures</a></li>
+	<li><a href="http://brightonpoliticsblogger.wordpress.com/">Brighton Politics Blog</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
+	<li><a href="http://brightonsongwriters.wordpress.com/">Brighton Songwriters</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
 	<li><a href="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html">Brighton Visitor Nat's Blog</a></li>
@@ -210,6 +213,7 @@
 	<li><a href="http://fujiheavy.blogdrive.com/">Fuji Heavy</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.kingdomyouknow.blogspot.com/">Fungi Thinking</a> - missing presumed dead</li>
 	<li><a href="http://cubicspaces.blogspot.com/">gabs cubic space</a></li>
+	<li><a href="http://gandhispeaks.blogspot.com/">Gandhi Speaks!</a></li>
 	<li><a href="http://www.brightongastronaut.com/">gastronaut</a></li>
 	<li><a href="http://www.gavpolitics.co.uk/">GavPOLITICS</a></li>
 	<li><a href="http://geeklan.co.uk/">GeekLAN</a></li>
@@ -237,8 +241,7 @@
 	<li><a href="http://itsraininginside.blogspot.com/">It's Raining Inside</a></li>
 	<li><a href="http://www.j-dom.org/">j-dom.org</a></li>
 	<li><a href="http://happygiraffe.net/blog/">Jabbering Giraffe</a></li>
-	<li><a href="http://jane.dallaway.com/blog/blog.html">Jane's work stuff</a></li>
-	<li><a href="http://jane.dallaway.com/photography/photoblog/photoblog.html">Jane's Photography stuff</a></li>
+	<li><a href="http://jane.dallaway.com">Jane Dallaway</a></li>
 	<li><a href="http://www.janeandrichard.co.uk/blog/index.xml">Jane and Richard's Yak and Natter</a></li>
 	<li><a href="http://www.jayonline.co.uk/blog">Jayonline Webdev Blog</a></li>
 	<li><a href="http://www.jamesbyford.co.uk/">Jim's allotment</a></li>
@@ -251,6 +254,7 @@
 	<li><a href="http://www.joshrussell.com/">Joshua Russell | Oosh Projects</a></li>
 	<li><a href="http://jugglingwithwater.blogspot.com/">jugglingwithwater</a></li>
 	<li><a href="http://justseventhings.com/">Just Seven Things</a></li>
+	<li><a href="http://justwritebrighton.wordpress.com/">Just Write - meet your muse</a></li> 
 	<li><a href="http://blog.luckyvoice.com/">Karaoke blog from Lucky Voice: Stories from The Karaoke Coalface</a></li>
 	<li><a href="http://greenkemptownben.blogspot.com/">Kemptown Ben's Green blog</a></li>
 	<li><a href="http://kendallcopywriting.co.uk/blog/">Kendall Copywriting - Freelance copywriting, editing, SEO and blogging in Brighton, Hove and London</a></li>
@@ -293,6 +297,7 @@
 	<li><a href="http://www.namethemushroom.blogspot.com/">Name That Mushroom!</a></li>
 	<li><a href="http://notes.natbat.net/">Natalie Downe</a></li>
 	<li><a href="http://www.neilson.co.uk/news-blog.aspx">Neilson News Blog - Latest Information and Offers</a></li>
+	<li><a href="http://newsfrombrighton.co.uk/">News from Brighton</a></li>
 	<li><a href="http://nicky-p.blogspot.com/">Nicky P's Blog of Metal</a> - an ex brighton resident coming to terms with life out of Brighton</li>
 	<li><a href="http://nigeyb.blogspot.com/">Nigeyb's World Of Joy</a></li>
 	<li><a href="http://niquimerret.com/">Niqui Merret</a></li>

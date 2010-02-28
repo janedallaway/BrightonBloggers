@@ -273,10 +273,8 @@
     <outline type="rss" text="Jabbering Giraffe" htmlUrl="http://happygiraffe.net/blog" title="Jabbering Giraffe" xmlUrl="http://happygiraffe.net/blog/xml/atom/feed.xml"/>
 
     <outline type="rss" text="Jane and Richard's Yak and Natter" htmlUrl="http://www.janeandrichard.co.uk/" title="Jane and Richard's Yak and Natter" xmlUrl="http://www.janeandrichard.co.uk/feed"/>
-
-    <outline type="rss" text="Jane's Photography Blog" htmlUrl="http://jane.dallaway.com/photography/photoblog/photoblog.html" title="Jane's Photography Blog" xmlUrl="http://jane.dallaway.com/photography/photoblog/atom.xml"/>
-
-    <outline type="rss" text="Jane's Technical Stuff" htmlUrl="http://jane.dallaway.com/blog/blog.html" title="Jane's Technical Stuff" xmlUrl="http://jane.dallaway.com/blog/atom.xml"/>
+  
+    <outline type="rss" text="Jane Dallaway" htmlUrl="http://jane.dallaway.com" title="Jane Dallaway" xmlUrl="http://jane.dallaway.com/rss.xml"/>
 
     <outline type="rss" text="JasonKitcat.com" htmlUrl="http://www.jasonkitcat.com/h/f/JDOM/blog//1//" title="JasonKitcat.com" xmlUrl="http://www.j-dom.org/h/f/JDOM/rss_write////?blog_id=1"/>
 
@@ -665,6 +663,15 @@
 	<outline type="rss" text="Brighton Visitor Nat's Blog" htmlUrl="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html" title="Brighton Visitor Nat's Blog" xmlUrl="http://www.brightonvisitor.com/Brighton_Visitor/Brighton_Nats_Blog/rss.xml" />
 	<outline type="rss" text="parkrunner" htmlUrl="http://parkrunner.wordpress.com/" title="parkrunner" xmlUrl="http://parkrunner.wordpress.com/feed/" />
 	<outline type="rss" text="ErkDemon" htmlUrl="http://erkdemon.blogspot.com/" title="ErkDemon" xmlUrl="http://erkdemon.blogspot.com/feeds/posts/default?alt=rss" />
+						
+	<outline type="rss" text="News from Brighton" htmlUrl="http://newsfrombrighton.co.uk" title="News from Brighton" xmlUrl="http://newsfrombrighton.co.uk/feed/" />						
+						
+						
+	<outline type="rss" text="Brighton Politics Blog" htmlUrl="http://brightonpoliticsblogger.wordpress.com/" title="Brighton Politics Blog" xmlUrl="http://brightonpoliticsblogger.wordpress.com/feed/" />
+	<outline type="rss" text="Brighton Songwriters" htmlUrl="http://brightonsongwriters.wordpress.com/" title="Brighton Songwriters" xmlUrl="http://brightonsongwriters.wordpress.com/feed/" />
+	<outline type="rss" text="Just Write - meet your muse" htmlUrl="http://justwritebrighton.wordpress.com/" title="Just Write - meet your muse" xmlUrl="http://justwritebrighton.wordpress.com/feed/" />
+	<outline type="rss" text="bomtailey" htmlUrl="http://bomtailey.wordpress.com/" title="bomtailey" xmlUrl="http://bomtailey.wordpress.com/feed/" />
+	<outline type="rss" text="Gandhi Speaks!" htmlUrl="http://gandhispeaks.blogspot.com/" title="Gandhi Speaks!" xmlUrl="http://gandhispeaks.blogspot.com/feeds/posts/default?alt=rss" />						
 						
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
