@@ -675,6 +675,11 @@
 						
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
+	<outline type="rss" text="Angry of Hove" htmlUrl="http://blog.andrewhancox.com/" title="Angry of Hove" xmlUrl="http://blog.andrewhancox.com/feed/" />
+	<outline type="rss" text="The Brighton Arts Blog" htmlUrl="http://brightonartsblog.blogspot.com/" title="The Brighton Arts Blog" xmlUrl="http://brightonartsblog.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Out And About With Your Dog Blog" htmlUrl="http://dogs-blog.out-and-about-with-your-dog.com/" title="Out And About With Your Dog Blog" xmlUrl="http://dogs-blog.out-and-about-with-your-dog.com/feed/" />
+	<outline type="rss" text="Sprismatic" htmlUrl="http://sprismatic.blogspot.com/" title="Sprismatic" xmlUrl="http://sprismatic.blogspot.com/feeds/posts/default?alt=rss" />
+	
 
 	
 </outline>

@@ -85,6 +85,7 @@
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
 	<li><a href="http://blog.willmcinnes.co.uk/blog/">An Online Marketing Guide</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
+	<li><a href="http://blog.andrewhancox.com/">Angry of hove</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
 	<li><a href="http://annakissed.tumblr.com/">annakissed</a></li>
 	<li><a href="http://johnriches.blogspot.com/">Anti-new labour and other musings</a></li>
@@ -311,6 +312,7 @@
 	<li><a href="http://onlystopping.blogspot.com/">Only Stopping</a></li>
 	<li><a href="http://www.open.typepad.com/">Open (finds, minds, conversations)...</a></li>
 	<li><a href="http://omf.blogspot.com/">Other Men's Flowers</a></li>
+	<li><a href="http://dogs-blog.out-and-about-with-your-dog.com/">Out And About With Your Dog Blog</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://owen1983.blogspot.com/">Owen's Illustrations</a> - gone</li>
 	<li><a href="http://pangmag.wordpress.com/">Pang Mag</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://photos.paperpixel.co.uk/">Paper Pixel</a> - Server not found</li>
@@ -365,6 +367,7 @@
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
 	<li><a href="http://splitdownthemiddle.blogspot.com/">Split down the middle</a></li>
 	<li><a href="http://splitpediment.wordpress.com/">Split Pediment</a></li>
+	<li><a href="http://sprismatic.blogspot.com/">Sprismatic</a></li>
 	<li><a href="http://www.stiffrook.com/">Stiffrook.com</a></li>
 	<li><a href="http://stuartd.blogspot.com">Stuart's blog</a></li>
 	<li><a href="http://succor.co.uk/">Succor[TalkWebSolutions.co.uk]</a></li>
@@ -379,6 +382,7 @@
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
 	<li><a href="http://tenpastmidnight.blogspot.com">tenpastmidnight</a></li>
 	<li><a href="http://www.thebrandsurgery.co.uk/blog/">The Brand Surgery Blog</a></li>
+	<li><a href="http://brightonartsblog.blogspot.com/">The Brighton Arts Blog</a></li>
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
