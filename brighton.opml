@@ -108,7 +108,7 @@
 
     <outline type="rss" text="brighton belle" htmlUrl="http://brightonbelle.blogspot.com/" title="brighton belle" xmlUrl="http://brightonbelle.blogspot.com/rss.xml"/>
 
-    <outline type="rss" text="Brighton Bloggers" htmlUrl="http://www.brightonbloggers.com/blog/index.php" title="Brighton Bloggers" xmlUrl="http://www.brightonbloggers.com/blog/rss.xml"/>
+    <outline type="rss" text="Brighton Bloggers" htmlUrl="http://blog.brightonbloggers.com/" title="Brighton Bloggers" xmlUrl="http://blog.brightonbloggers.com/atom.xml"/>
 
     <outline type="rss" text="brighton culture" htmlUrl="http://www.brightonculture.co.uk" title="brighton culture" xmlUrl="http://www.tobloggle.co.uk/feed/"/>
 
@@ -672,14 +672,17 @@
 	<outline type="rss" text="Just Write - meet your muse" htmlUrl="http://justwritebrighton.wordpress.com/" title="Just Write - meet your muse" xmlUrl="http://justwritebrighton.wordpress.com/feed/" />
 	<outline type="rss" text="bomtailey" htmlUrl="http://bomtailey.wordpress.com/" title="bomtailey" xmlUrl="http://bomtailey.wordpress.com/feed/" />
 	<outline type="rss" text="Gandhi Speaks!" htmlUrl="http://gandhispeaks.blogspot.com/" title="Gandhi Speaks!" xmlUrl="http://gandhispeaks.blogspot.com/feeds/posts/default?alt=rss" />						
-						
-	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
-	
+							
 	<outline type="rss" text="Angry of Hove" htmlUrl="http://blog.andrewhancox.com/" title="Angry of Hove" xmlUrl="http://blog.andrewhancox.com/feed/" />
 	<outline type="rss" text="The Brighton Arts Blog" htmlUrl="http://brightonartsblog.blogspot.com/" title="The Brighton Arts Blog" xmlUrl="http://brightonartsblog.blogspot.com/feeds/posts/default?alt=rss" />
 	<outline type="rss" text="Out And About With Your Dog Blog" htmlUrl="http://dogs-blog.out-and-about-with-your-dog.com/" title="Out And About With Your Dog Blog" xmlUrl="http://dogs-blog.out-and-about-with-your-dog.com/feed/" />
 	<outline type="rss" text="Sprismatic" htmlUrl="http://sprismatic.blogspot.com/" title="Sprismatic" xmlUrl="http://sprismatic.blogspot.com/feeds/posts/default?alt=rss" />
 	
+	<outline type="rss" text="Vanilla Sugar" htmlUrl="http://vanillasugarblog.blogspot.com/" title="Vanilla Sugar" xmlUrl="http://vanillasugarblog.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Man About Brighton, helping the good businesses in Brighton and Hove survive" htmlUrl="http://www.manaboutbrighton.co.uk/" title="Man About Brighton, helping the good businesses in Brighton and Hove survive" xmlUrl="http://www.manaboutbrighton.co.uk/feed/" />
+	<outline type="rss" text="Pixie-Lee's Blog" htmlUrl="http://brightonpixie.wordpress.com/" title="Pixie-Lee's Blog" xmlUrl="http://brightonpixie.wordpress.com/feed/" />
+	
+	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 
 	
 </outline>

@@ -158,7 +158,7 @@ xml_parser_free($xml_parser);
 <!-- <li><a href="../">Home</a></li> -->
 <li><a href="../blog/">Brighton Blogs</a></li>
 <li><a href="../podcasts/">Podcasts</a></li>
-<li><a href="../blog/">Blog</a></li>
+<li><a href="http://blog.brightonbloggers.com">Blog</a></li>
 <li><a href="../meetup/">Meetup</a></li>
 <li><a href="../links/">Links</a></li>
 <li><span>Aggregated</span></li>

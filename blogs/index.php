@@ -21,7 +21,7 @@
 <!-- <li><a href="../">Home</a></li> -->
 <li><span>Brighton Blogs</span></li>
 <li><a href="../podcasts/">Podcasts</a></li>
-<li><a href="../blog/">Blog</a></li>
+<li><a href="http://blog.brightonbloggers.com">Blog</a></li>
 <li><a href="../meetup/">Meetup</a></li>
 <li><a href="../links/">Links</a></li>
 <li><a href="../aggregated/">Aggregated</a></li>
@@ -275,6 +275,7 @@
 	<li><a href="http://lydz25.livejournal.com/">Lydzs Journal of comings and goings</a></li>
 	<li><a href="http://www.madmotive.com/">M.A.D. Motive</a></li>
 	<li><a href="http://madbaggagerambling.blogspot.com/">Mad Baggage</a></li>
+	<li><a href="http://www.manaboutbrighton.co.uk/">Man About Brighton, helping the good businesses in Brighton and Hove survive</a></li>
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://www.mattanddebz.com/">mattanddebz.com</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
@@ -322,6 +323,7 @@
 	<li><a href="http://blog.grovelodge.co.uk/">Pet Care and News from Grove Lodge Vets</a></li>
 	<li><a href="http://www.petebarrwatson.com">Pete's Eats</a></li>
 	<li><a href="http://blog.picture-of-me.co.uk/">Picture of me - Brighton, Sussex, UK Blog</a></li>
+	<li><a href="http://brightonpixie.wordpress.com/">Pixie-Lee's Blog</a></li>
 	<li><a href="http://plumshome.blogspot.com/">Plums</a> - no updates since 2004</li>
 	<li><a href="http://pootergeek.com/">PooterGeek</a></li>
 	<li><a href="http://popcornyblog.blogspot.com/">POPCORNY</a></li>
@@ -433,6 +435,7 @@
 	<li><a href="http://www.azureworld.blogspot.com/">Up</a></li>
 	<li><a href="http://www.upstreamconnections.com/blog/">Upstream connections - SEO</a></li>
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
+	<li><a href="http://vanillasugarblog.blogspot.com/">Vanilla Sugar</a></li>
 	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
 	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
