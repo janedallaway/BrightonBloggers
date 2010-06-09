@@ -117,6 +117,7 @@
 	<li><a href="http://radio.weblogs.com/0100875/">Brain Off :: Mikel Maron</a></li>
 	<li><a href="http://www.whatalovelywar.co.uk/war">Break of Day in the Trenches</a></li>
 	<li><a href="http://www.rowstar.blogspot.com/">Breakfast in Bed</a></li>
+	<li><a href="http://bridgetwhelan-writer.blogspot.com/">Bridget Whelan</a></li>
 	<li><a href="http://brighton-co-uk.blogspot.com/">Brighton.co.uk - loving life in Brighton and Hove</a></li>
 	<li><a href="http://www.brightonandhovenews.org/">Brighton and Hove News</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">Brighton Arts Blog</a></li>
@@ -140,6 +141,7 @@
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
 	<li><a href="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html">Brighton Visitor Nat's Blog</a></li>
 	<li><a href="http://www.brightonvisitor.com/Brighton_Nicks_Blog/Brighton_Nicks_Blog.html">Brighton Visitor Nick's Blog</a></li>
+	<li><a href="http://www.brightonwebcam.com/">Brighton Webcam</a></li>
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
 	<li><a href="http://www.brighton-wok.com/">Brighton Wok production diary</a></li>
 	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
@@ -350,6 +352,7 @@
 	<li class="unavailable"><a class="unavailable" href="http://andyjamesnelson.blogspot.com/">SandyGermsManson</a> - gone</li>
 	<li><a href="http://www.savetheroyalnavy.org/articles/">Save the Royal Navy - Articles</a></li>
 	<li><a href="http://savourysnark.blogspot.com/">savoury snark</a></li>
+	<li><a href="http://www.scaresarah.blogspot.com/">Scare Sarah</a></li>
 	<li><a href="http://www.schvtrn.com/latest.html">Scholtz Vitrine: NewsBleed</a></li>
 	<li><a href="http://blog.scouta.com/">scouta blog</a></li>
 	<li><a href="http://www.sebleedelisle.com/">See Lee-Delisle</a></li>

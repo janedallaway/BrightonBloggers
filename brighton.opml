@@ -573,6 +573,11 @@
 	<outline type="rss" text="Man About Brighton, helping the good businesses in Brighton and Hove survive" htmlUrl="http://www.manaboutbrighton.co.uk/" title="Man About Brighton, helping the good businesses in Brighton and Hove survive" xmlUrl="http://www.manaboutbrighton.co.uk/feed/" />
 	<outline type="rss" text="Pixie-Lee's Blog" htmlUrl="http://brightonpixie.wordpress.com/" title="Pixie-Lee's Blog" xmlUrl="http://brightonpixie.wordpress.com/feed/" />
 	
+	<outline type="rss" text="Bridget Whelan" htmlUrl="http://bridgetwhelan-writer.blogspot.com/" title="Bridget Whelan" xmlUrl="http://bridgetwhelan-writer.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Scare Sarah" htmlUrl="http://www.scaresarah.blogspot.com/" title="Scare Sarah" xmlUrl="http://scaresarah.blogspot.com/feeds/posts/default?alt=rs" />
+	<outline type="rss" text="Brighton Webcam" htmlUrl="http://www.brightonwebcam.com/" title="Brighton Webcam" xmlUrl="http://www.brightonwebcam.com/feed" />
+	
+	
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
 </outline>

@@ -10,3 +10,4 @@ For each blog...
 	
 Once all added
 	Post blog about new blogs added		
+	Validate opml file at http://feedvalidator.org/
