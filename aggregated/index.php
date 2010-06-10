@@ -39,6 +39,7 @@
 */
 
 $debug = $_GET["debug"];
+error_reporting(0); //turn off all error reporting
 set_time_limit(0);
 
 $file = "http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss";
@@ -113,24 +114,33 @@ function characterData($parser, $data) {
 $xml_parser = xml_parser_create();
 xml_set_element_handler($xml_parser, "startElement", "endElement");
 xml_set_character_data_handler($xml_parser, "characterData");
-if (!($fp = fopen($file, "r"))) {
-	die("could not open XML input");
-}
 
-if ($debug==1)
-	print("File is open\n<br />");
-	
-while ($data = fread($fp, 8192)) {
-	if (!xml_parse($xml_parser, $data, feof($fp))) {
-		// only output the error if we're running in debug mode, otherwise carry on regardless
-		if ($debug==1)
-			(sprintf("XML error: %s at line %d",
-					xml_error_string(xml_get_error_code($xml_parser)),
-					xml_get_current_line_number($xml_parser)));
-					
+try
+{
+
+	if (!($fp = fopen($file, "r"))) {
+		throw new Exception('Could not open file!'); 
 	}
+	
+	if ($debug==1)
+		print("File is open\n<br />");
+		
+	while ($data = fread($fp, 8192)) {
+		if (!xml_parse($xml_parser, $data, feof($fp))) {
+			// only output the error if we're running in debug mode, otherwise carry on regardless
+			if ($debug==1)
+				(sprintf("XML error: %s at line %d",
+						xml_error_string(xml_get_error_code($xml_parser)),
+						xml_get_current_line_number($xml_parser)));
+						
+		}
+	}
+	xml_parser_free($xml_parser);
 }
-xml_parser_free($xml_parser);
+catch (Exception $e) 
+{ 
+    $error = true;
+}
 
 ?>
 
@@ -181,19 +191,26 @@ xml_parser_free($xml_parser);
 <div id="content">
 
 <?php
-print ("<h2>The most recent " . count($rss_channel["ITEMS"]) . " posts to the <a href=\"http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&amp;_render=rss&amp;max_items=500\">Brighton Bloggers aggregated RSS feed</a></h2>");
-
-if (isset($rss_channel["ITEMS"])) {
-	if (count($rss_channel["ITEMS"]) > 0) {
-		for($i = 0;$i < count($rss_channel["ITEMS"]);$i++) {
-			print ("\n<div class=\"blogpost\"><h3>" . $rss_channel["ITEMS"][$i]["TITLE"] . "</h3></a>");
-			print (html_entity_decode($rss_channel["ITEMS"][$i]["DESCRIPTION"]));			
-			print (" <div class=\"byline\">Posted at " . $rss_channel["ITEMS"][$i]["SOURCE"] . " by " . $rss_channel["ITEMS"][$i]["AUTHOR"] . " on <a href=\"" . $rss_channel["ITEMS"][$i]["LINK"] . "\">"  . $rss_channel["ITEMS"][$i]["PUBDATE"] . "</a></div>");
-			print ("</div>");
+if ($error != true)
+{
+	print ("<h2>The most recent " . count($rss_channel["ITEMS"]) . " posts to the <a href=\"http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&amp;_render=rss&amp;max_items=500\">Brighton Bloggers aggregated RSS feed</a></h2>");
+	
+	if (isset($rss_channel["ITEMS"])) {
+		if (count($rss_channel["ITEMS"]) > 0) {
+			for($i = 0;$i < count($rss_channel["ITEMS"]);$i++) {
+				print ("\n<div class=\"blogpost\"><h3>" . $rss_channel["ITEMS"][$i]["TITLE"] . "</h3></a>");
+				print (html_entity_decode($rss_channel["ITEMS"][$i]["DESCRIPTION"]));			
+				print (" <div class=\"byline\">Posted at " . $rss_channel["ITEMS"][$i]["SOURCE"] . " by " . $rss_channel["ITEMS"][$i]["AUTHOR"] . " on <a href=\"" . $rss_channel["ITEMS"][$i]["LINK"] . "\">"  . $rss_channel["ITEMS"][$i]["PUBDATE"] . "</a></div>");
+				print ("</div>");
+			}
+		} else {
+			print ("<b>There are no articles in this feed.</b>");
 		}
-	} else {
-		print ("<b>There are no articles in this feed.</b>");
 	}
+}
+else
+{
+	print("Can't open the aggregated feed at this time - yahoo pipes might be down");
 }
 ?> 
 <p>Want to read these in an rss reader?  Download the <a href="/brighton.opml">opml file</a> or subscribe to the <a href="http://pipes.yahoo.com/pipes/pipe.run?_id=f7dd07fa5dd1961408d7323cc42dcb46&_render=rss&max_items=500">RSS feed</a>.</p>
