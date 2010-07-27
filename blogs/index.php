@@ -144,6 +144,7 @@
 	<li><a href="http://www.brightonwebcam.com/">Brighton Webcam</a></li>
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
 	<li><a href="http://www.brighton-wok.com/">Brighton Wok production diary</a></li>
+	<li><a href="http://brightonyourday.co.uk/">Brighton Your Day - Brighton Blog</a></li>
 	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
 	<li><a href="http://www.businessbricks.co.uk/">Business Bricks</a></li>
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
@@ -190,6 +191,7 @@
 	<li><a href="http://www.dustbintin.com/">DustBinTin</a></li>
 	<li><a href="http://ed.acrewoods.net/blog">Ed's website</a></li>
 	<li><a href="http://www.alistairduncan.co.uk/">elements of a new cartography</a></li>
+	<li><a href="http://www.elizabethdanon.com/blog/">Elizabeth Danon | Interior Designer &amp; Artist</a></li>
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
 	<li><a href="http://ianozsvald.com/">Entrepreneurial Geekiness</a></li>
@@ -228,7 +230,9 @@
 	<li><a href="http://www.overlandtraveltohk.blogspot.com/">Harwich to Hong Kong</a></li>
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
 	<li><a href="http://hiidunia.blogspot.com/">Hii Dunia</a></li>
+	<li><a href="http://hovefabulousfashionista.blogspot.com/">Hove Fabulous Fashionista</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.hubmind.net">hubmind.net</a> - new site coming 2008</li>
+	<li><a href="http://www.i-clic.co.uk/page_id68/">i-Clic</a></li>
 	<li><a href="http://idigitdesign.com/blog/">idigit design blog</a></li>
 	<li><a href="http://iestyn.net/wp/">Iestyn Lloyd</a></li>
 	<li><a href="http://www.quinparker.com/">If You Lived Here You Would Be Home By Now</a></li>
@@ -244,8 +248,9 @@
 	<li><a href="http://itsraininginside.blogspot.com/">It's Raining Inside</a></li>
 	<li><a href="http://www.j-dom.org/">j-dom.org</a></li>
 	<li><a href="http://happygiraffe.net/blog/">Jabbering Giraffe</a></li>
-	<li><a href="http://jane.dallaway.com">Jane Dallaway</a></li>
 	<li><a href="http://www.janeandrichard.co.uk/blog/index.xml">Jane and Richard's Yak and Natter</a></li>
+	<li><a href="http://janeonthemove.posterous.com/">Jane on the move</a></li>
+	<li><a href="http://jane.dallaway.com">Jane Dallaway</a></li>
 	<li><a href="http://www.jayonline.co.uk/blog">Jayonline Webdev Blog</a></li>
 	<li><a href="http://www.jamesbyford.co.uk/">Jim's allotment</a></li>
 	<li><a href="http://jimmysscrapbook.blogspot.com/">Jimmy's scrapbook</a></li>
@@ -277,6 +282,7 @@
 	<li><a href="http://lydz25.livejournal.com/">Lydzs Journal of comings and goings</a></li>
 	<li><a href="http://www.madmotive.com/">M.A.D. Motive</a></li>
 	<li><a href="http://madbaggagerambling.blogspot.com/">Mad Baggage</a></li>
+	<li><a href="http://labsblog.madgex.com/">Madgex Labs blog</a></li>
 	<li><a href="http://www.manaboutbrighton.co.uk/">Man About Brighton, helping the good businesses in Brighton and Hove survive</a></li>
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://www.mattanddebz.com/">mattanddebz.com</a></li>
@@ -388,6 +394,7 @@
 	<li><a href="http://tenpastmidnight.blogspot.com">tenpastmidnight</a></li>
 	<li><a href="http://www.thebrandsurgery.co.uk/blog/">The Brand Surgery Blog</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">The Brighton Arts Blog</a></li>
+	<li><a href="http://thebrightoner.blogspot.com/">thebrightoner</a></li>
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
@@ -415,6 +422,8 @@
 	<li><a href="http://therecommender.wordpress.com/">The Recommender</a></li>
 	<li><a href="http://www.thoughtballoon.co.uk/blog/">The Thought Balloon</a></li>
 	<li><a href="http://www.uniqueto.co.uk/blog/Indie">The Unique to Brighton Bulletin</a></li>
+	<li><a href="http://usualshop.wordpress.com/">The Usual Shop</a></li>
+	<li><a href="http://thewilkyway.co.uk/">The Wilky Way</a></li>
 	<li><a href="http://hotspits.blogspot.com/">The World is full of Pisswits</a></li>
 	<li><a href="http://greenamykennedy.blogspot.com/">They paved paradise, put up a parking lot</a></li>
 	<li><a href="http://tdwright.co.uk/">Thomas David Wright - Geek, student, cyclist, photographer, tea drinker...</a></li>
@@ -440,6 +449,7 @@
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
 	<li><a href="http://vanillasugarblog.blogspot.com/">Vanilla Sugar</a></li>
 	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
+	<li><a href="http://vickeh.com/journal/">Vicky {says hello}</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
 	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>

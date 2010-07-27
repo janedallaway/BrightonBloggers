@@ -577,6 +577,16 @@
 	<outline type="rss" text="Scare Sarah" htmlUrl="http://www.scaresarah.blogspot.com/" title="Scare Sarah" xmlUrl="http://scaresarah.blogspot.com/feeds/posts/default?alt=rs" />
 	<outline type="rss" text="Brighton Webcam" htmlUrl="http://www.brightonwebcam.com/" title="Brighton Webcam" xmlUrl="http://www.brightonwebcam.com/feed" />
 	
+	<outline type="rss" text="The Usual Shop" htmlUrl="http://usualshop.wordpress.com/" title="The Usual Shop" xmlUrl="http://usualshop.wordpress.com/feed/" />
+	<outline type="rss" text="Hove Fabulous Fashionista" htmlUrl="http://hovefabulousfashionista.blogspot.com/" title="Hove Fabulous Fashionista" xmlUrl="http://hovefabulousfashionista.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="i-clic" htmlUrl="http://www.i-clic.co.uk/page_id68/" title="i-clic" xmlUrl="http://www.i-clic.co.uk/feed/" />
+	<outline type="rss" text="Elizabeth Danon | Interior Designer &amp; Artist" htmlUrl="http://www.elizabethdanon.com/blog/" title="Elizabeth Danon | Interior Designer &amp; Artist" xmlUrl="http://www.elizabethdanon.com/feed/" />
+	<outline type="rss" text="The Wilky Way" htmlUrl="http://thewilkyway.co.uk/" title="The Wilky Way" xmlUrl="http://thewilkyway.co.uk/feed" />
+	<outline type="rss" text="Vicky {says hello}" htmlUrl="http://vickeh.com/journal/" title="Vicky {says hello}" xmlUrl="http://vickeh.com/journal/?feed=rss2" />
+	<outline type="rss" text="Brighton Your Day - Brighton Blog" htmlUrl="http://brightonyourday.co.uk/" title="Brighton Your Day - Brighton Blog" xmlUrl="http://brightonyourday.co.uk/feed" />
+	<outline type="rss" text="thebrightoner" htmlUrl="http://thebrightoner.blogspot.com/" title="thebrightoner" xmlUrl="http://thebrightoner.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Jane on the move" htmlUrl="http://janeonthemove.posterous.com/" title="Jane on the move" xmlUrl="http://janeonthemove.posterous.com/rss.xml" />
+		
 	
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
 	
