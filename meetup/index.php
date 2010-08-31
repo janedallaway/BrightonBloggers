@@ -43,8 +43,10 @@
 
 
 <div id="content">
-<h2>Next meetup - 29th January 2008</h2>
-<p>The next meetup will be held in January, 3 months after the last one.  I'll announce the venue closer to the time, but keep an eye on the details via the <a href="http://upcoming.yahoo.com/event/1321415/">upcoming page</a></p>
+<h2>11th August 2010</h2>
+<p>It had been a while, but we joined up with the Argus bloggers to have a summer social on the beach.  Much booze was drunk.  Jo even brought a picnic and lashings of ginger beer.</p>
+<h2>29th January 2009</h2>
+<p>Held in January, 3 months after the last one, held at the Florist on Upper North Street.</p>
 <h2>Next meetup - October 30th 2008</h2>
 <p>A lovely meetup at the Eagle.  Read more <a href="http://www.brightonbloggers.com/blog/archives/2008_11_01_index.php#5078930123994406907">here</a>  And take a look at the photos <a href="http://www.brightonbloggers.com/blog/archives/2008_11_01_index.php#7482972445865050747">here</a></p>
 

@@ -587,8 +587,17 @@
 	<outline type="rss" text="thebrightoner" htmlUrl="http://thebrightoner.blogspot.com/" title="thebrightoner" xmlUrl="http://thebrightoner.blogspot.com/feeds/posts/default?alt=rss" />
 	<outline type="rss" text="Jane on the move" htmlUrl="http://janeonthemove.posterous.com/" title="Jane on the move" xmlUrl="http://janeonthemove.posterous.com/rss.xml" />
 		
+	<outline type="rss" text="Social Media Shizzle" htmlUrl="http://lauradinneen.com/" title="Social Media Shizzle" xmlUrl="http://lauradinneen.com/feed/" />
+	<outline type="rss" text="Georgina Ragazza" htmlUrl="http://ragazza64.blogspot.com/" title="Georgina Ragazza" xmlUrl="http://ragazza64.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Sean Sims" htmlUrl="http://seansimsillustration.blogspot.com/" title="Sean Sims" xmlUrl="http://seansimsillustration.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="/dev/stu" htmlUrl="http://www.stuartaxon.com/" title="/dev/stu" xmlUrl="http://www.stuartaxon.com/feed/" />
+	<outline type="rss" text="The Business Mechanic" htmlUrl="http://www.the-business-mechanic.com/" title="The Business Mechanic" xmlUrl="http://www.the-business-mechanic.com/feed/" />
+	<outline type="rss" text="The Seafront Diaries" htmlUrl="http://www.seafrontdiary.com/" title="The Seafront Diaries" xmlUrl="http://www.seafrontdiary.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Sew Recycled!" htmlUrl="http://www.sewrecycled.blogspot.com/" title="Sew Recycled!" xmlUrl="http://sewrecycled.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Joseph Patterson | Digital Media Brighton | SEO Brighton | Joe Patterson" htmlUrl="http://www.josephpatterson.com/" title="Joseph Patterson | Digital Media Brighton | SEO Brighton | Joe Patterson" xmlUrl="http://www.josephpatterson.com/feed/" />		
+	<outline type="rss" text="Brighton Twitter Social MeetUp" htmlUrl="http://brightontwittersocialmeetup.wordpress.com/" title="Brighton Twitter Social MeetUp" xmlUrl="http://brightontwittersocialmeetup.wordpress.com/feed/" />
 	
-	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" />-->
+	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" / -->
 	
 </outline>
 </body>
