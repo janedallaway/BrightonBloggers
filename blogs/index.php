@@ -99,6 +99,7 @@
 	<li class="unavailable"><a class="unavailable" href="http://www.silverweddings.co.uk/wedlog/">A Sussex Wedding Photographer's Blog</a> - 404 not found</li>
 	<li><a href="http://www.atticglimpse.blogspot.com/">Attic blogging</a></li>
 	<li><a href="http://authenticblogging.com/">Authentic blogging</a></li>
+	<li><a href="http://www.burning.me/blog/">A web designer in Brighton - blog by Mark Cossey | Mark Cossey - Graphic and Web Designer</a></li>
 	<li><a href="http://jonathanbaldwin.blogspot.com/">A Word In Your Ear</a></li>
 	<li><a href="http://azuredreams.org">Azure Dreams</a></li>
 	<li><a href="http://daisydunkeld.com/blog">Baby Daisy's blog</a></li>
@@ -110,6 +111,7 @@
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
 	<li><a href="http://blognostic.wordpress.com/">blognostic</a></li>
+	<li><a href="http://bloodybrighton.blogspot.com/">Bloody Brighton</a></li>
 	<li><a href="http://bomtailey.wordpress.com/">bomtailey</a></li>
 	<li><a href="http://booksthatmatter.blogspot.com/">BooksThatMatter</a></li>
 	<li><a href="http://boredofbrighton.blogspot.com/">Bored of Brighton</a></li>
@@ -122,6 +124,7 @@
 	<li><a href="http://www.brightonandhovenews.org/">Brighton and Hove News</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">Brighton Arts Blog</a></li>
 	<li><a href="http://brightonbelle.blogspot.com/">Brighton Belle</a></li>
+	<li><a href="http://brightonbeans.co.uk/">Brighton Beans | Bringing you a warming coffee experience in Brighton & Hove</a></li>
 	<li><a href="http://brightonbits.blogspot.com/">Brighton Bits</a></li>
 	<li><a href="http://solrunosk.blogspot.com/">Brighton Blogg</a> - it's in Icelandic! (but hasn't been updated since 2003)</li>
 	<li><a href="http://brightonblog.blogspot.com/">Brighton Blog</a></li>
@@ -136,6 +139,7 @@
 	<li><a href="http://brightonpoliticsblogger.wordpress.com/">Brighton Politics Blog</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
+	<li><a href="http://brighton-psychotherapy.co.uk/blog">Brighton Psychotherapy</a></li>
 	<li><a href="http://brightonsongwriters.wordpress.com/">Brighton Songwriters</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
@@ -143,6 +147,7 @@
 	<li class="unavailable"><a class="unavailable" href="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html">Brighton Visitor Nat's Blog</a> - nothing found</li>
 	<li class="unavailable"><a  class="unavailable" href="http://www.brightonvisitor.com/Brighton_Nicks_Blog/Brighton_Nicks_Blog.html">Brighton Visitor Nick's Blog</a> - nothing found</li>
 	<li><a href="http://www.brightonwebcam.com/">Brighton Webcam</a></li>
+	<li><a href="http://brightonwrites.wordpress.com/">Brighton Writes</a></li>
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
 	<li><a href="http://www.brighton-wok.com/">Brighton Wok production diary</a></li>
 	<li><a href="http://brightonyourday.co.uk/">Brighton Your Day - Brighton Blog</a></li>
@@ -180,6 +185,7 @@
 	<li><a href="http://www.nexusdp.co.uk/design-agency-blog/">Design Agency Blog</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.rebeccacottrell.co.uk/blog/">Design Idea</a> - site not found</li>
 	<li><a href="http://describe.blogspot.com/">De-scribed</a></li>
+	<li><a href="http://www.devoursussex.com/">Devour Sussex</a></li>
 	<li><a href="http://digitalunited.co.uk/">Digital United | Full-service integrated Digital agency - Award-winning Creative, Marketing, Advertising, Branding, Technology and Games Development</a></li>
 	<li><a href="http://dogdela.blogspot.com/">dogdela</a></li>
 	<li><a href="http://pateswritings.wordpress.com/">Dom Pates: Collected Writings</a></li>
@@ -281,6 +287,7 @@
 	<li><a href="http://labsblog.madgex.com/">Madgex Labs blog</a></li>
 	<li><a href="http://www.manaboutbrighton.co.uk/">Man About Brighton, helping the good businesses in Brighton and Hove survive</a></li>
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
+	<li><a href="http://emilybassin.blogspot.com/">Maternal Tales from the South Coast</a></li>
 	<li><a href="http://www.mattanddebz.com/">mattanddebz.com</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
 	<li><a href="http://metrodeco.wordpress.com/">Metrodeco's Brighton Blog</a></li>

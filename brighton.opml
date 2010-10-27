@@ -597,7 +597,18 @@
 	<outline type="rss" text="Joseph Patterson | Digital Media Brighton | SEO Brighton | Joe Patterson" htmlUrl="http://www.josephpatterson.com/" title="Joseph Patterson | Digital Media Brighton | SEO Brighton | Joe Patterson" xmlUrl="http://www.josephpatterson.com/feed/" />		
 	<outline type="rss" text="Brighton Twitter Social MeetUp" htmlUrl="http://brightontwittersocialmeetup.wordpress.com/" title="Brighton Twitter Social MeetUp" xmlUrl="http://brightontwittersocialmeetup.wordpress.com/feed/" />
 	
-	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" / -->
+	<outline type="rss" text="Brighton Beans" htmlUrl="http://brightonbeans.co.uk/" title="Brighton Beans" xmlUrl="http://brightonbeans.co.uk/?feed=rss2" />
+	<outline type="rss" text="Brighton Writes" htmlUrl="http://brightonwrites.wordpress.com/" title="Brighton Writes" xmlUrl="http://brightonwrites.wordpress.com/feed/" />
+	<outline type="rss" text="Devour Sussex" htmlUrl="http://www.devoursussex.com/" title="Devour Sussex" xmlUrl="http://www.devoursussex.com/feed" />
+	<outline type="rss" text="A web designer in Brighton - blog by Mark Cossey | Mark Cossey - Graphic and Web Designer" htmlUrl="http://www.burning.me/blog/" title="A web designer in Brighton - blog by Mark Cossey | Mark Cossey - Graphic and Web Designer" xmlUrl="http://www.burning.me/feed/" />
+	<outline type="rss" text="Bloody Brighton" htmlUrl="http://bloodybrighton.blogspot.com/" title="Bloody Brighton" xmlUrl="http://bloodybrighton.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Brighton Psychotherapy" htmlUrl="http://brighton-psychotherapy.co.uk/blog" title="Brighton Psychotherapy" xmlUrl="http://brighton-psychotherapy.co.uk/feed" />
+	<outline type="rss" text="Maternal Tales from the South Coast" htmlUrl="http://emilybassin.blogspot.com/" title="Maternal Tales from the South Coast" xmlUrl="http://emilybassin.blogspot.com/feeds/posts/default?alt=rss" />
+	
+	
+	
+	
+	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
 	
 </outline>
 </body>
