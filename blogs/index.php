@@ -398,7 +398,9 @@
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://www.the-business-mechanic.com/">The Business Mechanic</a></li>
+	<li><a href="http://thecityspace.blogspot.com/">The City Space</a></li>
 	<li><a href="http://codshit.blogspot.com/">The Codshit Files</a></li>
+	<li><a href="http://commonacademy.blogspot.com/">The Common Academy of Art</a></li>
 	<li><a href="http://contentedmummy.blogspot.com/">The Contended Mummy Blog</a></li>
 	<li><a href="http://jimpurbrick.com/">The Creation Engine No. 2</a></li> 
 	<li><a href="http://www.thedigitalconsultant.co.uk/blog/">The Digital Consultant - Online Marketing Services, Brighton UK</a></li> 

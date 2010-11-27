@@ -605,7 +605,8 @@
 	<outline type="rss" text="Brighton Psychotherapy" htmlUrl="http://brighton-psychotherapy.co.uk/blog" title="Brighton Psychotherapy" xmlUrl="http://brighton-psychotherapy.co.uk/feed" />
 	<outline type="rss" text="Maternal Tales from the South Coast" htmlUrl="http://emilybassin.blogspot.com/" title="Maternal Tales from the South Coast" xmlUrl="http://emilybassin.blogspot.com/feeds/posts/default?alt=rss" />
 	
-	
+	<outline type="rss" text="The City Space" htmlUrl="http://thecityspace.blogspot.com" title="The City Space" xmlUrl="http://thecityspace.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="The Common Academy of Art" htmlUrl="http://commonacademy.blogspot.com" title="The Common Academy of Art" xmlUrl="http://commonacademy.blogspot.com/feeds/posts/default?alt=rss" />
 	
 	
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
