@@ -68,6 +68,7 @@
 	<li><a href="http://6fish.wordpress.com/">6fish</a></li>
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
+	<li><a href="http://blog.brightonhotspot.com/">About conversation</a></li>
 	<li><a href="http://www.jonsilver.me.uk/jonsblog/">A Brighton Boy Blogs</a></li>
 	<li><a href="http://www.mobileintelligence.blogspot.com/">A mobile phone blog</a></li>
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
@@ -107,6 +108,7 @@
 	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
+	<li><a href="http://digitalmarketingbrighton.com/blog/">Blog | DigitalMarketingBrighton.com</a></li>
 	<li><a href="http://www.bloggers4labour.org/">Bloggers4Labour</a></li>
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
@@ -240,6 +242,7 @@
 	<li><a href="http://iestyn.net/wp/">Iestyn Lloyd</a></li>
 	<li><a href="http://www.quinparker.com/">If You Lived Here You Would Be Home By Now</a></li>
 	<li><a href="http://www.livejournal.com/users/fifth_circle/">I Lucy Fer</a></li>
+	<li><a href="http://nicolacairncross.com/">Internet Marketing Mentor, Author, Speaker, Blog | Nicola Cairncross</a></li>
 	<li><a href="http://ravytrain.blogspot.com/">I was a teenage raver</a></li>
 	<li><a href="http://ilnostroluglio2004.splinder.it">Il Nostro Luglio</a></li>
 	<li><a href="http://unmadeup.com/inothernews/">In Other News &raquo; or F&#xE9;n&#xE9;on&#8217;s Wake. A record of the relentless poetry of the everday.</a></li>
@@ -297,6 +300,7 @@
 	<li><a href="http://www.mobbu.com/blog">mobbu</a></li>
 	<li><a href="http://www.livejournal.com/users/mockduck/">Mock Duck</a></li>
 	<li><a href="http://www.monkeyrat.com/">MonkeyRat.com</a></li>
+	<li><a href="http://www.thebusinesssuccessfactory.com/">More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com</a></li>
 	<li><a href="http://www.morethanconfused.blogspot.com/">More than confused</a></li>
 	<li><a href="http://www.mornography.co.uk/">Mornography UK</a></li>
 	<li><a href="http://mrvisitor.blogspot.com/">mrVisitor - On The Road Diary</a></li>
@@ -360,6 +364,7 @@
 	<li><a href="http://www.scaresarah.blogspot.com/">Scare Sarah</a></li>
 	<li><a href="http://www.schvtrn.com/latest.html">Scholtz Vitrine: NewsBleed</a></li>
 	<li><a href="http://blog.scouta.com/">scouta blog</a></li>
+	<li><a href="http://blogs.duncanroy.org/">Scrapper Duncan</a></li>
 	<li><a href="http://www.sebleedelisle.com/">Seb Lee-Delisle</a></li>
 	<li><a href="http://seansimsillustration.blogspot.com/">Sean Sims</a></li>
 	<li><a href="http://www.blogboz.co.uk/">Search Optimisation Brighton</a></li>
@@ -386,9 +391,11 @@
 	<li><a href="http://superlative26.blogspot.com/">superlative</a></li>
 	<li><a href="http://surfing-holidays.blogspot.com/">Surfing Holidays - Surf Information, Videos, Gear, Lessons, Travel Info, and all things surf!</a></li>
 	<li><a href="http://sussexsocial.org/">Sussex Social | Out and about in Brighton & Hove</a></li>
+	<li><a href="http://sussexsocialistresistance.blogspot.com/">Sussex Socialist Resistance</a></li>
 	<li><a href="http://www.luckydogphoto.com/blog/">Sussex wedding photographer's blog</a></li>
 	<li><a href="http://www.annadewis.com/blog/">Tales from my handbag</a></li>
 	<li><a href="http://talesfromwindycorner.blogspot.com/">Tales from Windy Corner</a></li>
+	<li><a href="http://talkingbollocks.net/">Talking Bollocks</a></li>
 	<li><a href="http://tarahanks.wordpress.com/">Tara Hanks</a></li>
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
 	<li><a href="http://tenpastmidnight.blogspot.com">tenpastmidnight</a></li>
@@ -454,6 +461,7 @@
 	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
 	<li><a href="http://vickeh.com/journal/">Vicky {says hello}</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
+	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
 	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
 	<li><a href="http://weddingphotographyworld.blogspot.com/">Wedding Photography World</a></li>

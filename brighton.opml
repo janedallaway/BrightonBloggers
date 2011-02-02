@@ -608,6 +608,14 @@
 	<outline type="rss" text="The City Space" htmlUrl="http://thecityspace.blogspot.com" title="The City Space" xmlUrl="http://thecityspace.blogspot.com/feeds/posts/default?alt=rss" />
 	<outline type="rss" text="The Common Academy of Art" htmlUrl="http://commonacademy.blogspot.com" title="The Common Academy of Art" xmlUrl="http://commonacademy.blogspot.com/feeds/posts/default?alt=rss" />
 	
+	<outline type="rss" text="Sussex Socialist Resistance" htmlUrl="http://sussexsocialistresistance.blogspot.com/" title="Sussex Socialist Resistance" xmlUrl="http://sussexsocialistresistance.blogspot.com/feeds/posts/default?alt=rss" /> 
+	<outline type="rss" text="About Conversation" htmlUrl="http://blog.brightonhotspot.com/" title="About Conversation" xmlUrl="http://blog.brightonhotspot.com/?feed=rss2" /> 
+	<outline type="rss" text="More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com" htmlUrl="http://www.thebusinesssuccessfactory.com" title="More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com" xmlUrl="http://www.thebusinesssuccessfactory.com/feed/" /> 
+	<outline type="rss" text="Internet Marketing Mentor, Author, Speaker, Blog | Nicola Cairncross" htmlUrl="http://nicolacairncross.com/" title="Internet Marketing Mentor, Author, Speaker, Blog | Nicola Cairncross" xmlUrl="http://nicolacairncross.com/feed/" /> 
+	<outline type="rss" text="Blog | DigitalMarketingBrighton.com" htmlUrl="http://digitalmarketingbrighton.com/blog/" title="Blog | DigitalMarketingBrighton.com" xmlUrl="http://digitalmarketingbrighton.com/blog/feed/" /> 
+	<outline type="rss" text="Scrapper Duncan" htmlUrl="http://blogs.duncanroy.org/" title="Scrapper Duncan" xmlUrl="http://blogs.duncanroy.org/feed/" /> 
+	<outline type="rss" text="Talking Bollocks" htmlUrl="http://talkingbollocks.net/" title="Talking Bollocks" xmlUrl="http://talkingbollocks.net/feed/" /> 
+	<outline type="rss" text="Vintage Brighton" htmlUrl="http://vintagebrighton.com/" title="Vintage Brighton" xmlUrl="http://vintagebrighton.com/feed/" /> 	
 	
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
 	
