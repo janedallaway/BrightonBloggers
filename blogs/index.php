@@ -75,6 +75,7 @@
 	<li class="unavailable"><a class="unavailable" href="http://abovetherug.blogspot.com/">Above the rug</a> - blog not found</li>
 	<li><a href="http://actionscripter.co.uk/blog/">actionscripter.co.uk</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
+	<li><a href="http://admanbrighton.co.uk/">ADMAN</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
 	<li><a href="http://www.alexandtheweb.com/">Alex and the Web</a></li>
 	<li><a href="http://alexfarran.blogspot.com/">Alex's blog</a></li>
@@ -109,10 +110,12 @@
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
 	<li><a href="http://digitalmarketingbrighton.com/blog/">Blog | DigitalMarketingBrighton.com</a></li>
+	<li><a href="http://lawrencemichaels.co.uk/articles/">Blog | LawrenceMichaels.co.uk</a></li>
 	<li><a href="http://www.bloggers4labour.org/">Bloggers4Labour</a></li>
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
 	<li><a href="http://blognostic.wordpress.com/">blognostic</a></li>
+	<li><a href="http://blondietravelblog.com/">Blondie at Worldz End travel blog</a></li>
 	<li><a href="http://bloodybrighton.blogspot.com/">Bloody Brighton</a></li>
 	<li><a href="http://bomtailey.wordpress.com/">bomtailey</a></li>
 	<li><a href="http://booksthatmatter.blogspot.com/">BooksThatMatter</a></li>
@@ -158,6 +161,7 @@
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
 	<li><a href="http://www.callendercreates.com/blog/">Callender Creates</a></li>
 	<li><a href="http://cas-cool.livejournal.com/">Cas's Lurking Journal</a></li>
+	<li><a href="http://www.chaoskiller.com/">Chaos Killer!</a></li>
 	<li><a href="http://www.chapelstudiosbrighton.com/">Chapel Studios Brighton & Hove</a></li>
 	<li><a href="http://charitychallengethailand.blogspot.com/">Charity Challenge Thailand</a></li>
 	<li><a href="http://cheapbrighton.com/">Cheap Brighton</a></li>
@@ -364,13 +368,14 @@
 	<li><a href="http://www.scaresarah.blogspot.com/">Scare Sarah</a></li>
 	<li><a href="http://www.schvtrn.com/latest.html">Scholtz Vitrine: NewsBleed</a></li>
 	<li><a href="http://blog.scouta.com/">scouta blog</a></li>
-	<li><a href="http://blogs.duncanroy.org/">Scrapper Duncan</a></li>
+	<li><a href="http://blog.scrapperduncan.com">Scrapper Duncan</a></li>
 	<li><a href="http://www.sebleedelisle.com/">Seb Lee-Delisle</a></li>
 	<li><a href="http://seansimsillustration.blogspot.com/">Sean Sims</a></li>
 	<li><a href="http://www.blogboz.co.uk/">Search Optimisation Brighton</a></li>
 	<li><a href="http://www.theseasidescribbler.blogspot.com/">Seaside Scribbler</a></li>
 	<li><a href="http://seratone.blogspot.com/">Seratone</a></li>
 	<li><a href="http://www.sewrecycled.blogspot.com/">Sew Recycled!</a></li>
+	<li><a href="http://soundsgoodtometoo.com/">SGTMT | new music, old music and more</a></li>
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
 	<li><a href="http://www.wordsby.me/">Short Stories :: and other stuff</a></li>
 	<li><a href="http://simonwillison.net/">Simon Willison's Weblog</a></li>

@@ -218,8 +218,6 @@
 
     <outline type="rss" text="Islingword Street" htmlUrl="http://www.islingwordstreet.com/" title="Islingword Street" xmlUrl="http://lewes.typepad.com/chron/index.rdf"/>
 
-    <outline type="rss" text="It's Nice That" htmlUrl="http://www.itsnicethat.com/" title="It's Nice That" xmlUrl="http://www.itsnicethat.com/index.php?atom=1"/>
-
     <outline type="rss" text="Jabbering Giraffe" htmlUrl="http://happygiraffe.net/blog" title="Jabbering Giraffe" xmlUrl="http://happygiraffe.net/blog/xml/atom/feed.xml"/>
 
     <outline type="rss" text="Jane and Richard's Yak and Natter" htmlUrl="http://www.janeandrichard.co.uk/" title="Jane and Richard's Yak and Natter" xmlUrl="http://www.janeandrichard.co.uk/feed"/>
@@ -613,11 +611,18 @@
 	<outline type="rss" text="More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com" htmlUrl="http://www.thebusinesssuccessfactory.com" title="More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com" xmlUrl="http://www.thebusinesssuccessfactory.com/feed/" /> 
 	<outline type="rss" text="Internet Marketing Mentor, Author, Speaker, Blog | Nicola Cairncross" htmlUrl="http://nicolacairncross.com/" title="Internet Marketing Mentor, Author, Speaker, Blog | Nicola Cairncross" xmlUrl="http://nicolacairncross.com/feed/" /> 
 	<outline type="rss" text="Blog | DigitalMarketingBrighton.com" htmlUrl="http://digitalmarketingbrighton.com/blog/" title="Blog | DigitalMarketingBrighton.com" xmlUrl="http://digitalmarketingbrighton.com/blog/feed/" /> 
-	<outline type="rss" text="Scrapper Duncan" htmlUrl="http://blogs.duncanroy.org/" title="Scrapper Duncan" xmlUrl="http://blogs.duncanroy.org/feed/" /> 
+	<outline type="rss" text="Scrapper Duncan" htmlUrl="http://blog.scrapperduncan.com" title="Scrapper Duncan" xmlUrl="http://blog.scrapperduncan.com/feed/" /> 
 	<outline type="rss" text="Talking Bollocks" htmlUrl="http://talkingbollocks.net/" title="Talking Bollocks" xmlUrl="http://talkingbollocks.net/feed/" /> 
 	<outline type="rss" text="Vintage Brighton" htmlUrl="http://vintagebrighton.com/" title="Vintage Brighton" xmlUrl="http://vintagebrighton.com/feed/" /> 	
 	
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
+	
+	
+	<outline type="rss" text="Chaos Killer!" htmlUrl="http://www.chaoskiller.com/" title="Chaos Killer!" xmlUrl="http://www.chaoskiller.com/feeds/posts/default" />
+	<outline type="rss" text="Blondie at Worldz End travel blog" htmlUrl="http://blondietravelblog.com/" title="Blondie at Worldz End travel blog" xmlUrl="http://blondietravelblog.com/feed/" />
+	<outline type="rss" text="Blog | LawrenceMichaels.co.uk" htmlUrl="http://lawrencemichaels.co.uk/articles/" title="Blog | LawrenceMichaels.co.uk" xmlUrl="http://feeds.feedburner.com/Lawrencemichaels" />
+	<outline type="rss" text="SGTMT | new music, old music and more" htmlUrl="http://soundsgoodtometoo.com/" title="SGTMT | new music, old music and more" xmlUrl="http://soundsgoodtometoo.com/feed/" />
+	<outline type="rss" text="ADMAN" htmlUrl="http://admanbrighton.co.uk/" title="ADMAN" xmlUrl="http://admanbrighton.co.uk/feed/" />	
 	
 </outline>
 </body>
