@@ -68,7 +68,7 @@
 	<li><a href="http://6fish.wordpress.com/">6fish</a></li>
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
-	<li><a href="http://blog.brightonhotspot.com/">About conversation</a></li>
+	<li><a href="http://www.brightonhotspot.com/">About conversation</a></li>
 	<li><a href="http://www.jonsilver.me.uk/jonsblog/">A Brighton Boy Blogs</a></li>
 	<li><a href="http://www.mobileintelligence.blogspot.com/">A mobile phone blog</a></li>
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
