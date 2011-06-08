@@ -94,6 +94,7 @@
 	<li><a href="http://antikewl.com/daily/">Antikewl Daily</a></li>
 	<li><a href="http://aplacecalledprovidence.com/">A Place Called Providence</a></li> 
 	<li><a href="http://aralbalkan.com/">Aral Balkan</a></li>
+	<li><a href="http://artistresidencebrighton.blogspot.com/">Artist Residence Brighton</a></li>
 	<li><a href="http://www.kevan.org/blog/">As above </a></li>
 	<li><a href="http://www.ashtangabrighton.com/ashtanga_blog/">Ashtanga Brighton Blog</a></li>
 	<li><a href="http://assistantbrighton.blogspot.com">Assistant</a></li>
@@ -137,6 +138,7 @@
 	<li><a href="http://www.brightonculture.co.uk">Brighton Culture</a></li>
 	<li><a href="http://brightondailyphoto.blogspot.com/">Brighton Daily Photo - Dean Harvey</a></li>
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
+	<li><a href="http://www.brightonfashionweek.co.uk/blog">Brighton Fashion Week</a></li>
 	<li><a href="http://www.brightonfusion.co.uk/live/">Brighton Fusion</a></li>
 	<li><a href="http://newsfrombrighton.blogspot.com/">Brighton News &amp; Reviews</a></li>
 	<li><a href="http://zenbullets.com/blog/">Brighton Open Development Group</a></li>
@@ -255,6 +257,7 @@
 	<li><a href="http://bumblejim.blogspot.com/">inside a skinny mind</a></li>
 	<li><a href="http://intothemachine.blogspot.com/">Into The Machine</a></li>
 	<li><a href="http://www.islingwordstreet.com/">Islingword Street</a></li>
+	<li><a href="http://itsallinthega.me/">Its all in the Game</a></li>
 	<li><a href="http://itsraininginside.blogspot.com/">It's Raining Inside</a></li>
 	<li><a href="http://www.j-dom.org/">j-dom.org</a></li>
 	<li><a href="http://happygiraffe.net/blog/">Jabbering Giraffe</a></li>
@@ -339,6 +342,7 @@
 	<li><a href="http://blog.grovelodge.co.uk/">Pet Care and News from Grove Lodge Vets</a></li>
 	<li><a href="http://www.petebarrwatson.com">Pete's Eats</a></li>
 	<li><a href="http://blog.picture-of-me.co.uk/">Picture of me - Brighton, Sussex, UK Blog</a></li>
+	<li><a href="http://pininkie.blogspot.com/">Pininkie</a></li>
 	<li><a href="http://brightonpixie.wordpress.com/">Pixie-Lee's Blog</a></li>
 	<li><a href="http://plumshome.blogspot.com/">Plums</a> - no updates since 2004</li>
 	<li><a href="http://pootergeek.com/">PooterGeek</a></li>
@@ -407,6 +411,7 @@
 	<li><a href="http://www.thebrandsurgery.co.uk/blog/">The Brand Surgery Blog</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">The Brighton Arts Blog</a></li>
 	<li><a href="http://thebrightoner.blogspot.com/">thebrightoner</a></li>
+	<li><a href="http://www.thebrightonstudent.blogspot.com/">theBRIGHTONstudent</a></li>
 	<li><a href="http://www.brunswickblog.blogspot.com/">The Brunswick Blog</a></li>
 	<li><a href="http://www.tomnixon.co.uk/">The business of website development and online marketing</a></li>
 	<li><a href="http://www.the-business-mechanic.com/">The Business Mechanic</a></li>
@@ -421,7 +426,6 @@
 	<li><a href="http://thegraphicfoodie.blogspot.com/">The Graphic Foodie</a></li>
 	<li><a href="http://xenophonsalbion.wordpress.com/">The Hovian</a></li>
 	<li><a href="http://www.inudian.com/">The Inudian - News from Inuda Innovations</a></li>
-	<li><a href="http://www.jroller.com/page/jnicho02">The Jezblog</a></li>
 	<li><a href="http://www.jzone.co.uk/">The jZone - Lee's musings on Java development</a></li>
 	<li><a href="http://www.danielmoth.com/Blog">The Moth</a></li>
 	<li><a href="http://www.mulberrybush.co.uk/blog/">The Mulberry Bush Blog</a></li>
@@ -451,6 +455,7 @@
 	<li><a href="http://tomroper.typepad.com/">Tom Roper's Weblog</a></li>
 	<li><a href="http://brightonpainter.co.uk/blog">Tom's blog | Brighton Painter.com</a></li>
 	<li><a href="http://www.webdesignertom.co.uk/blog">Tom's blog | Web Designer Tom.com</a></li>
+	<li><a href="http://tongueblog.blogspot.com/">Tongue</a></li>
 	<li><a href="http://www.tonetek.co.uk/tonetek-blog/">Tontek Blog: SEO, SEM, Internet News, Comment, Observations and Reviews</a></li>
 	<li><a href="http://www.treacleandink.co.uk/">Treacle & Ink</a></li>
 	<li><a href="http://archel.blogspot.com/">True Love and High Adventure</a></li>
@@ -476,6 +481,7 @@
 	<li><a href="http://wellieswithwings.blogspot.com/">Wellies with Wings</a></li>	
 	<li><a href="http://westpierwords.blogspot.com/">West Pier Words</a></li>
 	<li><a href="http://a-nice-bit-of-fresh-air.blogspot.com/">Will Lockie's blog</a></li>
+	<li><a href="http://www.willphotographforfood.com/">Will Photograph for Food >> The portfolio of Paul Broomfield</a></li>
 	<li><a href="http://willthejugglerblog.blogspot.com/">will the jugglers thoughts</a></li>
 	<li><a href="http://www.wiredportfolio.com/blog/">Wired World</a></li>
 	<li><a href="http://wirewatcher.wordpress.com/">wirewatcher</a></li>

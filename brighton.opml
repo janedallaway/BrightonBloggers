@@ -615,14 +615,21 @@
 	<outline type="rss" text="Talking Bollocks" htmlUrl="http://talkingbollocks.net/" title="Talking Bollocks" xmlUrl="http://talkingbollocks.net/feed/" /> 
 	<outline type="rss" text="Vintage Brighton" htmlUrl="http://vintagebrighton.com/" title="Vintage Brighton" xmlUrl="http://vintagebrighton.com/feed/" /> 	
 	
-	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
-	
-	
 	<outline type="rss" text="Chaos Killer!" htmlUrl="http://www.chaoskiller.com/" title="Chaos Killer!" xmlUrl="http://www.chaoskiller.com/feeds/posts/default" />
 	<outline type="rss" text="Blondie at Worldz End travel blog" htmlUrl="http://blondietravelblog.com/" title="Blondie at Worldz End travel blog" xmlUrl="http://blondietravelblog.com/feed/" />
 	<outline type="rss" text="Blog | LawrenceMichaels.co.uk" htmlUrl="http://lawrencemichaels.co.uk/articles/" title="Blog | LawrenceMichaels.co.uk" xmlUrl="http://feeds.feedburner.com/Lawrencemichaels" />
 	<outline type="rss" text="SGTMT | new music, old music and more" htmlUrl="http://soundsgoodtometoo.com/" title="SGTMT | new music, old music and more" xmlUrl="http://soundsgoodtometoo.com/feed/" />
 	<outline type="rss" text="ADMAN" htmlUrl="http://admanbrighton.co.uk/" title="ADMAN" xmlUrl="http://admanbrighton.co.uk/feed/" />	
+	
+	<outline type="rss" text="Pinkikie" htmlUrl="http://pininkie.blogspot.com/" title="Pinkikie" xmlUrl="http://pininkie.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Artist Residence Brighton" htmlUrl="http://artistresidencebrighton.blogspot.com/" title="Artist Residence Brighton" xmlUrl="http://artistresidencebrighton.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Tongue" htmlUrl="http://tongueblog.blogspot.com/" title="Tongue" xmlUrl="http://tongueblog.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="theBRIGHTONstudent" htmlUrl="http://www.thebrightonstudent.blogspot.com/" title="theBRIGHTONstudent" xmlUrl="http://thebrightonstudent.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Will Photograph for Food >> The portfolio of Paul Broomfield" htmlUrl="http://www.willphotographforfood.com/" title="Will Photograph for Food >> The portfolio of Paul Broomfield" xmlUrl="http://willphotographforfood.com.au/feed/" />
+	<outline type="rss" text="Its all in the game" htmlUrl="http://itsallinthega.me/" title="Its all in the game" xmlUrl="http://itsallinthega.me/rss.xml" />
+	
+	
+	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
 	
 </outline>
 </body>
