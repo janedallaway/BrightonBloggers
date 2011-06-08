@@ -469,6 +469,7 @@
 	<li><a href="http://www.vajrasatiyoga.co.uk/">Vajrasati Yoga</a></li>
 	<li><a href="http://vanillasugarblog.blogspot.com/">Vanilla Sugar</a></li>
 	<li><a href="http://veganbrighton.co.uk/">Vegan Brighton</a></li>
+	<li><a href="http://veggiepotluck.wordpress.com/">veggie potluck</a></li>
 	<li><a href="http://vickeh.com/journal/">Vicky {says hello}</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
 	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
