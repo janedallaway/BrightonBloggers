@@ -85,6 +85,7 @@
 	<li><a href="http://alongwayfromeden.blogspot.com/">A long way from Eden</a></li>
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
+	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
 	<li><a href="http://blog.willmcinnes.co.uk/blog/">An Online Marketing Guide</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
 	<li><a href="http://blog.andrewhancox.com/">Angry of hove</a></li>
@@ -128,6 +129,7 @@
 	<li><a href="http://bridgetwhelan-writer.blogspot.com/">Bridget Whelan</a></li>
 	<li><a href="http://brighton-co-uk.blogspot.com/">Brighton.co.uk - loving life in Brighton and Hove</a></li>
 	<li><a href="http://www.brightonandhovenews.org/">Brighton and Hove News</a></li>
+	<li><a href="http://brightonandlove.co.uk/">Brighton and Love | a blog about life and love in the small - but hugely eccentric - city</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">Brighton Arts Blog</a></li>
 	<li><a href="http://brightonbelle.blogspot.com/">Brighton Belle</a></li>
 	<li><a href="http://brightonbeans.co.uk/">Brighton Beans | Bringing you a warming coffee experience in Brighton & Hove</a></li>
@@ -135,6 +137,7 @@
 	<li><a href="http://solrunosk.blogspot.com/">Brighton Blogg</a> - it's in Icelandic! (but hasn't been updated since 2003)</li>
 	<li><a href="http://brightonblog.blogspot.com/">Brighton Blog</a></li>
 	<li><a href="http://www.brightonbloggers.com/blog/">Brighton Bloggers</a> - our own blog</li>
+	<li><a href="http://www.brightoncigarboxguitars.com/">Brighton Cigar Box Guitars - and Esoteric Instruments</a></li>
 	<li><a href="http://www.brightonculture.co.uk">Brighton Culture</a></li>
 	<li><a href="http://brightondailyphoto.blogspot.com/">Brighton Daily Photo - Dean Harvey</a></li>
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
@@ -149,7 +152,9 @@
 	<li><a href="http://brighton-psychotherapy.co.uk/blog">Brighton Psychotherapy</a></li>
 	<li><a href="http://brightonsongwriters.wordpress.com/">Brighton Songwriters</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
+	<li><a href="http://brightonstripped.com/">Brighton stripped</a></li>
 	<li><a href="http://stuffshop.blogspot.com/">Brighton Stuff Shop</a></li>
+	<li><a href="http://brightonstylememos.blogspot.com/">Brighton Style Memos</a></li>
 	<li><a href="http://brightontwittersocialmeetup.wordpress.com/">Brighton Twitter Social Meetup</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.brightonvisitor.com/Brighton_Nats_Blog/Brighton_Nats_Blog.html">Brighton Visitor Nat's Blog</a> - nothing found</li>
 	<li class="unavailable"><a  class="unavailable" href="http://www.brightonvisitor.com/Brighton_Nicks_Blog/Brighton_Nicks_Blog.html">Brighton Visitor Nick's Blog</a> - nothing found</li>
@@ -205,6 +210,7 @@
 	<li><a href="http://www.alistairduncan.co.uk/">elements of a new cartography</a></li>
 	<li><a href="http://www.elizabethdanon.com/blog/">Elizabeth Danon | Interior Designer &amp; Artist</a></li>
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
+	<li><a href="http://emlonsocial.wordpress.com/">emlonsocial | unearthing the socialsphere</a></li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
 	<li><a href="http://ianozsvald.com/">Entrepreneurial Geekiness</a></li>
 	<li><a href="http://erkdemon.blogspot.com/">ErkDemon</a></li>
@@ -285,6 +291,7 @@
 	<li><a href="http://blog.kwiqq.com/">Kwiqq blog</a></li>
 	<li><a href="http://laluminata.wordpress.com/">LA LUMINATA</a></li>
 	<li><a href="http://barkingowl.com/learning/">learning</a></li>
+	<li><a href="http://life-is-not-a-rollercoaster.co.uk/">life-is-not-a-rollercoaster >> Ronan Keating was wrong</a></li>
 	<li><a href="http://martian77.20six.co.uk/">Life on Mars - @20six.co.uk</a></li>
 	<li><a href="http://www.toque.co.uk/blog/">Little Man in a Toque</a></li>
 	<li><a href="http://www.littleredboat.co.uk ">Little Red Boat</a></li>
@@ -310,6 +317,7 @@
 	<li><a href="http://www.thebusinesssuccessfactory.com/">More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com</a></li>
 	<li><a href="http://www.morethanconfused.blogspot.com/">More than confused</a></li>
 	<li><a href="http://www.mornography.co.uk/">Mornography UK</a></li>
+	<li><a href="http://www.moviereviewfilmreview.com/">Movie Review Film Review</a></li>
 	<li><a href="http://mrvisitor.blogspot.com/">mrVisitor - On The Road Diary</a></li>
 	<li><a href="http://mulethomas.blogspot.com/">Mule Thomas</a></li>
 	<li><a href="http://philgardner.blogspot.com/">Mulled Whines</a></li>

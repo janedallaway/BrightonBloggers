@@ -630,6 +630,14 @@
 	
 	<outline type="rss" text="veggie potluck" htmlUrl="http://veggiepotluck.wordpress.com/" title="veggie potluck" xmlUrl="http://veggiepotluck.wordpress.com/feed/" />
 	
+	<outline type="rss" text="Brighton Cigar Box Guitars - and Esoteric Instruments" htmlUrl="http://www.brightoncigarboxguitars.com/" title="Brighton Cigar Box Guitars - and Esoteric Instruments" xmlUrl="http://www.brightoncigarboxguitars.com/feed/" />
+	<outline type="rss" text="A modern brick-a-brack blog" htmlUrl="http://modernbrick-a-brack.blogspot.com/" title="A modern brick-a-brack blog" xmlUrl="http://modernbrick-a-brack.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Movie Review Film Review" htmlUrl="http://www.moviereviewfilmreview.com/" title="Movie Review Film Review" xmlUrl="http://www.moviereviewfilmreview.com/feed/" />
+	<outline type="rss" text="Brighton stripped" htmlUrl="http://brightonstripped.com/" title="Brighton stripped" xmlUrl="http://brightonstripped.com/feed/" />
+	<outline type="rss" text="emlonsocial | unearthing the socialsphere" htmlUrl="http://emlonsocial.wordpress.com/" title="emlonsocial | unearthing the socialsphere" xmlUrl="http://emlonsocial.wordpress.com/feed/" />
+	<outline type="rss" text="life-is-not-a-rollercoaster >> Ronan Keating was wrong" htmlUrl="http://life-is-not-a-rollercoaster.co.uk/" title="life-is-not-a-rollercoaster >> Ronan Keating was wrong" xmlUrl="http://life-is-not-a-rollercoaster.co.uk/?feed=rss2" />
+	<outline type="rss" text="Brighton Style Memos" htmlUrl="http://brightonstylememos.blogspot.com/" title="Brighton Style Memos" xmlUrl="http://brightonstylememos.blogspot.com/feeds/posts/default?alt=rss" />
+	
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
 	
 </outline>
