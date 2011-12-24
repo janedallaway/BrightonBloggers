@@ -578,7 +578,7 @@
 	<outline type="rss" text="The Usual Shop" htmlUrl="http://usualshop.wordpress.com/" title="The Usual Shop" xmlUrl="http://usualshop.wordpress.com/feed/" />
 	<outline type="rss" text="Hove Fabulous Fashionista" htmlUrl="http://hovefabulousfashionista.blogspot.com/" title="Hove Fabulous Fashionista" xmlUrl="http://hovefabulousfashionista.blogspot.com/feeds/posts/default?alt=rss" />
 	<outline type="rss" text="i-clic" htmlUrl="http://www.i-clic.co.uk/page_id68/" title="i-clic" xmlUrl="http://www.i-clic.co.uk/feed/" />
-	<outline type="rss" text="Elizabeth Danon | Interior Designer &amp; Artist" htmlUrl="http://www.elizabethdanon.com/blog/" title="Elizabeth Danon | Interior Designer &amp; Artist" xmlUrl="http://www.elizabethdanon.com/feed/" />
+	<outline type="rss" text="Elizabeth Danon | Interior Designer &amp; Artist" htmlUrl="http://www.elizabethdanon.co.uk" title="Elizabeth Danon - Interior Designer" xmlUrl="http://elizabethdanon.co.uk/?feed=rss2" />
 	<outline type="rss" text="The Wilky Way" htmlUrl="http://thewilkyway.co.uk/" title="The Wilky Way" xmlUrl="http://thewilkyway.co.uk/feed" />
 	<outline type="rss" text="Vicky {says hello}" htmlUrl="http://vickeh.com/journal/" title="Vicky {says hello}" xmlUrl="http://vickeh.com/journal/?feed=rss2" />
 	<outline type="rss" text="Brighton Your Day - Brighton Blog" htmlUrl="http://brightonyourday.co.uk/" title="Brighton Your Day - Brighton Blog" xmlUrl="http://brightonyourday.co.uk/feed" />
@@ -638,6 +638,11 @@
 	<outline type="rss" text="life-is-not-a-rollercoaster >> Ronan Keating was wrong" htmlUrl="http://life-is-not-a-rollercoaster.co.uk/" title="life-is-not-a-rollercoaster >> Ronan Keating was wrong" xmlUrl="http://life-is-not-a-rollercoaster.co.uk/?feed=rss2" />
 	<outline type="rss" text="Brighton Style Memos" htmlUrl="http://brightonstylememos.blogspot.com/" title="Brighton Style Memos" xmlUrl="http://brightonstylememos.blogspot.com/feeds/posts/default?alt=rss" />
 	
+	<outline type="rss" text="Samantha Morley" htmlUrl="http://samanthamorley.blogspot.com" title="Samantha Morley" xmlUrl="http://samanthamorley.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="Suzi Knight" htmlUrl="http://suziknight.blogspot.com/" title="Suzi Knight" xmlUrl="http://suziknight.blogspot.com/feeds/posts/default?alt=rss" />
+	<outline type="rss" text="the ecospot | the green orientated ramblings of the claire potter design studio" htmlUrl="http://www.clairepotterdesign.com/theecospot/" title="the ecospot | the green orientated ramblings of the claire potter design studio" xmlUrl="http://clairepotterdesign.com/theecospot/?feed=rss" />
+	<outline type="rss" text="Harringtons Lettings - Expert Advice on Rental Property for Landlords" htmlUrl="http://harringtonslettings.blogspot.com/" title="Harringtons Lettings - Expert Advice on Rental Property for Landlords" xmlUrl="http://harringtonslettings.blogspot.com/feeds/posts/default?alt=rss" />
+		
 	<!-- <outline type="rss" text="" htmlUrl="" title="" xmlUrl="" /> -->
 	
 </outline>

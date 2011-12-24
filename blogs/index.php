@@ -208,7 +208,7 @@
 	<li><a href="http://www.dustbintin.com/">DustBinTin</a></li>
 	<li><a href="http://ed.acrewoods.net/blog">Ed's website</a></li>
 	<li><a href="http://www.alistairduncan.co.uk/">elements of a new cartography</a></li>
-	<li><a href="http://www.elizabethdanon.com/blog/">Elizabeth Danon | Interior Designer &amp; Artist</a></li>
+	<li><a href="http://elizabethdanon.co.uk">Elizabeth Danon - Interior Designer</a></li>
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://emlonsocial.wordpress.com/">emlonsocial | unearthing the socialsphere</a></li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
@@ -245,6 +245,7 @@
 	<li><a href="http://www.glennjones.net/Home/">glennjones.net</a></li>
 	<li><a href="http://go5ways.blogspot.com/">Go 5 Ways</a></li>
 	<li><a href="http://www.gravyland.net/">gravyland</a></li>
+	<li><a href="http://harringtonslettings.blogspot.com/">Harringtons Lettings - Expert Advice on Rental Property for Landlords</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.overlandtraveltohk.blogspot.com/">Harwich to Hong Kong</a> - blog not found</li>
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://hiidunia.blogspot.com/">Hii Dunia</a> - blog not found</li>
@@ -375,6 +376,7 @@
 	<li><a href="http://sadiedark69.blogspot.com/">Sadie Dark Places</a></li>
 	<li><a href="http://marymagdalen.blogspot.com/">Saint Mary Magdalen, Brighton, UK</a></li>
 	<li><a href="http://www.salopiantree.com/">Salopiantree</a></li>
+	<li><a href="http://samanthamorley.blogspot.com/">Samantha Morley</a></li>
 	<li><a href="http://www.savetheroyalnavy.org/articles/">Save the Royal Navy - Articles</a></li>
 	<li><a href="http://savourysnark.blogspot.com/">savoury snark</a></li>
 	<li><a href="http://www.scaresarah.blogspot.com/">Scare Sarah</a></li>
@@ -410,6 +412,7 @@
 	<li><a href="http://sussexsocial.org/">Sussex Social | Out and about in Brighton & Hove</a></li>
 	<li><a href="http://sussexsocialistresistance.blogspot.com/">Sussex Socialist Resistance</a></li>
 	<li><a href="http://www.luckydogphoto.com/blog/">Sussex wedding photographer's blog</a></li>
+	<li><a href="http://suziknight.blogspot.com/">Suzi Knight</a></li>
 	<li><a href="http://www.annadewis.com/blog/">Tales from my handbag</a></li>
 	<li><a href="http://talesfromwindycorner.blogspot.com/">Tales from Windy Corner</a></li>
 	<li><a href="http://talkingbollocks.net/">Talking Bollocks</a></li>
@@ -430,6 +433,7 @@
 	<li><a href="http://jimpurbrick.com/">The Creation Engine No. 2</a></li> 
 	<li><a href="http://www.thedigitalconsultant.co.uk/blog/">The Digital Consultant - Online Marketing Services, Brighton UK</a></li> 
 	<li class="unavailable"><a class="unavailable" href="http://door22.wordpress.com/">The Door 22 Blog</a> - the authors have deleted this blog</li>
+	<li><a href="http://www.clairepotterdesign.com/theecospot/">the ecospot | the green orientated ramblings of the claire potter design studio</a></li>
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
 	<li><a href="http://thegraphicfoodie.blogspot.com/">The Graphic Foodie</a></li>
 	<li><a href="http://xenophonsalbion.wordpress.com/">The Hovian</a></li>
