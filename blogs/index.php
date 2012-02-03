@@ -20,11 +20,9 @@
 <ul>
 <!-- <li><a href="../">Home</a></li> -->
 <li><span>Brighton Blogs</span></li>
-<li><a href="../podcasts/">Podcasts</a></li>
 <li><a href="http://blog.brightonbloggers.com">Blog</a></li>
 <li><a href="../meetup/">Meetup</a></li>
 <li><a href="../links/">Links</a></li>
-<li><a href="../aggregated/">Aggregated</a></li>
 </ul>
 
 </div>
@@ -69,10 +67,8 @@
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
 	<li><a href="http://www.brightonhotspot.com/">About conversation</a></li>
-	<li><a href="http://www.jonsilver.me.uk/jonsblog/">A Brighton Boy Blogs</a></li>
 	<li><a href="http://www.mobileintelligence.blogspot.com/">A mobile phone blog</a></li>
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
-	<li class="unavailable"><a class="unavailable" href="http://abovetherug.blogspot.com/">Above the rug</a> - blog not found</li>
 	<li><a href="http://actionscripter.co.uk/blog/">actionscripter.co.uk</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
 	<li><a href="http://admanbrighton.co.uk/">ADMAN</a></li>
@@ -82,13 +78,10 @@
 	<li><a href="http://www.alexlaurie.net/">Alex's space</a></li>
 	<li><a href="http://www.alexasigno.co.uk/">Alex's Travel Blog & Travel Photos</a></li>
 	<li><a href="http://aloeverabrighton.blogspot.com/">Aloe Vera for health and beauty</a></li>
-	<li><a href="http://alongwayfromeden.blogspot.com/">A long way from Eden</a></li>
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
 	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
-	<li><a href="http://blog.willmcinnes.co.uk/blog/">An Online Marketing Guide</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
-	<li><a href="http://blog.andrewhancox.com/">Angry of hove</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
 	<li><a href="http://annakissed.tumblr.com/">annakissed</a></li>
 	<li><a href="http://johnriches.blogspot.com/">Anti-new labour and other musings</a></li>
@@ -105,7 +98,6 @@
 	<li><a href="http://authenticblogging.com/">Authentic blogging</a></li>
 	<li><a href="http://www.burning.me/blog/">A web designer in Brighton - blog by Mark Cossey | Mark Cossey - Graphic and Web Designer</a></li>
 	<li><a href="http://jonathanbaldwin.blogspot.com/">A Word In Your Ear</a></li>
-	<li><a href="http://azuredreams.org">Azure Dreams</a></li>
 	<li><a href="http://daisydunkeld.com/blog">Baby Daisy's blog</a></li>
 	<li><a href="http://beesnthings.blogspot.com/">Bees n things</a></li>
 	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
@@ -113,7 +105,6 @@
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
 	<li><a href="http://digitalmarketingbrighton.com/blog/">Blog | DigitalMarketingBrighton.com</a></li>
 	<li><a href="http://lawrencemichaels.co.uk/articles/">Blog | LawrenceMichaels.co.uk</a></li>
-	<li><a href="http://www.bloggers4labour.org/">Bloggers4Labour</a></li>
 	<li><a href="http://baggins-at-bag-end.blogspot.com/">Blogging Baggins!</a></li>
 	<li><a href="http://blakerspark.blogspot.com/">Blogging for Blaker's</a></li>
 	<li><a href="http://blognostic.wordpress.com/">blognostic</a></li>
@@ -494,6 +485,7 @@
 	<li><a href="http://wellieswithwings.blogspot.com/">Wellies with Wings</a></li>	
 	<li><a href="http://westpierwords.blogspot.com/">West Pier Words</a></li>
 	<li><a href="http://a-nice-bit-of-fresh-air.blogspot.com/">Will Lockie's blog</a></li>
+	<li><a href="http://willmcinnes.co.uk/">Will McInnes</a></li>
 	<li><a href="http://www.willphotographforfood.com/">Will Photograph for Food >> The portfolio of Paul Broomfield</a></li>
 	<li><a href="http://willthejugglerblog.blogspot.com/">will the jugglers thoughts</a></li>
 	<li><a href="http://www.wiredportfolio.com/blog/">Wired World</a></li>
@@ -513,7 +505,7 @@
 
 <p>Know of another one?  Then <a href="mailto:addblog@brightonbloggers.com?subject=New Blog">let us know</a>.</p>
 
-<p>Want to read these in an rss reader?  Download the <a href="../brighton.opml">opml file</a> or take a look at the <a href="http://www.brightonbloggers.com/aggregated/">aggregated feed</a>.</p>
+<p>Want to read these in an rss reader?  Download the <a href="../brighton.opml">opml file</a></p>
 </div>
 
 </div>

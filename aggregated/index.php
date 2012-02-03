@@ -115,11 +115,12 @@ $xml_parser = xml_parser_create();
 xml_set_element_handler($xml_parser, "startElement", "endElement");
 xml_set_character_data_handler($xml_parser, "characterData");
 
+
 try
 {
 
 	if (!($fp = fopen($file, "r"))) {
-		throw new Exception('Could not open file!'); 
+		throw new Exception('Could not open file! '.$file); 
 	}
 	
 	if ($debug==1)
@@ -140,6 +141,7 @@ try
 catch (Exception $e) 
 { 
     $error = true;
+    printf($e);
 }
 
 ?>
@@ -167,7 +169,6 @@ catch (Exception $e)
 <ul>
 <!-- <li><a href="../">Home</a></li> -->
 <li><a href="../blog/">Brighton Blogs</a></li>
-<li><a href="../podcasts/">Podcasts</a></li>
 <li><a href="http://blog.brightonbloggers.com">Blog</a></li>
 <li><a href="../meetup/">Meetup</a></li>
 <li><a href="../links/">Links</a></li>

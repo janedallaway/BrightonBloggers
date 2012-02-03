@@ -26,8 +26,6 @@
 
     <outline type="rss" text="a glimpse from the attic" htmlUrl="http://atticglimpse.blogspot.com/" title="a glimpse from the attic" xmlUrl="http://atticglimpse.blogspot.com/rss.xml"/>
 
-    <outline type="rss" text="A long way from Eden" htmlUrl="http://alongwayfromeden.blogspot.com/" title="A long way from Eden" xmlUrl="http://alongwayfromeden.blogspot.com/feeds/posts/default"/>
-
     <outline type="rss" text="A MUTUAL MISUNDERSTANDING" htmlUrl="http://mutualmisunderstanding.wordpress.com" title="A MUTUAL MISUNDERSTANDING" xmlUrl="http://mutualmisunderstanding.wordpress.com/feed/"/>
 
     <outline type="rss" text="A Nice Bit Of Fresh Air" htmlUrl="http://a-nice-bit-of-fresh-air.blogspot.com/" title="A Nice Bit Of Fresh Air" xmlUrl="http://a-nice-bit-of-fresh-air.blogspot.com/atom.xml"/>
@@ -37,8 +35,6 @@
     <outline type="rss" text="A Word In Your Ear" htmlUrl="http://jonathanbaldwin.blogspot.com/" title="A Word In Your Ear" xmlUrl="http://jonathanbaldwin.blogspot.com/atom.xml"/>
 
     <outline type="rss" text="Abi Rhodes' Zigzag Wanderings" htmlUrl="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/" title="Abi Rhodes' Zigzag Wanderings" xmlUrl="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/index.rdf"/>
-
-    <outline type="rss" text="Above the Rug" htmlUrl="http://abovetherug.blogspot.com/" title="Above the Rug" xmlUrl="http://abovetherug.blogspot.com/atom.xml"/>
 
     <outline type="rss" text="Adactio" htmlUrl="http://adactio.com/journal/" title="Adactio" xmlUrl="http://adactio.com/journal/journal.rss"/>
 
@@ -72,8 +68,6 @@
 
     <outline type="rss" text="Beth Granter" htmlUrl="http://bethgranter.wordpress.com" title="Beth Granter" xmlUrl="http://feeds.feedburner.com/bethgranter"/>
 
-    <outline type="rss" text="Bloggers4Labour" htmlUrl="http://www.bloggers4labour.org/index.jsp" title="Bloggers4Labour" xmlUrl="http://www.bloggers4labour.org/atom.xml"/>
-
     <outline type="rss" text="Blogging Baggins!" htmlUrl="http://baggins-at-bag-end.blogspot.com/" title="Blogging Baggins!" xmlUrl="http://baggins-at-bag-end.blogspot.com/rss.xml"/>
 
     <outline type="rss" text="Blogging for Blaker's" htmlUrl="http://blakerspark.blogspot.com/" title="Blogging for Blaker's" xmlUrl="http://blakerspark.blogspot.com/atom.xml"/>
@@ -81,8 +75,6 @@
     <outline type="rss" text="BooksThatMatter (Adrian's Random Rubbish)..." htmlUrl="http://booksthatmatter.blogspot.com/" title="BooksThatMatter (Adrian's Random Rubbish)..." xmlUrl="http://booksthatmatter.blogspot.com/atom.xml"/>
 
     <outline type="rss" text="Brain Off" htmlUrl="http://brainoff.com/weblog" title="Brain Off" xmlUrl="http://brainoff.com/weblog/feed"/>
-
-    <outline type="rss" text="Breakfast In Bed" htmlUrl="http://rowstar.blogspot.com/" title="Breakfast In Bed" xmlUrl="http://rowstar.blogspot.com/feeds/posts/default?alt=rss"/>
 
     <outline type="rss" text="Breakfast In Bed" htmlUrl="http://rowstar.blogspot.com/" title="Breakfast In Bed" xmlUrl="http://rowstar.blogspot.com/rss.xml"/>
 
@@ -112,7 +104,7 @@
 
     <outline type="rss" text="Busman's Holiday" htmlUrl="http://benlobo.hobointernet.com/" title="Busman's Holiday" xmlUrl="http://feeds.feedburner.com/benlobo"/>
 
-    <outline type="rss" text="By Will McInnes" htmlUrl="http://blog.willmcinnes.co.uk/blog/" title="By Will McInnes" xmlUrl="http://blog.willmcinnes.co.uk/blog/rss.xml"/>
+    <outline type="rss" text="Will McInnes" htmlUrl="http://willmcinnes.co.uk" title="Will McInnes" xmlUrl="http://willmcinnes.co.uk/feed/"/>
 
     <outline type="rss" text="Callender Creates" htmlUrl="http://www.callendercreates.com/blog" title="Callender Creates" xmlUrl="http://feeds.feedburner.com/callendercreates"/>
 
@@ -516,7 +508,6 @@
 	<outline type="rss" text="Joe Blogs" htmlUrl="http://joeinbrightonblogs.blogspot.com/" title="Joe Blogs" xmlUrl="http://joeinbrightonblogs.blogspot.com/feeds/posts/default"/>
 	<outline type="rss" text="Web design, development and marketing - Added Bytes" htmlUrl="http://www.addedbytes.com/" title="Web design, development and marketing - Added Bytes" xmlUrl="http://www.addedbytes.com/feeds/rss/full/"/>
 	<outline type="rss" text="Mike Ashworth" htmlUrl="http://www.mikeashworth.co.uk/" title="Mike Ashworth" xmlUrl="http://www.mikeashworth.co.uk/feed/"/>
-	<outline type="rss" text="A Brighton Boy blogs" htmlUrl="http://www.jonsilver.me.uk/jonsblog/" title="A Brighton Boy blogs" xmlUrl="http://www.jonsilver.me.uk/jonsblog/index.php/feed/"/>
 	<outline type="rss" text="Jon Silver Photography - wedding, portrait and portfolio photographer, Brighton, Sussex, UK" htmlUrl="http://www.jonsilver.co.uk/" title="Jon Silver Photography - wedding, portrait and portfolio photographer, Brighton, Sussex, UK" xmlUrl="http://www.jonsilver.co.uk/feed"/>
 	<outline type="rss" text="A Sussex Wedding Photographer's Blog" htmlUrl="http://www.silverweddings.co.uk/wedlog/" title="A Sussex Wedding Photographer's Blog" xmlUrl="http://www.silverweddings.co.uk/wedlog/index.php/feed/"/>
 	<outline type="rss" text="Sussex wedding photographer's blog" htmlUrl="http://www.luckydogphoto.com/blog/" title="Sussex wedding photographer's blog" xmlUrl="http://www.luckydogphoto.com/blog/feed/"/>
@@ -562,7 +553,6 @@
 	<outline type="rss" text="Just Write - meet your muse" htmlUrl="http://justwritebrighton.wordpress.com/" title="Just Write - meet your muse" xmlUrl="http://justwritebrighton.wordpress.com/feed/" />
 	<outline type="rss" text="bomtailey" htmlUrl="http://bomtailey.wordpress.com/" title="bomtailey" xmlUrl="http://bomtailey.wordpress.com/feed/" />
 							
-	<outline type="rss" text="Angry of Hove" htmlUrl="http://blog.andrewhancox.com/" title="Angry of Hove" xmlUrl="http://blog.andrewhancox.com/feed/" />
 	<outline type="rss" text="The Brighton Arts Blog" htmlUrl="http://brightonartsblog.blogspot.com/" title="The Brighton Arts Blog" xmlUrl="http://brightonartsblog.blogspot.com/feeds/posts/default?alt=rss" />
 	<outline type="rss" text="Out And About With Your Dog Blog" htmlUrl="http://dogs-blog.out-and-about-with-your-dog.com/" title="Out And About With Your Dog Blog" xmlUrl="http://dogs-blog.out-and-about-with-your-dog.com/feed/" />
 	<outline type="rss" text="Sprismatic" htmlUrl="http://sprismatic.blogspot.com/" title="Sprismatic" xmlUrl="http://sprismatic.blogspot.com/feeds/posts/default?alt=rss" />

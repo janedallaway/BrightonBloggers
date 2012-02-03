@@ -20,11 +20,9 @@
 <ul>
 <!-- <li><a href="../">Home</a></li> -->
 <li><a href="../blogs/">Brighton Blogs</a></li>
-<li><a href="../podcasts/">Podcasts</a></li>
 <li><a href="http://blog.brightonbloggers.com">Blog</a></li>
 <li><span>Meetup</span></li>
 <li><a href="../links/">Links</a></li>
-<li><a href="../aggregated/">Aggregated</a></li>
 </ul>
 
 </div>
