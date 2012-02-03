@@ -141,7 +141,6 @@ try
 catch (Exception $e) 
 { 
     $error = true;
-    printf($e);
 }
 
 ?>
