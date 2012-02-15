@@ -72,12 +72,14 @@
 	<li><a href="http://actionscripter.co.uk/blog/">actionscripter.co.uk</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
 	<li><a href="http://admanbrighton.co.uk/">ADMAN</a></li>
+	<li><a href="http://agirlandherthumb.wordpress.com/">A girl and her thumb</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
 	<li><a href="http://www.alexandtheweb.com/">Alex and the Web</a></li>
 	<li><a href="http://alexfarran.blogspot.com/">Alex's blog</a></li>
 	<li><a href="http://www.alexlaurie.net/">Alex's space</a></li>
 	<li><a href="http://www.alexasigno.co.uk/">Alex's Travel Blog & Travel Photos</a></li>
 	<li><a href="http://aloeverabrighton.blogspot.com/">Aloe Vera for health and beauty</a></li>
+	<li><a href="http://alongwayfromeden.wordpress.com/">A long way from eden</a></li>
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
 	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
@@ -134,6 +136,7 @@
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
 	<li><a href="http://www.brightonfashionweek.co.uk/blog">Brighton Fashion Week</a></li>
 	<li><a href="http://www.brightonfusion.co.uk/live/">Brighton Fusion</a></li>
+	<li><a href="http://brightonhobbyproject.posterous.com/">Brighton hobby project</a></li>
 	<li><a href="http://newsfrombrighton.blogspot.com/">Brighton News &amp; Reviews</a></li>
 	<li><a href="http://zenbullets.com/blog/">Brighton Open Development Group</a></li>
 	<li><a href="http://brightonpeople.wordpress.com/">Brighton People in Words and Pictures</a></li>
@@ -196,10 +199,12 @@
 	<li><a href="http://dorkatronic.blogspot.com/">DORKATRONIC</a></li>
 	<li><a href="http://siliconbea.ch/">Down at Silicon Beach</a></li>
 	<li><a href="http://dreamfield.blogdrive.com/">dreamfield ix interactive</a></li>
+	<li><a href="http://www.drivingbrighton.co.uk/blog/">Driving Brighton Blog</a></li>
 	<li><a href="http://www.dustbintin.com/">DustBinTin</a></li>
 	<li><a href="http://ed.acrewoods.net/blog">Ed's website</a></li>
 	<li><a href="http://www.alistairduncan.co.uk/">elements of a new cartography</a></li>
 	<li><a href="http://elizabethdanon.co.uk">Elizabeth Danon - Interior Designer</a></li>
+	<li><a href="http://eljae.com/">Eljae - A blog by El and Jae</a></li>
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://emlonsocial.wordpress.com/">emlonsocial | unearthing the socialsphere</a></li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
@@ -209,6 +214,7 @@
 	<li><a href="http://etheldcofie.wordpress.com/">ethelcofie's How To Articles</a></li>
 	<li><a href="http://www.eventyr.co.uk/ramblings.html">Eventyr</a></li>
 	<li><a href="http://everyoneelsehasablog.blogspot.com/">Everyone Else Has A Blog</a></li>
+	<li><a href="http://www.fashionmeasmile.com/">Fashion me a smile</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://www.feastofpalmer.com/">Feast of Palmer</a> - no longer a blog</li>
 	<li><a href="http://www.feedthepony.blogspot.com/">Feed The Pony</a></li>
 	<li class="unavailable"><a class="unavailable" href="http://fiftyfourfoodmiles.wordpress.com/">FiftyFourFoodMiles</a> - The authors have deleted this blog</li>
@@ -257,6 +263,7 @@
 	<li><a href="http://www.islingwordstreet.com/">Islingword Street</a></li>
 	<li><a href="http://itsallinthega.me/">Its all in the Game</a></li>
 	<li><a href="http://itsraininginside.blogspot.com/">It's Raining Inside</a></li>
+	<li><a href="http://www.ixcheltherapies.co.uk/blog/">IXCHELtherapies</a></li>
 	<li><a href="http://www.j-dom.org/">j-dom.org</a></li>
 	<li><a href="http://happygiraffe.net/blog/">Jabbering Giraffe</a></li>
 	<li><a href="http://www.janeandrichard.co.uk/blog/index.xml">Jane and Richard's Yak and Natter</a></li>
@@ -356,13 +363,13 @@
 	<li><a href="http://rajanand.biz/">RajAnand's bizzz</a></li> 
 	<li><a href="http://youfoundkel.blogspot.com/">Random outpourings from my mixed up mind</a></li>
 	<li><a href="http://reithian.blogspot.com/">Reithian</a></li>
-	<li><a href="http://rellyannettbaker.typepad.com/">Rellygious Teachings</a></li>
 	<li><a href="http://www.rowingrichard.blogspot.com/">Richard Mitchelson</a></li>
 	<li><a href="http://blog.spiralarm.com/richard/">Richard's Technical Notes</a></li>
+	<li><a href="http://argyllenvironmental.posterous.com/">Risky Business</a></li>
 	<li><a href="http://robochick.co.uk/">RoboChick: Rampant Robotic Rumpus</a></li>
 	<li><a href="http://www.robotperson.com/">Robotperson</a></li>
 	<li><a href="http://www.schvtrn.com/rollo/blogger.html">Rollo Kim Reporting</a></li>
-	<li><a href="http://www.rosiesherry.com/blog"> Rosie Sherry - common sense Software Testing and QA</a></li>
+	<li><a href="http://www.rosiesherry.com/blog"> Rosie Sherry - common sense Software Testing and QA</a> - now in Cambridgeshire</li>
 	<li><a href="http://rosiesherry.com/posing/">RosieLand</a></li>
 	<li><a href="http://sadiedark69.blogspot.com/">Sadie Dark Places</a></li>
 	<li><a href="http://marymagdalen.blogspot.com/">Saint Mary Magdalen, Brighton, UK</a></li>
@@ -383,9 +390,11 @@
 	<li><a href="http://soundsgoodtometoo.com/">SGTMT | new music, old music and more</a></li>
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
 	<li><a href="http://www.wordsby.me/">Short Stories :: and other stuff</a></li>
+	<li><a href="http://www.smokeinmyeye.com/">SiMe | Smoke in my eye</a></li>
 	<li><a href="http://simonwillison.net/">Simon Willison's Weblog</a></li>
 	<li><a href="http://brightonsinginglessons.blogspot.com/">Singing Lessons</a></li>
 	<li><a href="http://brightonsinginglessons.wordpress.com/">Singing Lessons Blog</a></li>
+	<li><a href="http://sittingsnug.blogspot.com/">Sitting snug</a></li>
 	<li><a href="http://lauradinneen.com/">Social Media Shizzle</a></li>
 	<li><a href="http://www.solgilbert.com/">Sol 'Zero Tolerance' Gilbert</a></li>
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
@@ -396,6 +405,7 @@
 	<li><a href="http://splitpediment.wordpress.com/">Split Pediment</a></li>
 	<li><a href="http://sprismatic.blogspot.com/">Sprismatic</a></li>
 	<li><a href="http://www.stiffrook.com/">Stiffrook.com</a></li>
+	<li><a href="http://www.stridefit.com/personal-training-blog/">StrideFit | Personal Trainer Brighton | Get fit &amp; feel good!</a></li>
 	<li><a href="http://stuartd.blogspot.com">Stuart's blog</a></li>
 	<li><a href="http://succor.co.uk/">Succor[TalkWebSolutions.co.uk]</a></li>
 	<li><a href="http://superlative26.blogspot.com/">superlative</a></li>
@@ -498,9 +508,11 @@
 	<li><a href="http://wulfweard.blogspot.com/">Wulfweard the White</a></li>
 	<li><a href="http://yandleblog.blogspot.com/">Yandleblog</a></li>
 	<li><a href="http://www.yogajenny.com/">Yoga Jenny</a></li>
+	<li><a href="http://youcantakeherhomenow.blogspot.com/">You can take her home now</a></li>
 	<li><a href="http://www.ohyesindeed.blogspot.com/">Youth Equipped to Serve(Oh, Yes)</a></li>
 	<li><a href="http://www.yummy-wakame.com/weblog/">Yummy Wakame</a> - now mainly in Pittsburgh, Pennsylvania</li>
 	<li><a href="http://www.zenbullets.com/blog/">Zenbullets</a></li>
+	<li><a href="http://zigzagdesignbrighton.blogspot.com/">Zigzag Design</a></li>
 </ul>
 
 <p>Know of another one?  Then <a href="mailto:addblog@brightonbloggers.com?subject=New Blog">let us know</a>.</p>
