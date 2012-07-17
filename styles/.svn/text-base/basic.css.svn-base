@@ -1,0 +1,21 @@
+@import url("advanced.css");
+
+body {
+	background-color: #fff;
+	color: #333;
+	font-family: "Geneva","Arial","Helvetica",sans-serif;
+	font-size: .8em;
+}
+
+a:link {
+	color: #369;
+}
+a:visited {
+	color: #369;
+}
+a:hover {
+	color: #c30;
+}
+a:active {
+	color: #69c;
+}

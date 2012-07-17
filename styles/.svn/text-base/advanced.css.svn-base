@@ -1,0 +1,137 @@
+body {
+	background-image: url("http://www.brightonbloggers.com/images/background.gif");
+	margin: 5% 7%;
+}
+
+#page {
+	background-color: #fff;
+	color: #333;
+	border: 1px solid #345;
+	background-image: url("http://www.brightonbloggers.com/images/stones.jpg");
+	background-repeat: repeat-x;
+	background-position: bottom;
+	margin: 0;
+	padding: 0 0 100px 0;
+}
+
+#breadcrumb {
+	background-color: #345;
+	color: #fff;
+	padding: 0 5%;
+	margin: 0;
+}
+#breadcrumb p {
+	display: inline;
+}
+#breadcrumb p a {
+	color: #fff;
+}
+
+#masthead {
+	color: #fff;
+	background-color: #369;
+	background-image: url("http://www.brightonbloggers.com/includes/randomimage.php");
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	height: 180px;
+}
+
+#masthead h1 {
+	height: 180px;
+	width: 322px;
+	margin: 0;
+	padding: 0;
+	background-image: url("http://www.brightonbloggers.com/images/logo_grunge.gif");
+	background-repeat: no-repeat;
+	background-position: bottom left;
+}
+
+#masthead h1 span {
+	display: none;
+}
+
+#navigation {
+	clear: both;
+	width: 100%;
+}
+
+#navigation ul {
+	padding: 10px;
+	margin: 0;
+	list-style: none;
+}
+
+#navigation ul li {
+	display: inline;
+}
+
+#navigation ul li a,#navigation ul li span {
+	display: block;
+	float: left;
+	padding: 1px 10px;
+	margin: 10px 10px 10px 0;
+	letter-spacing: 0.3em;
+	text-transform: small-caps;
+	border-width: 3px 0;
+	border-style: solid;
+	font-family: "Helvetica","Arial",sans-serif;
+	font-weight: bold;
+}
+#navigation ul li a {
+	border-color: #369;
+	color: #369;
+	text-decoration: none;
+}
+#navigation ul li a:hover {
+	border-color: #c30;
+	color: #c30;
+}
+#navigation ul li span {
+	border-color: #666;
+	color: #666;
+}
+
+#content {
+	clear: left;
+	margin-right: 225px;
+	padding: 10px 5%;
+	line-height: 1.5em;
+}
+
+#extra {
+	text-align: center;
+	font-size: 85%;
+	width: 200px;
+	float: right;
+	margin: 25px;
+	padding: 10px;
+	background-color: #eee;
+	border: 1px dotted #def;
+}
+
+.calendar {
+	font-size: 10px;
+	margin: auto;
+}
+
+.clear {
+	clear: both;
+}
+
+li.unavailable a:link, li.unavailable a:hover, li.unavailable a:visited, li.unavailable a:active {
+        color: #999;
+}
+
+.unavailable {
+color: #999;
+}
+
+.comment {
+	
+}
+
+.byline {
+	font-size: 9px;
+	padding: 10px;
+}
+

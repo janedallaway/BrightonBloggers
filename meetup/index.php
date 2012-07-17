@@ -1,3 +1,10 @@
+<?php
+header("Location: http://www.brightonbloggers.com/blogs"); /* Redirect browser */
+
+/* Make sure that code below does not get executed when we redirect. */
+exit;
+?>
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
         "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">

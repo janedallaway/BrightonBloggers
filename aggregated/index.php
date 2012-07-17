@@ -1,4 +1,12 @@
 <?php
+header("Location: http://www.brightonbloggers.com/blogs"); /* Redirect browser */
+
+/* Make sure that code below does not get executed when we redirect. */
+exit;
+?>
+
+
+<?php
 /*  PHP RSS Reader v1.1
     By Richard James Kendall 
     Bugs to richard@richardjameskendall.com 

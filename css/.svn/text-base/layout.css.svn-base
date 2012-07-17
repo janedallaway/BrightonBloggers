@@ -1,0 +1,13 @@
+BODY
+{
+    COLOR: black;
+    FONT-FAMILY: Tahoma, Verdana, helvetica, Arial, Sans Serif;
+    FONT-SIZE: small;
+    background-color: white;
+
+}
+
+H3 
+{
+    FONT-SIZE: medium;
+}
