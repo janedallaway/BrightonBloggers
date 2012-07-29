@@ -135,6 +135,7 @@
 	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
 	<li><a href="http://www.businessbricks.co.uk/">Business Bricks</a></li>
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
+	<li><a href="http://www.cakesandcatwalks.com/">Cakes and Catwalks</a></li>
 	<li><a href="http://www.callendercreates.com/blog/">Callender Creates</a></li>
 	<li><a href="http://cancerfighter.wordpress.com/">Cancerfighter's Weblog</a></li>
 	<li><a href="http://cas-cool.livejournal.com/">Cas's Lurking Journal</a></li>
