@@ -105,6 +105,7 @@
 	<li><a href="http://brightonbeans.co.uk/">Brighton Beans | Bringing you a warming coffee experience in Brighton &amp; Hove</a></li>
 	<li><a href="http://brightonbits.blogspot.com/">Brighton Bits</a></li>
 	<li><a href="http://brightonblog.blogspot.com/">Brighton Blog</a></li>
+	<li><a href="http://www.caffyns.co.uk/news/">Brighton Car Dealers</a></li>
 	<li><a href="http://www.brightoncigarboxguitars.com/">Brighton Cigar Box Guitars - and Esoteric Instruments</a></li>
 	<li><a href="http://www.brightonculture.co.uk">Brighton Culture</a></li>
 	<li><a href="http://brightondailyphoto.blogspot.com/">Brighton Daily Photo - Dean Harvey</a></li>
