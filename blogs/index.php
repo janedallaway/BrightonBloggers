@@ -353,6 +353,7 @@
 	<li><a href="http://seansimsillustration.blogspot.com/">Sean Sims</a></li>
 	<li><a href="http://www.blogboz.co.uk/">Search Optimisation Brighton</a></li>
 	<li><a href="http://www.theseasidescribbler.blogspot.com/">Seaside Scribbler</a></li>
+	<li><a href="http://www.seobrighton.com">SEO Brighton ~ Affordable SEO Services</a></li>
 	<li><a href="http://seratone.blogspot.com/">Seratone</a></li>
 	<li><a href="http://www.sewrecycled.blogspot.com/">Sew Recycled!</a></li>
 	<li><a href="http://soundsgoodtometoo.com/">SGTMT | new music, old music and more</a></li>
