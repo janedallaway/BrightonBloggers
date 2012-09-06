@@ -48,6 +48,7 @@
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
 	<li><a href="http://actionscripter.co.uk/blog/">actionscripter.co.uk</a></li>
 	<li><a href="http://adactio.com/journal/">Adactio</a></li>
+	<li><a href="http://brightondilettante.blogspot.co.uk">A Dilettante in Brighton</a></li>
 	<li><a href="http://admanbrighton.co.uk/">ADMAN</a></li>
 	<li><a href="http://agirlandherthumb.wordpress.com/">A girl and her thumb</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
