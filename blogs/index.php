@@ -63,6 +63,7 @@
 	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
+	<li><a href="http://annainherwonderland.com">annainherwonderland</a></li>
 	<li><a href="http://annakissed.tumblr.com/">annakissed</a></li>
 	<li><a href="http://johnriches.blogspot.com/">Anti-new labour and other musings</a></li>
 	<li><a href="http://antikewl.com/daily/">Antikewl Daily</a></li>
@@ -83,6 +84,7 @@
 	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
 	<li><a href="http://bestbitsaboutbrighton.com/">BestBitsAboutBrighton</a></li>
+	<li><a href="http://bishbashbosh-brighton.blogspot.co.uk">Bish Bash Bosh</a></li>
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
 	<li><a href="http://digitalmarketingbrighton.com/blog/">Blog | DigitalMarketingBrighton.com</a></li>
 	<li><a href="http://lawrencemichaels.co.uk/articles/">Blog | LawrenceMichaels.co.uk</a></li>
@@ -108,6 +110,7 @@
 	<li><a href="http://brightonblog.blogspot.com/">Brighton Blog</a></li>
 	<li><a href="http://www.caffyns.co.uk/news/">Brighton Car Dealers</a></li>
 	<li><a href="http://www.brightoncigarboxguitars.com/">Brighton Cigar Box Guitars - and Esoteric Instruments</a></li>
+	<li><a href="http://brightoncraftaganza.wordpress.com/">brightoncraftaganza</a></li>
 	<li><a href="http://www.brightonculture.co.uk">Brighton Culture</a></li>
 	<li><a href="http://brightondailyphoto.blogspot.com/">Brighton Daily Photo - Dean Harvey</a></li>
 	<li><a href="http://brightonist.wordpress.com/">Brightonist</a></li>
@@ -120,6 +123,7 @@
 	<li><a href="http://brightonpoliticsblogger.wordpress.com/">Brighton Politics Blog</a></li>
 	<li><a href="http://brightonclubs.blogspot.com/">Brighton's Best Clubs</a></li>
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
+	<li><a href="http://www.brightonholidayhomes.co.uk/blog/">Brighton Holiday Homes blog</a></li>
 	<li><a href="http://brighton-psychotherapy.co.uk/blog">Brighton Psychotherapy</a></li>
 	<li><a href="http://www.brightonsocialmedia.com/blog/">Brighton Social Media | Blog</a></li>
 	<li><a href="http://brightonsongwriters.wordpress.com/">Brighton Songwriters</a></li>
@@ -209,6 +213,7 @@
 	<li><a href="http://ragazza64.blogspot.com/">Georgina Ragazza</a></li>
 	<li><a href="http://gigionsea.blogspot.co.uk/">gigionsea The Water is Wide</a></li>
 	<li><a href="http://gigphoto.blogspot.com/">Gig Photo</a></li>
+	<li><a href="http://www.theglamandglitter.com">Glam and Glitter 4Ever</a></li>
 	<li><a href="http://www.glasshalfempty.co.uk/">Glass half empty</a></li>
 	<li><a href="http://www.glennjones.net">glennjones.net</a></li>
 	<li><a href="http://go5ways.blogspot.com/">Go 5 Ways</a></li>
@@ -229,6 +234,7 @@
 	<li><a href="http://inspiritandintruthuk.blogspot.com/">In Spirit and In Truth</a></li>
 	<li><a href="http://www.informationmatters.net/">InformationMatters - Library and Information Courses at the University of Brighton</a></li>	
 	<li><a href="http://bumblejim.blogspot.com/">inside a skinny mind</a></li>
+	<li><a href="http://intheface.me">In The Face! - Big Bad Brighton Bass</a></li>
 	<li><a href="http://intothemachine.blogspot.com/">Into The Machine</a></li>
 	<li><a href="http://www.islingwordstreet.com/">Islingword Street</a></li>
 	<li><a href="http://www.itemsofasexualnature.blogspot.co.uk/">Items Of A Sexual Nature</a></li>
@@ -242,6 +248,7 @@
 	<li><a href="http://janeonthemove.posterous.com/">Jane on the move</a></li>
 	<li><a href="http://jane.dallaway.com">Jane Dallaway</a></li>
 	<li><a href="http://jane-postlethwaite.blogspot.co.uk/">Jane Postlethwaite</a></li>
+	<li><a href="http://jb-pr.tumblr.com">JBPR - blog</a></li>
 	<li><a href="http://www.jamesbyford.co.uk/">Jim's allotment</a></li>
 	<li><a href="http://jimmysscrapbook.blogspot.com/">Jimmy's scrapbook</a></li>
 	<li><a href="http://joannemallon.typepad.com/joanne_the_coach/">Joanne the coach</a></li>
@@ -269,6 +276,7 @@
 	<li><a href="http://lovepoppy.blogspot.com/">Love Poppy</a></li>
 	<li><a href="http://lullyweb.com/">LullyWeb.Com</a></li>
 	<li><a href="http://www.lunchbreaksketchclub.blogspot.co.uk/">Lunch Break Sketch Club</a></li>
+	<li><a href="http://lvloves.wordpress.com">LV loves</a></li>
 	<li><a href="http://lydz25.livejournal.com/">Lydzs Journal of comings and goings</a></li>
 	<li><a href="http://www.madmotive.com/">M.A.D. Motive</a></li>
 	<li><a href="http://madbaggagerambling.blogspot.com/">Mad Baggage</a></li>
@@ -337,6 +345,7 @@
 	<li><a href="http://argyllenvironmental.posterous.com/">Risky Business</a></li>
 	<li><a href="http://robochick.co.uk/">RoboChick: Rampant Robotic Rumpus</a></li>
 	<li><a href="http://www.robotperson.com/">Robotperson</a></li>
+	<li><a href="http://www.rockcakes.com/blog/">Rock Cakes</a></li>
 	<li><a href="http://www.schvtrn.com/rollo/blogger.html">Rollo Kim Reporting</a></li>
 	<li><a href="http://www.rosiesherry.com/blog"> Rosie Sherry - common sense Software Testing and QA</a> - now in Cambridgeshire</li>
 	<li><a href="http://rosiesherry.com/">RosieLand</a></li>
@@ -369,9 +378,10 @@
 	<li><a href="http://www.solgilbert.com/">Sol 'Zero Tolerance' Gilbert</a></li>
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
 	<li><a href="http://sourmangopowder.blogspot.com/">Sour Mango Powder</a></li>
+	<li><a href="http://sozowhatdoyouknow.blogspot.co.uk">So, Zo...</a></li>
 	<li><a href="http://spindoctorsdisco.blogspot.com/"> Spin Doctors Mobile Disco</a></li>
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
-	<li><a href="http://splitdownthemiddle.blogspot.com/">Split down the middle</a></li>
+	<li><a href="http://splitdownthemiddle.http://brightoncraftaganza.wordpress.com/blogspot.com/">Split down the middle</a></li>
 	<li><a href="http://splitpediment.wordpress.com/">Split Pediment</a></li>
 	<li><a href="http://sprismatic.blogspot.com/">Sprismatic</a></li>
 	<li><a href="http://www.stiffrook.com/">Stiffrook.com</a></li>
