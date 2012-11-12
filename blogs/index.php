@@ -221,6 +221,7 @@
 	<li><a href="http://hack2flack.blogspot.co.uk/">hack2flack</a></li>
 	<li><a href="http://harringtonslettings.blogspot.com/">Harringtons Lettings - Expert Advice on Rental Property for Landlords</a></li>
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
+	<li><a href="http://www.holiday-n-adventure.co.uk/blog/">Holiday-n-Adventure Blog | The latest adventures and freshest offers from Holiday-n-Adventure, Brighton</a></li>
 	<li><a href="http://hovefabulousfashionista.blogspot.com/">Hove Fabulous Fashionista</a></li>
 	<li><a href="http://www.i-clic.co.uk/page_id68/">i-Clic</a></li>
 	<li><a href="http://idigitdesign.com/blog/">idigit design blog</a></li>
@@ -476,6 +477,7 @@
 	<li><a href="http://wirewatcher.wordpress.com/">wirewatcher</a></li>
 	<li><a href="http://knowledgeconstructs.com/">WordPress SEO Websites &amp; Plugins . Knowledge Constructs</a></li>
 	<li><a href="http://www.wordridden.com/">WordRidden</a></li>
+	<li><a href="http://worldartworldtravel.blog.com">World Art &amp; Travel blog | Bringing world art to the world</a></li>
 	<li><a href="http://www.whatwritesatmidnight.blogspot.com/">Writer by Night</a></li>
 	<li><a href="http://writingneuroses.blogspot.com/"> Writing Neuroses ... mine are rare, yours may be legion</a></li>
 	<li><a href="http://wulfweard.blogspot.com/">Wulfweard the White</a></li>
