@@ -223,6 +223,7 @@
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
 	<li><a href="http://www.holiday-n-adventure.co.uk/blog/">Holiday-n-Adventure Blog | The latest adventures and freshest offers from Holiday-n-Adventure, Brighton</a></li>
 	<li><a href="http://www.homestorage4u.co.uk/blog">homestorage4u blog</a></li>
+	<li><a href="http://www.portsladehistory.blogspot.co.uk">Hove and Portslade in the Past</a></li>
 	<li><a href="http://hovefabulousfashionista.blogspot.com/">Hove Fabulous Fashionista</a></li>
 	<li><a href="http://www.i-clic.co.uk/page_id68/">i-Clic</a></li>
 	<li><a href="http://idigitdesign.com/blog/">idigit design blog</a></li>
