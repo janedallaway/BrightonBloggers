@@ -156,6 +156,7 @@
 	<li><a href="http://www.clagnut.com/">Clagnut</a></li>
 	<li><a href="http://coalholecover.blogspot.co.uk/">Coalhole cover compendium</a></li>
 	<li><a href="http://www.colinmercer.co.uk/">Colin Mercer on the Inter-Web</a></li>
+	<li><a href="http://www.copywritenow.co.uk">Copywrite Now</a></li>
 	<li><a href="http://www.brighton-hove-councillors.org.uk/index.cfm?request=a1700">councillors</a></li>
 	<li><a href="http://www.createdmetaphors.co.uk/">Created Metaphors</a></li>
 	<li><a href="http://www.creativebloke.com/blog/">Creativeblokes Blog</a></li>
@@ -292,6 +293,7 @@
 	<li><a href="http://www.mikeashworth.co.uk/">Mike Ashworth</a></li>
 	<li><a href="http://www.ministryoftype.co.uk/">Ministry of Type</a></li>
 	<li><a href="http://www.missticklesays.blogspot.com/">Miss Tickle</a></li>
+	<li><a href="http://missy-brown.blogspot.co.uk">Missy Brown</a></li>
 	<li><a href="http://www.mobbu.com/blog">mobbu</a></li>
 	<li><a href="http://www.livejournal.com/users/mockduck/">Mock Duck</a></li>
 	<li><a href="http://www.monkeyrat.com/">MonkeyRat.com</a></li>
@@ -480,6 +482,8 @@
 	<li><a href="http://knowledgeconstructs.com/">WordPress SEO Websites &amp; Plugins . Knowledge Constructs</a></li>
 	<li><a href="http://www.wordridden.com/">WordRidden</a></li>
 	<li><a href="http://worldartworldtravel.blog.com">World Art &amp; Travel blog | Bringing world art to the world</a></li>
+	<li><a href="http://worldmusictravelblog.tumblr.com">World Music Travel Blog</a></li>
+	<li><a href="http://www.writerightnow.co.uk">Write Right Now</a></li>
 	<li><a href="http://www.whatwritesatmidnight.blogspot.com/">Writer by Night</a></li>
 	<li><a href="http://writingneuroses.blogspot.com/"> Writing Neuroses ... mine are rare, yours may be legion</a></li>
 	<li><a href="http://wulfweard.blogspot.com/">Wulfweard the White</a></li>
