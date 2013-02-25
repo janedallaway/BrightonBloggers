@@ -81,6 +81,7 @@
 	<li><a href="http://jonathanbaldwin.blogspot.com/">A Word In Your Ear</a></li>
 	<li><a href="http://daisydunkeld.com/blog">Baby Daisy's blog</a></li>
 	<li><a href="http://beesnthings.blogspot.com/">Bees n things</a></li>
+	<li><a href="http://www.dontbelievethehype.biz/blog/">Behind the Hype</a></li>
 	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
 	<li><a href="http://bestbitsaboutbrighton.com/">BestBitsAboutBrighton</a></li>
@@ -272,7 +273,7 @@
 	<li><a href="http://laluminata.wordpress.com/">LA LUMINATA</a></li>
 	<li><a href="http://life-is-not-a-rollercoaster.co.uk/">life-is-not-a-rollercoaster >> Ronan Keating was wrong</a></li>
 	<li><a href="http://www.martiandaze.net/blog">Life on Mars - @20six.co.uk</a></li>
-	<li><a href="http://lillajade.blogspot.co.uk/">Lilla Jade</a></li>
+	<li><a href="http://www.lillaloves.com">Lilla Loves</a></li>
 	<li><a href="http://www.toque.co.uk/blog/">Little Man in a Toque</a></li>
 	<li><a href="http://www.littleredboat.co.uk ">Little Red Boat</a></li>
 	<li><a href="http://lovebrighton.blogspot.com">LoveBrighton</a> - no updates since 2003</li>
@@ -384,6 +385,7 @@
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
 	<li><a href="http://sourmangopowder.blogspot.com/">Sour Mango Powder</a></li>
 	<li><a href="http://sozowhatdoyouknow.blogspot.co.uk">So, Zo...</a></li>
+	<li><a href="http://www.spaghettitraveller.com">Spaghetti Traveller - Travel Blog and Holiday Guide by Tom Bourlet</a></li>
 	<li><a href="http://spindoctorsdisco.blogspot.com/"> Spin Doctors Mobile Disco</a></li>
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
 	<li><a href="http://splitdownthemiddle.http://brightoncraftaganza.wordpress.com/blogspot.com/">Split down the middle</a></li>
