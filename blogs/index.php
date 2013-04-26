@@ -86,6 +86,7 @@
 	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
 	<li><a href="http://bestbitsaboutbrighton.com/">BestBitsAboutBrighton</a></li>
+	<li><a href="http://www.biromug.tumblr.com">Biromug - Elliott Caranci-Finch</a></li>
 	<li><a href="http://bishbashbosh-brighton.blogspot.co.uk">Bish Bash Bosh</a></li>
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
 	<li><a href="http://digitalmarketingbrighton.com/blog/">Blog | DigitalMarketingBrighton.com</a></li>
@@ -189,7 +190,6 @@
 	<li><a href="http://www.alistairduncan.co.uk/">elements of a new cartography</a></li>
 	<li><a href="http://elizabethdanon.co.uk">Elizabeth Danon - Interior Designer</a></li>
 	<li><a href="http://eljae.com/">Eljae - A blog by El and Jae</a></li>
-	<li><a href="http://www.biromug.tumblr.com">elliottcarancifinch</a></li>
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://emlonsocial.wordpress.com/">emlonsocial | unearthing the socialsphere</a></li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
@@ -341,6 +341,7 @@
 	<li><a href="http://pootergeek.com/">PooterGeek</a></li>
 	<li><a href="http://popcornyblog.blogspot.com/">POPCORNY</a></li>
 	<li><a href="http://postingsfromanedge.blogspot.com/">Postings from an edge</a> - ex Brightonian in Tokyo</li>
+	<li><a href="http://powderbeautyboutique.wordpress.com">powderbeautyboutique | Brighton's cutest Beauty Salon and Shop</a></li>
 	<li><a href="http://powerfulpierre.blogspot.com/">Powerfull Pierre holds forth</a></li>
 	<li><a href="http://presencelabs.com/">Presence Labs</a></li>
 	<li><a href="http://prestonville.org.uk/">Prestonville Postblog</a></li>
