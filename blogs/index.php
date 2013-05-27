@@ -164,6 +164,7 @@
 	<li><a href="http://www.createdmetaphors.co.uk/">Created Metaphors</a></li>
 	<li><a href="http://www.creativebloke.com/blog/">Creativeblokes Blog</a></li>
 	<li><a href="http://members.lycos.co.uk/crosbie71/blog/">Crosbie's Blog Cabin</a></li>
+	<li><a href="http://www.culturazzi.co.uk">Culturazzi // UK Fashion Blog // Fashion, Style &amp; Beauty</a></li>
 	<li><a href="http://www.livejournal.com/users/scarletdemon/">Cynical, drunken and lighting another cigar...</a></li>
 	<li><a href="http://www.damnfinejoe.com/">damnfinejoe.com</a></li>
 	<li><a href="http://www.themanfromdelmonte.co.uk/">Dan Goodwin's Blog</a></li>
@@ -259,6 +260,7 @@
 	<li><a href="http://www.jamesbyford.co.uk/">Jim's allotment</a></li>
 	<li><a href="http://jimmysscrapbook.blogspot.com/">Jimmy's scrapbook</a></li>
 	<li><a href="http://joannemallon.typepad.com/joanne_the_coach/">Joanne the coach</a></li>
+	<li><a href="http://www.jobsinbrightonandhove.co.uk/blog/">Jobs in Brighton and Hove</a></li>
 	<li><a href="http://joeinbrightonblogs.blogspot.com/">Joe Blogs</a></li>
 	<li><a href="http://www.jonathanstewart.co.uk/">Jonathan's blog</a></li>
 	<li><a href="http://jonnynexus.com/blog/">Jonny Nexus Online >> Blog</a></li>
@@ -291,6 +293,7 @@
 	<li><a href="http://www.manaboutbrighton.co.uk/">Man About Brighton, helping the good businesses in Brighton and Hove survive</a></li>
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://emilybassin.blogspot.com/">Maternal Tales from the South Coast</a></li>
+	<li><a href="http://jackiedinnis.wordpress.com">Meeting my family</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
 	<li><a href="http://metrodeco.wordpress.com/">Metrodeco's Brighton Blog</a></li>
 	<li><a href="http://www.mikeashworth.co.uk/">Mike Ashworth</a></li>
@@ -333,7 +336,7 @@
 	<li><a href="http://parkrunner.wordpress.com/">parkrunner</a></li>
 	<li><a href="http://www.adamkhan.net/parries">Parries > adamkhan.net</a></li>
 	<li><a href="http://paulannett.co.uk/">Paul Annett</a></li>
-	<li><a href="http://pennyartauction.blogspot.co.uk/">Pennt Art Auction</a></li>
+	<li><a href="http://pennyartauction.blogspot.co.uk/">Penny Art Auction</a></li>
 	<li><a href="http://www.petebarrwatson.com">Pete's Eats</a></li>
 	<li><a href="http://blog.picture-of-me.co.uk/">Picture of me - Brighton, Sussex, UK Blog</a></li>
 	<li><a href="http://pininkie.blogspot.com/">Pininkie</a></li>
