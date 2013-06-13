@@ -58,6 +58,7 @@
 	<li><a href="http://www.alexasigno.co.uk/">Alex's Travel Blog &amp; Travel Photos</a></li>
 	<li><a href="http://aloeverabrighton.blogspot.com/">Aloe Vera for health and beauty</a></li>
 	<li><a href="http://alongwayfromeden.wordpress.com/">A long way from eden</a></li>
+	<li><a href="http://allnaturaltiles.blogspot.co.uk">All Natural Tiles &amp; All Porcelain Tiles</a></li>
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
 	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
@@ -359,8 +360,8 @@
 	<li><a href="http://www.robotperson.com/">Robotperson</a></li>
 	<li><a href="http://www.rockcakes.com/blog/">Rock Cakes</a></li>
 	<li><a href="http://www.schvtrn.com/rollo/blogger.html">Rollo Kim Reporting</a></li>
-	<li><a href="http://www.rosiesherry.com/blog"> Rosie Sherry - common sense Software Testing and QA</a> - now in Cambridgeshire</li>
 	<li><a href="http://rosiesherry.com/">RosieLand</a></li>
+	<li><a href-"http://roundhillrob.wordpress.com">Roundhillrob's Blog</a></li>
 	<li><a href="http://sadiedark69.blogspot.com/">Sadie Dark Places</a></li>
 	<li><a href="http://marymagdalen.blogspot.com/">Saint Mary Magdalen, Brighton, UK</a></li>
 	<li><a href="http://www.salopiantree.com/">Salopiantree</a></li>
