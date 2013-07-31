@@ -120,6 +120,7 @@
 	<li><a href="http://brightonist.wordpress.com/">Brightonist</a></li>
 	<li><a href="http://brightonregencylabourparty.blogspot.com/">BrightonRegencyLabour</a></li>
 	<li><a href="http://www.brightonfashionweek.co.uk/blog">Brighton Fashion Week</a></li>
+	<li><a href="http://www.brightongeek.net">Brighton Geek - SEO, PPC &amp; Digital Marketing News &amp; Ramblings</a></li>
 	<li><a href="http://brightonhobbyproject.posterous.com/">Brighton hobby project</a></li>
 	<li><a href="http://newsfrombrighton.blogspot.com/">Brighton News &amp; Reviews</a></li>
 	<li><a href="http://zenbullets.com/blog/">Brighton Open Development Group</a></li>
@@ -129,6 +130,7 @@
 	<li><a href="http://www.brightonpubs.blogspot.com/">Brighton's Best Pubs</a></li>
 	<li><a href="http://www.brightonholidayhomes.co.uk/blog/">Brighton Holiday Homes blog</a></li>
 	<li><a href="http://brighton-psychotherapy.co.uk/blog">Brighton Psychotherapy</a></li>
+	<li><a href="http://www.brightonscene.co.uk">Brighton Scene</a></li>
 	<li><a href="http://www.brightonsocialmedia.com/blog/">Brighton Social Media | Blog</a></li>
 	<li><a href="http://brightonsongwriters.wordpress.com/">Brighton Songwriters</a></li>
 	<li><a href="http://www.brightonsound.com/blog/">BrightonSound.com Blog</a></li>
@@ -142,6 +144,7 @@
 	<li><a href="http://www.brightonwriters.com/">Brighton Writers: Online Community - a friendly online community for anyone in and around Brighton who wants to write</a></li>
 	<li><a href="http://brightonwritersretreat.wordpress.com/">Brighton Writers Retreat</a></li>
 	<li><a href="http://brightonyourday.co.uk/">Brighton Your Day - Brighton Blog</a></li>
+	<li><a href="http://theresnofinbroccoli.co.uk">Broccoli Blog | There's No F In Broccoli</a></li>
 	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
 	<li><a href="http://www.businessbricks.co.uk/">Business Bricks</a></li>
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
@@ -162,6 +165,7 @@
 	<li><a href="http://www.colinmercer.co.uk/">Colin Mercer on the Inter-Web</a></li>
 	<li><a href="http://www.copywritenow.co.uk">Copywrite Now</a></li>
 	<li><a href="http://www.brighton-hove-councillors.org.uk/index.cfm?request=a1700">councillors</a></li>
+	<li><a href="http://cclarketherapy.wordpress.com">Counselling in Brighton &amp; Hove | Caroline Clarke</a></li>
 	<li><a href="http://www.createdmetaphors.co.uk/">Created Metaphors</a></li>
 	<li><a href="http://www.creativebloke.com/blog/">Creativeblokes Blog</a></li>
 	<li><a href="http://members.lycos.co.uk/crosbie71/blog/">Crosbie's Blog Cabin</a></li>
@@ -229,10 +233,12 @@
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
 	<li><a href="http://www.holiday-n-adventure.co.uk/blog/">Holiday-n-Adventure Blog | The latest adventures and freshest offers from Holiday-n-Adventure, Brighton</a></li>
 	<li><a href="http://www.homestorage4u.co.uk/blog">homestorage4u blog</a></li>
+	<li><a href="http://www.hootingmissowl.com">Hooting Miss Owl</a></li>
 	<li><a href="http://www.portsladehistory.blogspot.co.uk">Hove and Portslade in the Past</a></li>
 	<li><a href="http://hovefabulousfashionista.blogspot.com/">Hove Fabulous Fashionista</a></li>
 	<li><a href="http://www.i-clic.co.uk/page_id68/">i-Clic</a></li>
 	<li><a href="http://idigitdesign.com/blog/">idigit design blog</a></li>
+	<li><a href="http://www.idimmu.net">idimmu.net - A web based memory replacement service</a></li>
 	<li><a href="http://iestyn.net/wp/">Iestyn Lloyd</a></li>
 	<li><a href="http://www.quinparker.com/">If You Lived Here You Would Be Home By Now</a></li>
 	<li><a href="http://www.livejournal.com/users/fifth_circle/">I Lucy Fer</a></li>
@@ -317,6 +323,7 @@
 	<li><a href="http://www.nakedtranslations.com/en/blog.php">Naked Translations</a></li>
 	<li><a href="http://notes.natbat.net/">Natalie Downe</a></li>
 	<li><a href="http://www.neilson.co.uk/news-blog.aspx">Neilson News Blog - Latest Information and Offers</a></li>
+	<li><a href="http://www.eiva.blog.com">Never Eat Anything Bigger Than Your Head | Love yourself at first.</a></li>
 	<li><a href="http://newsfrombrighton.co.uk/">News from Brighton</a></li>
 	<li><a href="http://nigeyb.blogspot.com/">Nigeyb's World Of Joy</a></li>
 	<li><a href="http://niquimerret.com/">Niqui Merret</a></li>
@@ -430,6 +437,7 @@
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
 	<li><a href="http://thegraphicfoodie.blogspot.com/">The Graphic Foodie</a></li>
 	<li><a href="http://xenophonsalbion.wordpress.com/">The Hovian</a></li>
+	<li><a href="http://www.lovettandco.co.uk/blog">The Lovett Blog</a></li>
 	<li><a href="http://www.danielmoth.com/Blog">The Moth</a></li>
 	<li><a href="http://www.mulberrybush.co.uk/blog/">The Mulberry Bush Blog</a></li>
 	<li><a href="http://seandodson.wordpress.com/">The Northern Light</a></li>
@@ -473,6 +481,7 @@
 	<li><a href="http://veggiepotluck.wordpress.com/">veggie potluck</a></li>
 	<li><a href="http://vickeh.com/journal/">Vicky {says hello}</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
+	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></li>
 	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
 	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
