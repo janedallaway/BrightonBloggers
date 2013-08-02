@@ -377,6 +377,7 @@
 	<li><a href="http://savourysnark.blogspot.com/">savoury snark</a></li>
 	<li><a href="http://www.scaresarah.blogspot.com/">Scare Sarah</a></li>
 	<li><a href="http://www.schvtrn.com/latest.html">Scholtz Vitrine: NewsBleed</a></li>
+	<li><a href="http://scissorspaperrock.co.uk">Scissors Paper Rock: cutting, writing, bashing people round the head and blogging in perfect unison</a></li>
 	<li><a href="http://blog.scouta.com/">scouta blog</a></li>
 	<li><a href="http://blog.scrapperduncan.com">Scrapper Duncan</a></li>
 	<li><a href="http://www.sebleedelisle.com/">Seb Lee-Delisle</a></li>
@@ -481,9 +482,9 @@
 	<li><a href="http://veggiepotluck.wordpress.com/">veggie potluck</a></li>
 	<li><a href="http://vickeh.com/journal/">Vicky {says hello}</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
-	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></li>
+	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></lis>
 	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
-	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
+	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>s
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
 	<li><a href="http://weddingphotographyworld.blogspot.com/">Wedding Photography World</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/cyclelanes/cycleblog/">Weird cycle lanes</a></li>
