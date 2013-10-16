@@ -145,7 +145,7 @@
 	<li><a href="http://brightonwritersretreat.wordpress.com/">Brighton Writers Retreat</a></li>
 	<li><a href="http://brightonyourday.co.uk/">Brighton Your Day - Brighton Blog</a></li>
 	<li><a href="http://theresnofinbroccoli.co.uk">Broccoli Blog | There's No F In Broccoli</a></li>
-	<li><a href="http://builtbydave.co.uk/">BuiltByDave.co.uk, by David Stone: Freelance Developer</a></li>
+	<li><a href="http://buckleupshoes.wordpress.com">buckleupshows</a></li>
 	<li><a href="http://www.businessbricks.co.uk/">Business Bricks</a></li>
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
 	<li><a href="http://www.cakesandcatwalks.com/">Cakes and Catwalks</a></li>
@@ -177,6 +177,7 @@
 	<li><a href="http://www.wilsondan.co.uk/">Dan Wilson : eBay expert, social networking, online community, ecommerce, stuff</a></li>
 	<li><a href="http://darkcafedays.blogspot.com/">dark cafe days</a></li>
 	<li><a href="http://daveavenue.com/">daveavenue</a></li>
+	<li><a href="http://davecstone.com/">Dave Stone</a></li>
 	<li><a href="http://www.brightonlife.com/blog/users/dc/">David Croissant</a></li>
 	<li><a href="http://www.davidmyersphotography.com/blog/">David Myers Photography | The Blog</a></li>
 	<li><a href="http://degreesofnoir.blogspot.com/">Degrees of Noir</a></li>
@@ -389,6 +390,7 @@
 	<li><a href="http://www.sewrecycled.blogspot.com/">Sew Recycled!</a></li>
 	<li><a href="http://soundsgoodtometoo.com/">SGTMT | new music, old music and more</a></li>
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
+	<li><a href="http://www.shescalledclaire.com">She's called Claire // Brighton / UK Fashion, Food and Lifestyle blog</a></li>
 	<li><a href="http://www.wordsby.me/">Short Stories :: and other stuff</a></li>
 	<li><a href="http://www.smokeinmyeye.com/">SiMe | Smoke in my eye</a></li>
 	<li><a href="http://simonwillison.net/">Simon Willison's Weblog</a></li>
@@ -438,7 +440,7 @@
 	<li><a href="http://www.excitingworldofleonard.blogspot.com/">The exciting world of Leonard</a></li>
 	<li><a href="http://thegraphicfoodie.blogspot.com/">The Graphic Foodie</a></li>
 	<li><a href="http://xenophonsalbion.wordpress.com/">The Hovian</a></li>
-	<li><a href="http://www.lovettandco.co.uk/blog">The Lovett Blog</a></li>
+	<li><a href="http://thelittlebuttondiaries.wordpress.com">The Little Button Diaries | Brighton, Baking, Babies... and Buttons</a></li>
 	<li><a href="http://www.danielmoth.com/Blog">The Moth</a></li>
 	<li><a href="http://www.mulberrybush.co.uk/blog/">The Mulberry Bush Blog</a></li>
 	<li><a href="http://seandodson.wordpress.com/">The Northern Light</a></li>
@@ -451,7 +453,8 @@
 	<li><a href="http://thepirateking.wordpress.com/">the pirate king</a></li>
 	<li><a href="http://www.therapyinthemaking.co.uk/">therapy in the making</a></li>
 	<li><a href="http://therecommender.wordpress.com/">The Recommender</a></li>
-	<li><a href="http://www.seafrontdiary.com">The Seafront Diaries</a></li> 
+	<li><a href="http://www.seafrontdiary.com">The Seafront Diaries</a></li>
+	<li><a href="http://thetemplestreet.blogspot.co.uk">The Temple Street Irregular</a></li> 
 	<li><a href="http://www.thoughtballoon.co.uk/blog/">The Thought Balloon</a></li>
 	<li><a href="http://www.uniqueto.co.uk/blog/Indie">The Unique to Brighton Bulletin</a></li>
 	<li><a href="http://usualshop.wordpress.com/">The Usual Shop</a></li>
