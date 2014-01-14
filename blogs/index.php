@@ -62,6 +62,7 @@
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
 	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
+	<li><a href="http://amyrutter.com">Amy Rutter | Lifestyle blogger, writer, journalist, punk music and tattoo lover based in Brighton, UK</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
 	<li><a href="http://annainherwonderland.com">annainherwonderland</a></li>
@@ -102,6 +103,7 @@
 	<li><a href="http://bozboz.wordpress.com/">Bozboz web design</a></li>
 	<li><a href="http://radio.weblogs.com/0100875/">Brain Off :: Mikel Maron</a></li>
 	<li><a href="http://www.rowstar.blogspot.com/">Breakfast in Bed</a></li>
+	<li><a href="http://www.bridgeandbeacon.com">Bridge &amp; Beacon - New Music Blog</a></li>
 	<li><a href="http://bridgetwhelan-writer.blogspot.com/">Bridget Whelan</a></li>
 	<li><a href="http://bright-move.blogspot.co.uk/">Bright Move - The blog for families moving from London to Brighton</a></li>
 	<li><a href="http://brighton-co-uk.blogspot.com/">Brighton.co.uk - loving life in Brighton and Hove</a></li>
@@ -224,6 +226,7 @@
 	<li><a href="http://ragazza64.blogspot.com/">Georgina Ragazza</a></li>
 	<li><a href="http://gigionsea.blogspot.co.uk/">gigionsea The Water is Wide</a></li>
 	<li><a href="http://gigphoto.blogspot.com/">Gig Photo</a></li>
+	<li><a href="http://www.kotrynabass.com">Girl With a Movie Camera - a blog by Kotryna Bass</a></li>
 	<li><a href="http://www.theglamandglitter.com">Glam and Glitter 4Ever</a></li>
 	<li><a href="http://www.glasshalfempty.co.uk/">Glass half empty</a></li>
 	<li><a href="http://www.glennjones.net">glennjones.net</a></li>
@@ -291,6 +294,7 @@
 	<li><a href="http://lovebrighton.blogspot.com">LoveBrighton</a> - no updates since 2003</li>
 	<li><a href="http://lovelybrighton.blogspot.co.uk/">Lovely Brighton</a></li>
 	<li><a href="http://lovepoppy.blogspot.com/">Love Poppy</a></li>
+	<li><a href="http://www.lovespun.co.uk">LOVESPUN</a></li>
 	<li><a href="http://lullyweb.com/">LullyWeb.Com</a></li>
 	<li><a href="http://www.lunchbreaksketchclub.blogspot.co.uk/">Lunch Break Sketch Club</a></li>
 	<li><a href="http://lvloves.wordpress.com">LV loves</a></li>
@@ -423,6 +427,7 @@
 	<li><a href="http://tarahanks.wordpress.com/">Tara Hanks</a></li>
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
 	<li><a href="http://tenpastmidnight.blogspot.com">tenpastmidnight</a></li>
+	<li><a href="http://blog.byandyparker.com">The Avangelist</a></li>
 	<li><a href="http://www.thebrandsurgery.co.uk/blog/">The Brand Surgery Blog</a></li>
 	<li><a href="http://brightonartsblog.blogspot.com/">The Brighton Arts Blog</a></li>
 	<li><a href="http://thebrightoner.blogspot.com/">thebrightoner</a></li>
@@ -485,7 +490,8 @@
 	<li><a href="http://veggiepotluck.wordpress.com/">veggie potluck</a></li>
 	<li><a href="http://vickeh.com/journal/">Vicky {says hello}</a></li>
 	<li><a href="http://www.viewsauce.com/">View Sauce - Weblog and Portfolio of Debra Cuming</a></li>
-	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></lis>
+	<li><a href="http://vikingappmarketing.com">Viking App Marketing - Tips &amp; Insights into mobile app marketing</a></li>
+	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></li>
 	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
 	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>s
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
