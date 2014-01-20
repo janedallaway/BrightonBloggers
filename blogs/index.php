@@ -285,6 +285,8 @@
 	<li><a href="http://kendallcopywriting.co.uk/blog/">Kendall Copywriting - Freelance copywriting, editing, SEO and blogging in Brighton, Hove and London</a></li>
 	<li><a href="http://www.kindleresearch.com/">Kindle Research</a></li>
 	<li><a href="http://www.KingOfMyCastle.com">KingOfMyCastle</a></li>
+	<li><a href="http://ladylovesbeauty.wordpress.com">Lady Loves Beauty | The home of all things Beauty &amp; Skin Care</a></li>
+	<li><a href="http://ladylovesfashion.wordpress.com">Lady Loves Fashion | The home of all things Fashion</a></li>
 	<li><a href="http://laluminata.wordpress.com/">LA LUMINATA</a></li>
 	<li><a href="http://life-is-not-a-rollercoaster.co.uk/">life-is-not-a-rollercoaster >> Ronan Keating was wrong</a></li>
 	<li><a href="http://www.martiandaze.net/blog">Life on Mars - @20six.co.uk</a></li>
