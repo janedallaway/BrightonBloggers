@@ -408,6 +408,7 @@
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
 	<li><a href="http://sourmangopowder.blogspot.com/">Sour Mango Powder</a></li>
 	<li><a href="http://sozowhatdoyouknow.blogspot.co.uk">So, Zo...</a></li>
+	<li><a href="http://spadeforkspoon.wordpress.com">Spade Fork Spoon | Recipes for a changed life</a></li>
 	<li><a href="http://www.spaghettitraveller.com">Spaghetti Traveller - Travel Blog and Holiday Guide by Tom Bourlet</a></li>
 	<li><a href="http://spindoctorsdisco.blogspot.com/"> Spin Doctors Mobile Disco</a></li>
 	<li><a href="http://johnnybranch.blogspot.com/">Splash!</a></li>
@@ -483,6 +484,7 @@
 	<li><a href="http://turningthetidebrighton.blogspot.com/">Turning the Tide</a></li>
 	<li><a href="http://www.amyriley.blogspot.com">Typing: An Unavoidable Consequence of Bad Handwriting</a></li>
 	<li><a href="http://www.unmadeup.com/">Un-MADE-Up</a></li>
+	<li><a href="http://unistudentlife.co.uk">Uni Student Life - The UK's No.1 Student hub</a></li>
 	<li><a href="http://eldan.co.uk/diary/">Unmarked Nuclear Warheads Travel These Roads</a></li>
 	<li><a href="http://www.azureworld.blogspot.com/">Up</a></li>
 	<li><a href="http://www.upstreamconnections.com/blog/">Upstream connections - SEO</a></li>
