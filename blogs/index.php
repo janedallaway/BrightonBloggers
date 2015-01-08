@@ -39,6 +39,7 @@
 	<li><a href="http://1000thoughtsorless.blogspot.com/">1000 thoughts or less</a></li>
 	<li><a href="http://20yearsaveggie.blogspot.com/">20 years a veggie</a></li>
 	<li><a href="http://www.3sixtycreative.com/blogg/blogg.html">3Sixty Blogg</a></li>
+	<li><a href="http://www.4-shou.com">4-Shou</a></li>
 	<li><a href="http://41places.wordpress.com/">41 Places news</a></li>
 	<li><a href="http://6fish.wordpress.com/">6fish</a></li>
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
@@ -51,6 +52,7 @@
 	<li><a href="http://brightondilettante.blogspot.co.uk">A Dilettante in Brighton</a></li>
 	<li><a href="http://admanbrighton.co.uk/">ADMAN</a></li>
 	<li><a href="http://agirlandherthumb.wordpress.com/">A girl and her thumb</a></li>
+	<li><a href="http://www.ainebeauty.com">Aine Beauty, Fashion &amp; Lifestyle</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
 	<li><a href="http://www.alexandtheweb.com/">Alex and the Web</a></li>
 	<li><a href="http://alexfarran.blogspot.com/">Alex's blog</a></li>
@@ -163,8 +165,10 @@
 	<li><a href="http://www.chocchick.com/chocchat/">CHOCchat...</a></li>
 	<li><a href="http://www.cjwords.blogspot.com">CJ Words</a></li>
 	<li><a href="http://www.clagnut.com/">Clagnut</a></li>
+	<li><a href="http://www.clairmatthews.com/">Clair Matthews</a></li>
 	<li><a href="http://coalholecover.blogspot.co.uk/">Coalhole cover compendium</a></li>
 	<li><a href="http://www.colinmercer.co.uk/">Colin Mercer on the Inter-Web</a></li>
+	<li><a href="http://singleparentpessimist.blogspot.co.uk">Confessions of a Single Parent Pessimist</a></li>
 	<li><a href="http://www.copywritenow.co.uk">Copywrite Now</a></li>
 	<li><a href="http://www.brighton-hove-councillors.org.uk/index.cfm?request=a1700">councillors</a></li>
 	<li><a href="http://cclarketherapy.wordpress.com">Counselling in Brighton &amp; Hove | Caroline Clarke</a></li>
@@ -191,6 +195,7 @@
 	<li><a href="http://www.divorcefinancetoolkit.co.uk">Divorce Finance Toolkit - The inside track for those struggling with divorce finance issues</a></li>
 	<li><a href="http://dogdela.blogspot.com/">dogdela</a></li>
 	<li><a href="http://pateswritings.wordpress.com/">Dom Pates: Collected Writings</a></li>
+	<li><a href="http://www.dontbelievethehype.biz/">Don't Believe The Hype</a></li>
 	<li><a href="http://dorkatronic.blogspot.com/">DORKATRONIC</a></li>
 	<li><a href="http://siliconbea.ch/">Down at Silicon Beach</a></li>
 	<li><a href="http://dreamfield.blogdrive.com/">dreamfield ix interactive</a></li>
@@ -202,14 +207,18 @@
 	<li><a href="http://www.emiliewood.com/">EmilieWood.com - My Little Corner of the Sky</a> - an ex-Brighton resident rather than a current one</li>
 	<li><a href="http://emlonsocial.wordpress.com/">emlonsocial | unearthing the socialsphere</a></li>
 	<li><a href="http://www.emoware.org/">emo.ware</a></li>
+	<li><a href="http://engageandcreate.tumblr.com">EngAge &amp; Create</a></li>
 	<li><a href="http://ianozsvald.com/">Entrepreneurial Geekiness</a></li>
 	<li><a href="http://erkdemon.blogspot.com/">ErkDemon</a></li>
 	<li><a href="http://www.eternalgaze.net/">Eternal Gaze</a></li>
 	<li><a href="http://etheldcofie.wordpress.com/">ethelcofie's How To Articles</a></li>
 	<li><a href="http://www.eventyr.co.uk/ramblings.html">Eventyr</a></li>
 	<li><a href="http://everyoneelsehasablog.blogspot.com/">Everyone Else Has A Blog</a></li>
+	<li><a href="http://www.everythingsrosieblog.com">Everything's Rosie | a beauty, fashion &amp; lifestyle blog</a></li>
 	<li><a href="http://www.fashionmeasmile.com/">Fashion me a smile</a></li>
 	<li><a href="http://www.feedthepony.blogspot.com/">Feed The Pony</a></li>
+	<li><a href="http://www.fit-bits.blogspot.co.uk">FitBits</a></li>
+	<li><a href="http://fitnessorstrength.com">UK Fitness Blog | Fitness or Strength</a></li>
 	<li><a href="http://www.flashist.co.uk/">Flashist</a></li>
 	<li><a href="http://www.flowerhunt.blogspot.com/">flower hunt</a></li>
 	<li><a href="http://fluctisonous.com/">Fluct.isono.us</a></li>
@@ -226,12 +235,15 @@
 	<li><a href="http://ragazza64.blogspot.com/">Georgina Ragazza</a></li>
 	<li><a href="http://gigionsea.blogspot.co.uk/">gigionsea The Water is Wide</a></li>
 	<li><a href="http://gigphoto.blogspot.com/">Gig Photo</a></li>
+	<li><a href="http://www.girlmeetsveg.co.uk">Girl meets Veg - Vegetarian food, recipes and life from a Brighton home</a></li>
 	<li><a href="http://www.kotrynabass.com">Girl With a Movie Camera - a blog by Kotryna Bass</a></li>
 	<li><a href="http://www.theglamandglitter.com">Glam and Glitter 4Ever</a></li>
 	<li><a href="http://www.glasshalfempty.co.uk/">Glass half empty</a></li>
 	<li><a href="http://www.glennjones.net">glennjones.net</a></li>
 	<li><a href="http://go5ways.blogspot.com/">Go 5 Ways</a></li>
 	<li><a href="http://www.gravyland.net/">gravyland</a></li>
+	<li><a href="http://online.guitarlearn.co.uk">Guitarlearn: Online | Free guitar lessons, articles, videos &amp; more</a></li>
+	<li><a href="http://sussexguttercleaning.blogspot.co.uk/">Gutter Cleaning Sussex</a></li>
 	<li><a href="http://hack2flack.blogspot.co.uk/">hack2flack</a></li>
 	<li><a href="http://harringtonslettings.blogspot.com/">Harringtons Lettings - Expert Advice on Rental Property for Landlords</a></li>
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
@@ -270,6 +282,7 @@
 	<li><a href="http://jb-pr.tumblr.com">JBPR - blog</a></li>
 	<li><a href="http://www.jamesbyford.co.uk/">Jim's allotment</a></li>
 	<li><a href="http://jimmysscrapbook.blogspot.com/">Jimmy's scrapbook</a></li>
+	<li><a href="http://www.jojennerdrawings.blogspot.co.uk">Jo Jenner Drawings</a></li>
 	<li><a href="http://joannemallon.typepad.com/joanne_the_coach/">Joanne the coach</a></li>
 	<li><a href="http://www.jobsinbrightonandhove.co.uk/blog/">Jobs in Brighton and Hove</a></li>
 	<li><a href="http://joeinbrightonblogs.blogspot.com/">Joe Blogs</a></li>
@@ -288,6 +301,7 @@
 	<li><a href="http://ladylovesbeauty.wordpress.com">Lady Loves Beauty | The home of all things Beauty &amp; Skin Care</a></li>
 	<li><a href="http://ladylovesfashion.wordpress.com">Lady Loves Fashion | The home of all things Fashion</a></li>
 	<li><a href="http://laluminata.wordpress.com/">LA LUMINATA</a></li>
+	<li><a href="http://www.bsw-bs.co.uk/latest-news">Latest News |BSW  - Building Services</a></li>
 	<li><a href="http://life-is-not-a-rollercoaster.co.uk/">life-is-not-a-rollercoaster >> Ronan Keating was wrong</a></li>
 	<li><a href="http://www.martiandaze.net/blog">Life on Mars - @20six.co.uk</a></li>
 	<li><a href="http://www.lillaloves.com">Lilla Loves</a></li>
@@ -298,7 +312,6 @@
 	<li><a href="http://lovepoppy.blogspot.com/">Love Poppy</a></li>
 	<li><a href="http://www.lovespun.co.uk">LOVESPUN</a></li>
 	<li><a href="http://lullyweb.com/">LullyWeb.Com</a></li>
-	<li><a href="http://www.lunchbreaksketchclub.blogspot.co.uk/">Lunch Break Sketch Club</a></li>
 	<li><a href="http://lvloves.wordpress.com">LV loves</a></li>
 	<li><a href="http://lydz25.livejournal.com/">Lydzs Journal of comings and goings</a></li>
 	<li><a href="http://www.madmotive.com/">M.A.D. Motive</a></li>
@@ -329,6 +342,7 @@
 	<li><a href="http://www.markbeal.co.uk">My life, Universe and Everything</a></li>
 	<li><a href="http://www.nakedtranslations.com/en/blog.php">Naked Translations</a></li>
 	<li><a href="http://notes.natbat.net/">Natalie Downe</a></li>
+	<li><a href="http://nefariouslifestyle.co.uk/lifestyle/lifestyle-blog-uk/">Nefarious Lifestyle Blog UK</a></li>
 	<li><a href="http://www.neilson.co.uk/news-blog.aspx">Neilson News Blog - Latest Information and Offers</a></li>
 	<li><a href="http://www.eiva.blog.com">Never Eat Anything Bigger Than Your Head | Love yourself at first.</a></li>
 	<li><a href="http://newsfrombrighton.co.uk/">News from Brighton</a></li>
@@ -366,6 +380,7 @@
 	<li><a href="http://www.pubscene.co.uk/">Pub Scene - Brighton &amp; Hove pubs</a></li>
 	<li><a href="http://rajanand.biz/">RajAnand's bizzz</a></li> 
 	<li><a href="http://youfoundkel.blogspot.com/">Random outpourings from my mixed up mind</a></li>
+	<li><a href="http://reesentertainment.com">Red Eight Entertainment System</a></li> 
 	<li><a href="http://reithian.blogspot.com/">Reithian</a></li>
 	<li><a href="http://www.rowingrichard.blogspot.com/">Richard Mitchelson</a></li>
 	<li><a href="http://blog.spiralarm.com/richard/">Richard's Technical Notes</a></li>
@@ -375,7 +390,7 @@
 	<li><a href="http://www.rockcakes.com/blog/">Rock Cakes</a></li>
 	<li><a href="http://www.schvtrn.com/rollo/blogger.html">Rollo Kim Reporting</a></li>
 	<li><a href="http://rosiesherry.com/">RosieLand</a></li>
-	<li><a href-"http://roundhillrob.wordpress.com">Roundhillrob's Blog</a></li>
+	<li><a href="http://roundhillrob.wordpress.com">Roundhillrob's Blog</a></li>
 	<li><a href="http://sadiedark69.blogspot.com/">Sadie Dark Places</a></li>
 	<li><a href="http://marymagdalen.blogspot.com/">Saint Mary Magdalen, Brighton, UK</a></li>
 	<li><a href="http://www.salopiantree.com/">Salopiantree</a></li>
@@ -426,6 +441,7 @@
 	<li><a href="http://www.luckydogphoto.com/blog/">Sussex wedding photographer's blog</a></li>
 	<li><a href="http://suziknight.blogspot.com/">Suzi Knight</a></li>
 	<li><a href="http://www.annadewis.com/blog/">Tales from my handbag</a></li>
+	<li><a href="http://tallcurvymumma.wordpress.com">Tall, Curvy Mumma</a></li>
 	<li><a href="http://talkingbollocks.net/">Talking Bollocks</a></li>
 	<li><a href="http://tarahanks.wordpress.com/">Tara Hanks</a></li>
 	<li><a href="http://tenantrydown.blogspot.com/">Tenantry Down Allotments</a></li>
@@ -455,6 +471,7 @@
 	<li><a href="http://one40fivestore.blogspot.com/">the ONE 40 FIVE store</a> - no updates since 2004</li>
 	<li><a href="http://other-side-of-the-world.blogspot.com/">The other side of the world</a></li>
 	<li><a href="http://palace52.blogspot.com/">The Palace</a></li>
+	<li><a href="http://thepaperbackthrone.blogspot.co.uk">The Paperback Throne</a></li>
 	<li><a href="http://rangor.blogspot.com/">The past, present and future according to Rangor.</a></li>
 	<li><a href="http://www.tpvsuc.blogspot.com/">The people versus stand-up comedy</a></li>
 	<li><a href="http://www.wavedreamer.co.uk/category/journals/the-philosurfer/">The Philosurfer | from wavedreamer</a></li>
@@ -497,7 +514,7 @@
 	<li><a href="http://vikingappmarketing.com">Viking App Marketing - Tips &amp; Insights into mobile app marketing</a></li>
 	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></li>
 	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
-	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>s
+	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
 	<li><a href="http://weddingphotographyworld.blogspot.com/">Wedding Photography World</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/cyclelanes/cycleblog/">Weird cycle lanes</a></li>
