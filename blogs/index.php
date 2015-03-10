@@ -45,6 +45,7 @@
 	<li><a href="http://a4istic.blogspot.com/">A4istic humour</a></li>
 	<li><a href="http://abi-rhodes.typepad.com/abi_rhodes_zigzag_wanderi/">Abi Rhodes' Zigzag Wanderings</a></li>
 	<li><a href="http://www.brightonhotspot.com/">About conversation</a></li>
+	<li><a href="http://aboutmatttaylor.blogspot.co.uk/">About Matt Taylor</a></li>
 	<li><a href="http://www.mobileintelligence.blogspot.com/">A mobile phone blog</a></li>
 	<li><a href="http://mutualmisunderstanding.wordpress.com/">A Mutual Misunderstanding</a></li>
 	<li><a href="http://actionscripter.co.uk/blog/">actionscripter.co.uk</a></li>
@@ -65,6 +66,7 @@
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
 	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
 	<li><a href="http://amyrutter.com">Amy Rutter | Lifestyle blogger, writer, journalist, punk music and tattoo lover based in Brighton, UK</a></li>
+	<li><a href="http://andrewsleigh.com/">Andrew Sleigh | I help people ...</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
 	<li><a href="http://annainherwonderland.com">annainherwonderland</a></li>
@@ -154,6 +156,7 @@
 	<li><a href="http://benlobo.blogspot.com/">Busman's Holiday</a></li>
 	<li><a href="http://www.cakesandcatwalks.com/">Cakes and Catwalks</a></li>
 	<li><a href="http://www.callendercreates.com/blog/">Callender Creates</a></li>
+	<li><a href="http://justice4katrinataylor.blogspot.co.uk/">Campaign Justice 4 Katrina</a></li>
 	<li><a href="http://cancerfighter.wordpress.com/">Cancerfighter's Weblog</a></li>
 	<li><a href="http://cas-cool.livejournal.com/">Cas's Lurking Journal</a></li>
 	<li><a href="http://www.chaoskiller.com/">Chaos Killer!</a></li>
@@ -217,6 +220,7 @@
 	<li><a href="http://www.everythingsrosieblog.com">Everything's Rosie | a beauty, fashion &amp; lifestyle blog</a></li>
 	<li><a href="http://www.fashionmeasmile.com/">Fashion me a smile</a></li>
 	<li><a href="http://www.feedthepony.blogspot.com/">Feed The Pony</a></li>
+	<li><a href="https://www.firstpersonview.co.uk/blog/">FirstPersonView</a></li> 
 	<li><a href="http://www.fit-bits.blogspot.co.uk">FitBits</a></li>
 	<li><a href="http://fitnessorstrength.com">UK Fitness Blog | Fitness or Strength</a></li>
 	<li><a href="http://www.flashist.co.uk/">Flashist</a></li>
@@ -242,6 +246,7 @@
 	<li><a href="http://www.glennjones.net">glennjones.net</a></li>
 	<li><a href="http://go5ways.blogspot.com/">Go 5 Ways</a></li>
 	<li><a href="http://www.gravyland.net/">gravyland</a></li>
+	<li><a href="http://guerrillademocracy.blogspot.co.uk/">GUERRILLA DEMOCRACY NEWS </a></li>
 	<li><a href="http://online.guitarlearn.co.uk">Guitarlearn: Online | Free guitar lessons, articles, videos &amp; more</a></li>
 	<li><a href="http://sussexguttercleaning.blogspot.co.uk/">Gutter Cleaning Sussex</a></li>
 	<li><a href="http://hack2flack.blogspot.co.uk/">hack2flack</a></li>
@@ -292,6 +297,7 @@
 	<li><a href="http://www.josephpatterson.com/">Joseph Patterson | Digital Media Brighton | SEO Brighton | Joe Patterson</a></li>
 	<li><a href="http://www.joshrussell.com/">Joshua Russell | Oosh Projects</a></li>
 	<li><a href="http://jugglingwithwater.blogspot.com/">jugglingwithwater</a></li>
+	<li><a href="https://justanotherpebble.wordpress.com/">Just Another Pebble</a></li>
 	<li><a href="http://justseventhings.com/">Just Seven Things</a></li>
 	<li><a href="http://justwritebrighton.wordpress.com/">Just Write - meet your muse</a></li> 
 	<li><a href="http://blog.luckyvoice.com/">Karaoke blog from Lucky Voice: Stories from The Karaoke Coalface</a></li>
@@ -320,6 +326,8 @@
 	<li><a href="http://www.manaboutbrighton.co.uk/">Man About Brighton, helping the good businesses in Brighton and Hove survive</a></li>
 	<li><a href="http://www.markmitchell.co.uk/blog/">Mark Mitchell</a></li>
 	<li><a href="http://emilybassin.blogspot.com/">Maternal Tales from the South Coast</a></li>
+	<li><a href="https://gettingreadyfor2015.wordpress.com/">Matt Taylor for Brighton Kemptown 2015</a></li>
+	<li><a href="http://vote4matttaylor2015.blogspot.co.uk/">Matt Taylor for Brighton Kemptown 2015</a></li>
 	<li><a href="http://jackiedinnis.wordpress.com">Meeting my family</a></li>
 	<li><a href="http://www.memetherapy.blogspot.com">memetherapy</a></li>
 	<li><a href="http://metrodeco.wordpress.com/">Metrodeco's Brighton Blog</a></li>
@@ -410,6 +418,7 @@
 	<li><a href="http://seratone.blogspot.com/">Seratone</a></li>
 	<li><a href="http://www.sewrecycled.blogspot.com/">Sew Recycled!</a></li>
 	<li><a href="http://soundsgoodtometoo.com/">SGTMT | new music, old music and more</a></li>
+	<li><a href="http://shadowsussexpolicecrimecommissioner.blogspot.co.uk/">Shadow Sussex Police &amp; Crime Commissioner </a></li>
 	<li><a href="http://shallowland.blogspot.com">Shallowlands</a></li>
 	<li><a href="http://www.shescalledclaire.com">She's called Claire // Brighton / UK Fashion, Food and Lifestyle blog</a></li>
 	<li><a href="http://www.wordsby.me/">Short Stories :: and other stuff</a></li>
