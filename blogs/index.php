@@ -64,7 +64,6 @@
 	<li><a href="http://allnaturaltiles.blogspot.co.uk">All Natural Tiles &amp; All Porcelain Tiles</a></li>
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
-	<li><a href="http://modernbrick-a-brack.blogspot.com/">A modern brick-a-brack blog</a></li>
 	<li><a href="http://amyrutter.com">Amy Rutter | Lifestyle blogger, writer, journalist, punk music and tattoo lover based in Brighton, UK</a></li>
 	<li><a href="http://andrewsleigh.com/">Andrew Sleigh | I help people ...</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
@@ -91,7 +90,6 @@
 	<li><a href="http://bellaraeblabber.blogspot.co.uk">Bella Rae Beauty</a></li>
 	<li><a href="http://www.backpackerben.co.uk/">Ben's Backpacking Travel Blog</a></li>
 	<li><a href="http://bethgranter.wordpress.com">Beth Granter</a></li>
-	<li><a href="http://bestbitsaboutbrighton.com/">BestBitsAboutBrighton</a></li>
 	<li><a href="http://www.biromug.tumblr.com">Biromug - Elliott Caranci-Finch</a></li>
 	<li><a href="http://bishbashbosh-brighton.blogspot.co.uk">Bish Bash Bosh</a></li>
 	<li><a href="http://blog.cogapp.com/">blog.cogapp.com</a></li>
@@ -110,6 +108,7 @@
 	<li><a href="http://www.bridgeandbeacon.com">Bridge &amp; Beacon - New Music Blog</a></li>
 	<li><a href="http://bridgetwhelan-writer.blogspot.com/">Bridget Whelan</a></li>
 	<li><a href="http://bright-move.blogspot.co.uk/">Bright Move - The blog for families moving from London to Brighton</a></li>
+	<li><a href="http://brightonabudget.net/">Bright on a Budget</a></li>
 	<li><a href="http://brighton-co-uk.blogspot.com/">Brighton.co.uk - loving life in Brighton and Hove</a></li>
 	<li><a href="http://www.brightonandhovenews.org/">Brighton and Hove News</a></li>
 	<li><a href="http://brightonandlove.co.uk/">Brighton and Love | a blog about life and love in the small - but hugely eccentric - city</a></li>
@@ -337,6 +336,7 @@
 	<li><a href="http://missy-brown.blogspot.co.uk">Missy Brown</a></li>
 	<li><a href="http://www.mobbu.com/blog">mobbu</a></li>
 	<li><a href="http://www.livejournal.com/users/mockduck/">Mock Duck</a></li>
+	<li><a href="http://modernbrick-a-brack.blogspot.co.uk/">ModernBrickABrack blog</a></li>
 	<li><a href="http://www.monkeyrat.com/">MonkeyRat.com</a></li>
 	<li><a href="http://www.thebusinesssuccessfactory.com/">More Leads, More Sales, More Profits, Less Time | TheBusinessSuccessFactory.com</a></li>
 	<li><a href="http://www.morethanconfused.blogspot.com/">More than confused</a></li>
