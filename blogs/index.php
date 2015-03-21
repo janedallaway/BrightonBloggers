@@ -310,6 +310,7 @@
 	<li><a href="http://life-is-not-a-rollercoaster.co.uk/">life-is-not-a-rollercoaster >> Ronan Keating was wrong</a></li>
 	<li><a href="http://www.martiandaze.net/blog">Life on Mars - @20six.co.uk</a></li>
 	<li><a href="http://www.lillaloves.com">Lilla Loves</a></li>
+	<li><a href="http://littlechica.co.uk/">Little chica | UK Lifestyle Blog</a></li>
 	<li><a href="http://www.toque.co.uk/blog/">Little Man in a Toque</a></li>
 	<li><a href="http://www.littleredboat.co.uk ">Little Red Boat</a></li>
 	<li><a href="http://lovebrighton.blogspot.com">LoveBrighton</a> - no updates since 2003</li>
