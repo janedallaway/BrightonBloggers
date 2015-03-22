@@ -532,6 +532,7 @@
 	<li><a href="http://www.yogabrighton.net/">Welcome to yogabrighton</a></li>
 	<li><a href="http://wellieswithwings.blogspot.com/">Wellies with Wings</a></li>	
 	<li><a href="http://westpierwords.blogspot.com/">West Pier Words</a></li>
+	<li><a href="http://www.tomsayer.co.uk/blog/">Whattomwrites</a></li>
 	<li><a href="http://a-nice-bit-of-fresh-air.blogspot.com/">Will Lockie's blog</a></li>
 	<li><a href="http://willmcinnes.co.uk/">Will McInnes</a></li>
 	<li><a href="http://www.willphotographforfood.com/">Will Photograph for Food >> The portfolio of Paul Broomfield</a></li>
