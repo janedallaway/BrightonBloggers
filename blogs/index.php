@@ -176,6 +176,7 @@
 	<li><a href="http://cclarketherapy.wordpress.com">Counselling in Brighton &amp; Hove | Caroline Clarke</a></li>
 	<li><a href="http://www.createdmetaphors.co.uk/">Created Metaphors</a></li>
 	<li><a href="http://www.creativebloke.com/blog/">Creativeblokes Blog</a></li>
+	<li><a href="http://www.pippasays.com/">Creative Lifestyle Blogger - Pippa Says:</a></li>
 	<li><a href="http://members.lycos.co.uk/crosbie71/blog/">Crosbie's Blog Cabin</a></li>
 	<li><a href="http://www.culturazzi.co.uk">Culturazzi // UK Fashion Blog // Fashion, Style &amp; Beauty</a></li>
 	<li><a href="http://www.livejournal.com/users/scarletdemon/">Cynical, drunken and lighting another cigar...</a></li>
@@ -240,6 +241,7 @@
 	<li><a href="http://gigphoto.blogspot.com/">Gig Photo</a></li>
 	<li><a href="http://www.girlmeetsveg.co.uk">Girl meets Veg - Vegetarian food, recipes and life from a Brighton home</a></li>
 	<li><a href="http://www.kotrynabass.com">Girl With a Movie Camera - a blog by Kotryna Bass</a></li>
+	<li><a href="http://www.girlycopyright.com/">Girlycopyright | Dedicated to all things girly</a></li>
 	<li><a href="http://www.theglamandglitter.com">Glam and Glitter 4Ever</a></li>
 	<li><a href="http://www.glasshalfempty.co.uk/">Glass half empty</a></li>
 	<li><a href="http://www.glennjones.net">glennjones.net</a></li>
