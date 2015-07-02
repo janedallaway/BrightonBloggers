@@ -227,6 +227,7 @@
 	<li><a href="http://www.flashist.co.uk/">Flashist</a></li>
 	<li><a href="http://www.flowerhunt.blogspot.com/">flower hunt</a></li>
 	<li><a href="http://fluctisonous.com/">Fluct.isono.us</a></li>
+	<li><a href="http://foodieeshe.com/">Foodie Eshé | Brighton Food Blog - Recipes, Reviews &amp; News</a></li>
 	<li><a href="http://blisteredeye.blogspot.com/">Fork in my eye</a></li>
 	<li><a href="http://www.four0four.net/">Four0Four</a></li>
 	<li><a href="http://www.geocities.com/fredpipes/blog/index.html">Fred's blog</a></li>
@@ -529,6 +530,7 @@
 	<li><a href="http://vikingappmarketing.com">Viking App Marketing - Tips &amp; Insights into mobile app marketing</a></li>
 	<li><a href="http://villedebrighton.wordpress.com">Ville de Brighton | Croissant dunked inspiration for seaside living</a></li>
 	<li><a href="http://vintagebrighton.com/">Vintage Brighton</a></li>
+	<li><a href="http://getclientsonline.co.uk/">Virtual Event Expert – Profiting with online partnerships</a></li>
 	<li><a href="http://visitbrighton.blogspot.com/">VisitBrighton's Blog</a></li>
 	<li><a href="http://www.addedbytes.com/">Web design, development and marketing - Added Bytes</a></li>
 	<li><a href="http://weddingphotographyworld.blogspot.com/">Wedding Photography World</a></li>
