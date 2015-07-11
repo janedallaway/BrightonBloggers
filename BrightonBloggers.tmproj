@@ -26,14 +26,14 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>59</integer>
+				<integer>66</integer>
 				<key>line</key>
-				<integer>528</integer>
+				<integer>542</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>512</integer>
+			<integer>529</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
