@@ -374,6 +374,7 @@
 	<li><a href="http://onlystopping.blogspot.com/">Only Stopping</a></li>
 	<li><a href="http://www.open.typepad.com/">Open (finds, minds, conversations)...</a></li>
 	<li><a href="http://omf.blogspot.com/">Other Men's Flowers</a></li>
+	<li><a href="http://www.ourseasidebaby.com/">Our Seaside Baby - Parenting and Lifestyle blog in Brighton, UK</a></li>
 	<li><a href="http://dogs-blog.out-and-about-with-your-dog.com/">Out And About With Your Dog Blog</a></li>
 	<li><a href="http://pangmag.wordpress.com/">Pang Mag</a></li>
 	<li><a href="http://parkrunner.wordpress.com/">parkrunner</a></li>
