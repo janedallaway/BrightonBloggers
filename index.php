@@ -53,7 +53,6 @@
 	<li><a href="http://brightondilettante.blogspot.co.uk">A Dilettante in Brighton</a></li>
 	<li><a href="http://admanbrighton.co.uk/">ADMAN</a></li>
 	<li><a href="http://agirlandherthumb.wordpress.com/">A girl and her thumb</a></li>
-	<li><a href="http://www.ainebeauty.com">Aine Beauty, Fashion &amp; Lifestyle</a></li>
 	<li><a href="http://alabaster.wordpress.com/">Alabaster Crippens doesn't know what's going on</a></li>
 	<li><a href="http://www.alexandtheweb.com/">Alex and the Web</a></li>
 	<li><a href="http://alexfarran.blogspot.com/">Alex's blog</a></li>
@@ -64,7 +63,7 @@
 	<li><a href="http://allnaturaltiles.blogspot.co.uk">All Natural Tiles &amp; All Porcelain Tiles</a></li>
 	<li><a href="http://www.alphaone-comp.com/kbase/">AlphaOne Computing Knowledgebase</a></li>
 	<li><a href="http://www.amateurbrainsurgery.com/">Amateur Brain Surgery</a></li>
-	<li><a href="http://amyrutter.com">Amy Rutter | Lifestyle blogger, writer, journalist, punk music and tattoo lover based in Brighton, UK</a></li>
+	<li><a href="http://amyrutter.com">Amy Rutter - A Brighton lifestyle, food and culture blog</a></li>
 	<li><a href="http://andrewsleigh.com/">Andrew Sleigh | I help people ...</a></li>
 	<li><a href="http://www.andybudd.com/">Andy Budd::Blogography</a></li>
 	<li><a href="http://www.anjamerret.com/">anja merret</a></li>
@@ -85,6 +84,7 @@
 	<li><a href="http://www.awesomeville.co.uk/">AWESOMEVILLE</a></li>
 	<li><a href="http://jonathanbaldwin.blogspot.com/">A Word In Your Ear</a></li>
 	<li><a href="http://daisydunkeld.com/blog">Baby Daisy's blog</a></li>
+	<li><a href="https://barefootblissblog.wordpress.com/">Barefoot Rosie | Freelance Writer and Life-long Adventurer </a></li>
 	<li><a href="http://beesnthings.blogspot.com/">Bees n things</a></li>
 	<li><a href="http://www.dontbelievethehype.biz/blog/">Behind the Hype</a></li>
 	<li><a href="http://bellaraeblabber.blogspot.co.uk">Bella Rae Beauty</a></li>
@@ -257,6 +257,7 @@
 	<li><a href="http://www.helpinthecity.com/blog/">Helpinthecity Blog</a></li>
 	<li><a href="http://www.holiday-n-adventure.co.uk/blog/">Holiday-n-Adventure Blog | The latest adventures and freshest offers from Holiday-n-Adventure, Brighton</a></li>
 	<li><a href="http://www.homestorage4u.co.uk/blog">homestorage4u blog</a></li>
+	<li><a href="http://www.honestlyaine.com/">Honestly Aine</a></li>
 	<li><a href="http://www.hootingmissowl.com">Hooting Miss Owl</a></li>
 	<li><a href="http://www.portsladehistory.blogspot.co.uk">Hove and Portslade in the Past</a></li>
 	<li><a href="http://hovefabulousfashionista.blogspot.com/">Hove Fabulous Fashionista</a></li>
@@ -300,6 +301,7 @@
 	<li><a href="http://www.josephpatterson.com/">Joseph Patterson | Digital Media Brighton | SEO Brighton | Joe Patterson</a></li>
 	<li><a href="http://www.joshrussell.com/">Joshua Russell | Oosh Projects</a></li>
 	<li><a href="http://jugglingwithwater.blogspot.com/">jugglingwithwater</a></li>
+	<li><a href="http://jumblestyleblog.com/">Jumble Style | Brighton Style &amp; Lifestyle Blog</a></li>
 	<li><a href="https://justanotherpebble.wordpress.com/">Just Another Pebble</a></li>
 	<li><a href="http://justseventhings.com/">Just Seven Things</a></li>
 	<li><a href="http://justwritebrighton.wordpress.com/">Just Write - meet your muse</a></li> 
@@ -311,6 +313,7 @@
 	<li><a href="http://ladylovesfashion.wordpress.com">Lady Loves Fashion | The home of all things Fashion</a></li>
 	<li><a href="http://laluminata.wordpress.com/">LA LUMINATA</a></li>
 	<li><a href="http://www.bsw-bs.co.uk/latest-news">Latest News |BSW  - Building Services</a></li>
+	<li><a href="http://leniandme.com/">LENI &amp; ME</a></li>
 	<li><a href="http://life-is-not-a-rollercoaster.co.uk/">life-is-not-a-rollercoaster >> Ronan Keating was wrong</a></li>
 	<li><a href="http://www.martiandaze.net/blog">Life on Mars - @20six.co.uk</a></li>
 	<li><a href="http://www.lillaloves.com">Lilla Loves</a></li>
@@ -351,6 +354,7 @@
 	<li><a href="http://mulethomas.blogspot.com/">Mule Thomas</a></li>
 	<li><a href="http://philgardner.blogspot.com/">Mulled Whines</a></li>
 	<li><a href="http://munkibum.blogspot.com/">Munki about Town</a></li>
+	<li><a href="http://musingsofafashioneditor.blogspot.co.uk/">Musings of a Fashion Editor</a></li>
 	<li><a href="http://www.mygym.co.uk/">My Gym - Fitness Health Nutrition &amp; Training Blog</a></li>
 	<li><a href="http://matt.mbardeen.net/diary/">My Life</a></li>
 	<li><a href="http://www.markbeal.co.uk">My life, Universe and Everything</a></li>
@@ -367,6 +371,7 @@
 	<li><a href="http://stylishshopper.co.uk/category/notebook/">Notebook | Personal Shopping for Brighton &amp; Hove - Stylish Shopper</a></li>
 	<li><a href="http://justinpickard.net/">Nostalgia for the Future</a></li>
 	<li><a href="http://no-ta.blogspot.com/">No Ta - NONE OF THE ABOVE</a></li>
+	<li><a href="http://www.ohheythere.co.uk/">Oh Hey There Hair!</a></li>
 	<li><a href="http://www.oneidea.co.uk/">One idea</a></li>
 	<li><a href="http://themonkeytypes.blogspot.com/">One Monkey, One Typewriter</a></li>
 	<li><a href="http://oneworldcamping.com/">One World Camping | Camping around the World</a></li>
@@ -421,6 +426,7 @@
 	<li><a href="http://seansimsillustration.blogspot.com/">Sean Sims</a></li>
 	<li><a href="http://www.blogboz.co.uk/">Search Optimisation Brighton</a></li>
 	<li><a href="http://www.theseasidescribbler.blogspot.com/">Seaside Scribbler</a></li>
+	<li><a href="http://www.seeninthecity.co.uk/">Seen in the City<a/></li>
 	<li><a href="http://www.seobrighton.com">SEO Brighton ~ Affordable SEO Services</a></li>
 	<li><a href="http://seratone.blogspot.com/">Seratone</a></li>
 	<li><a href="http://www.sewrecycled.blogspot.com/">Sew Recycled!</a></li>
@@ -436,6 +442,7 @@
 	<li><a href="http://sittingsnug.blogspot.com/">Sitting snug</a></li>
 	<li><a href="http://lauradinneen.com/">Social Media Shizzle</a></li>
 	<li><a href="http://www.solgilbert.com/">Sol 'Zero Tolerance' Gilbert</a></li>
+	<li><a href="http://soulofthecitychoir.com/?page_id=1347">Soul of the City choir</a></li>
 	<li><a href="http://sourcebottle.net/">Source Bottle</a></li>
 	<li><a href="http://sourmangopowder.blogspot.com/">Sour Mango Powder</a></li>
 	<li><a href="http://sozowhatdoyouknow.blogspot.co.uk">So, Zo...</a></li>
@@ -560,6 +567,7 @@
 	<li><a href="http://www.yogajenny.com/">Yoga Jenny</a></li>
 	<li><a href="http://youcantakeherhomenow.blogspot.com/">You can take her home now</a></li>
 	<li><a href="http://www.ohyesindeed.blogspot.com/">Youth Equipped to Serve(Oh, Yes)</a></li>
+	<li><a href="http://yummyveganramblings.com/">Yummy Vegan Ramblings</a></li>
 	<li><a href="http://www.yummy-wakame.com/weblog/">Yummy Wakame</a> - now mainly in Pittsburgh, Pennsylvania</li>
 	<li><a href="http://www.zenbullets.com/blog/">Zenbullets</a></li>
 	<li><a href="http://blog.zhooshbrighton.co.uk/">Zhoosh Blog - LGBTQ Community Network for Brighton &amp; Hove</a></li>
