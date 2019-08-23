@@ -1,5 +1,5 @@
 body {
-	background-image: url("http://www.brightonbloggers.com/images/background.gif");
+	background-image: url("/images/background.gif");
 	margin: 5% 7%;
 }
 
@@ -7,7 +7,7 @@ body {
 	background-color: #fff;
 	color: #333;
 	border: 1px solid #345;
-	background-image: url("http://www.brightonbloggers.com/images/stones.jpg");
+	background-image: url("/images/stones.jpg");
 	background-repeat: repeat-x;
 	background-position: bottom;
 	margin: 0;
@@ -30,7 +30,6 @@ body {
 #masthead {
 	color: #fff;
 	background-color: #369;
-	background-image: url("http://www.brightonbloggers.com/includes/randomimage.php");
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	height: 180px;
@@ -41,7 +40,7 @@ body {
 	width: 322px;
 	margin: 0;
 	padding: 0;
-	background-image: url("http://www.brightonbloggers.com/images/logo_grunge.gif");
+	background-image: url("/images/logo_grunge.gif");
 	background-repeat: no-repeat;
 	background-position: bottom left;
 }
